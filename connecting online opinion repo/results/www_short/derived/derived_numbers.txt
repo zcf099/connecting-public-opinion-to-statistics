@@ -1,0 +1,84 @@
+== 1. Archived urban-statistics model of C (R2 0.805), outcome-side split
+                                      C  U_share  V_normalized  W_interaction  hc3_q_bh
+urban land area_sq mi             0.581    0.361         0.185          0.036     0.048
+urban_pop_den_sq mi               0.617    0.449         0.084          0.084     0.093
+poverty rate                      0.360    0.281         0.207         -0.127     0.299
+median household income           0.301    0.352         0.116         -0.167     0.330
+commute_%carpool                  0.131    0.309        -0.213          0.035     0.367
+commute_%drive                    0.602    0.426         0.218         -0.042     0.088
+%home ownership                  -0.007   -0.073         0.064          0.002     0.973
+Black_White income inequality     0.235    0.317        -0.096          0.014     0.310
+Hispanic_White income inequality -0.138   -0.166         0.043         -0.016     0.330
+Driving Score                    -0.276   -0.204        -0.073          0.001     0.299
+Walking Score                     0.367    0.271         0.099         -0.003     0.299
+
+Adjusted coefficients (HC3 q < .10) by outcome, urban-statistics model:
+  archived_composite     R2 0.805: urban land area_sq mi +0.581 (q 0.048); urban_pop_den_sq mi +0.617 (q 0.093); commute_%drive +0.602 (q 0.088)
+  normalized_composite   R2 0.785: commute_%carpool -0.539 (q 0.001)
+  equal_pairwise_mean    R2 0.836: commute_%carpool -0.470 (q 0.000)
+  d_black_white          R2 0.843: commute_%carpool -0.635 (q 0.000)
+  d_hispanic_white       R2 0.711: Hispanic_White income inequality -0.570 (q 0.003)
+  d_asian_white          R2 0.515: 
+
+== 2. 12-domain models of C: R2 and adjusted R2 by design
+                        r_squared  adjusted_r_squared
+design                                               
+a_mean_fill                 0.573               0.368
+a_zero_fill (original)      0.545               0.327
+composition_mean_fill       0.116              -0.308
+tone_mean_fill              0.442               0.173
+Pairwise-D outcomes, smallest HC3 q by design:
+design
+a_mean_fill               0.269
+a_zero_fill (original)    0.286
+composition_mean_fill     0.860
+tone_mean_fill            0.328
+Smallest HC3 q over all pairwise-D designs: 0.269
+
+== 3. Single-domain grid: 864 focal coefficients in 72 families; 9 pass BH in 9 families
+             outcome       focal_domain      signal                    controls   beta  hc3_q_bh
+  archived_composite Economy and Income a_available                  none+log_s -0.532     0.040
+normalized_composite           Policing a_available        density_income+log_s  0.411     0.026
+normalized_composite     Social Problem a_zero_fill                  none+log_s -0.493     0.005
+ equal_pairwise_mean     Social Problem a_zero_fill                  none+log_s -0.452     0.013
+normalized_composite     Social Problem a_zero_fill        density_income+log_s -0.448     0.008
+  archived_composite     Social Problem a_zero_fill density_income_shares+log_s -0.115     0.004
+normalized_composite     Social Problem a_zero_fill density_income_shares+log_s -0.414     0.004
+  archived_composite Economy and Income        tone                  none+log_s -0.512     0.014
+  archived_composite          Governing        tone        density_income+log_s -0.356     0.032
+Permutation expectation of families with >=1 BH hit (6 outcomes per row): 4.19 to 5.52 of 72
+
+== 4. Public Transportation across 37 cities with a score
+r(a, comp) 0.870; r(a, tone) 0.254; r(tone, comp) -0.257; r(comp, n) -0.676; r(a, n) -0.618
+SD a 0.260, SD comp 0.261, SD tone (uncorrected) 0.133
+Median dictionary size, all 38 cities: 381
+  transit         baseline +0.756, retained in 35 cities, median dictionary size there 390
+  transportation  baseline +0.688, retained in 34 cities, median dictionary size there 430
+  commute         baseline +0.265, retained in 33 cities, median dictionary size there 471
+  light rail      baseline -0.898, retained in 16 cities, median dictionary size there 584
+  commuter rail   baseline -1.127, retained in 16 cities, median dictionary size there 762
+
+== 5. RQ2 partial correlations passing BH (q < .05), 132-test families
+  main: n pearson 2, n spearman 2, tone spearman 2 (total 6)
+signal   method             domain                     indicator  partial_r  q_bh
+  tone spearman          Education Black_White income inequality      0.595 0.017
+  tone spearman       Neighborhood                 Walking Score     -0.553 0.031
+     n  pearson Economy and Income                 Walking Score      0.575 0.032
+     n  pearson          Governing                 Walking Score      0.536 0.050
+     n spearman     Social Problem         urban land area_sq mi     -0.567 0.021
+     n spearman     Social Problem                 Walking Score      0.580 0.021
+  screened: n pearson 5, n spearman 6, tone spearman 2 (total 13)
+signal   method                     domain                     indicator  partial_r  q_bh
+  tone spearman                  Education Black_White income inequality      0.595 0.017
+  tone spearman               Neighborhood                 Walking Score     -0.564 0.023
+     n  pearson         Economy and Income                commute_%drive     -0.544 0.020
+     n  pearson         Economy and Income                 Walking Score      0.597 0.016
+     n  pearson Race/Immigration Discourse                commute_%drive     -0.503 0.047
+     n  pearson                  Governing                commute_%drive     -0.570 0.016
+     n  pearson                  Governing                 Walking Score      0.562 0.016
+     n spearman         Economy and Income                 Walking Score      0.508 0.035
+     n spearman             Social Problem         urban land area_sq mi     -0.538 0.035
+     n spearman             Social Problem           urban_pop_den_sq mi      0.508 0.035
+     n spearman             Social Problem                 Walking Score      0.521 0.035
+     n spearman                  Governing                commute_%drive     -0.526 0.035
+     n spearman                  Governing                 Walking Score      0.540 0.035

@@ -1,0 +1,28 @@
+model,term,beta_full,beta_min,beta_max,sign_consistent,omissions
+12-domain | a_mean_fill,Public Transportation,-0.335248639124,-0.406041833332,-0.270500432994,38,38
+12-domain | a_mean_fill,Driving and Traffic,-0.306070880304,-0.390502453595,-0.262026426165,38,38
+12-domain | a_mean_fill,Social Problem,-0.432160765111,-0.49120005916,-0.389550150473,38,38
+12-domain | tone_mean_fill,Public Transportation,0.0632057833043,-0.0442212484741,0.171191688035,36,38
+12-domain | tone_mean_fill,Driving and Traffic,0.030329624303,-0.0638205712179,0.0997342676536,35,38
+12-domain | tone_mean_fill,Social Problem,-0.22842689512,-0.33835451344,-0.180796926553,38,38
+12-domain | composition_mean_fill,Public Transportation,-0.310530112705,-0.461980805972,-0.206578675916,38,38
+12-domain | composition_mean_fill,Driving and Traffic,-0.148916902654,-0.684035382255,-0.0419783087411,38,38
+12-domain | composition_mean_fill,Social Problem,0.019312656129,-0.111621561446,0.0840755242668,27,38
+single-domain | a_available | none+log_s,Public Transportation,-0.17866018676,-0.341807462133,-0.103393529771,37,37
+single-domain | a_available | density_income+log_s,Public Transportation,-0.127150705252,-0.269304536282,-0.0432907961042,37,37
+single-domain | a_available | density_income_shares+log_s,Public Transportation,-0.0415686920545,-0.0661052218116,-0.0200041294765,37,37
+single-domain | tone | none+log_s,Public Transportation,0.0197290242192,-0.0881519421827,0.152830368401,30,37
+single-domain | tone | density_income+log_s,Public Transportation,0.246243043348,0.185756925183,0.294785642241,37,37
+single-domain | tone | density_income_shares+log_s,Public Transportation,-0.0288431538859,-0.0516946525228,-0.0153402699086,37,37
+single-domain | coverage_n | none+log_s,Public Transportation,0.241269631686,0.0832103184274,0.498066754479,38,38
+single-domain | coverage_n | density_income+log_s,Public Transportation,0.405378593448,0.218185069984,0.627522441886,38,38
+single-domain | coverage_n | density_income_shares+log_s,Public Transportation,0.0644566367398,0.00304813834244,0.152888069936,38,38
+single-domain | a_available | none+log_s,Driving and Traffic,-0.153067413233,-0.468572232619,-0.0679083355791,38,38
+single-domain | a_available | density_income+log_s,Driving and Traffic,-0.0358062874943,-0.305000956874,0.0120240694648,37,38
+single-domain | a_available | density_income_shares+log_s,Driving and Traffic,0.0368710378698,0.00539457193171,0.054998267606,38,38
+single-domain | tone | none+log_s,Driving and Traffic,-0.134511814856,-0.170925772252,-0.0556355536251,38,38
+single-domain | tone | density_income+log_s,Driving and Traffic,-0.0699642581091,-0.124396949118,-0.0289676821269,38,38
+single-domain | tone | density_income_shares+log_s,Driving and Traffic,0.019151585848,0.00156944245343,0.0658992005737,38,38
+single-domain | coverage_n | none+log_s,Driving and Traffic,-0.045358558925,-0.137345097456,0.0732815365458,35,38
+single-domain | coverage_n | density_income+log_s,Driving and Traffic,0.166153255287,0.0808241865188,0.271675637119,38,38
+single-domain | coverage_n | density_income_shares+log_s,Driving and Traffic,0.155791972805,0.0783872233661,0.216118722911,38,38

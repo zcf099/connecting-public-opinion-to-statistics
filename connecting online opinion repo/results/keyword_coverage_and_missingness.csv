@@ -1,0 +1,481 @@
+city,group,published_sample,listed_keywords,available_keywords,score,missing_extraction,available_keyword_list
+NYC,Public Transportation,True,22,12,-0.0390359025979,False,bus|buses|commuter rail|mta|commute|train|trains|subway|transport|transportation|transit|transit system
+NYC,Driving and Traffic,True,11,7,-0.0959805686306,False,drivers|driving|traffic|parking|distance|direction|vehicle
+NYC,Economy and Income,True,13,10,0.107314602902,False,prices|economy|economies|income|investment|revenue|salary|taxes|tax|salaries
+NYC,Education,True,5,3,0.297349626464,False,school|schools|school system
+NYC,Culture and Art,True,7,3,0.57650273224,False,culture|museum|museums
+NYC,Race/Immigration Discourse,True,13,11,-0.375443883108,False,hate crime|foreigners|asians|blacks|immigrant|diversity|racism|racist|racists|majority|minority
+NYC,Recreation,True,14,2,0.803884711779,False,parks|food
+NYC,Social Problem,True,20,8,-0.688760419258,False,crime|gun crime|firearms|criminals|guns|homeless|weed|violence
+NYC,Governing,True,15,11,-0.113940606978,False,cuomo|mayor|government|governor|law|laws|rules|policy|policies|regulations|healthcare
+NYC,Policing,True,8,7,-0.544393342146,False,cops|police|speed limit|speed limits|justice|enforcement|nypd
+NYC,Neighborhood,True,5,5,0.0103512222678,False,neighbors|neighborhoods|residents|environment|resources
+NYC,City Development,True,12,10,0.0940380403606,False,business|planning|market|markets|growth|industry|construction|development|city limits|infrastructure
+Los Angeles,Public Transportation,True,22,4,0.125523487812,False,commute|train|transportation|transit
+Los Angeles,Driving and Traffic,True,11,6,0.0716473640738,False,drivers|driving|traffic|parking|distance|direction
+Los Angeles,Economy and Income,True,13,4,0.250694444444,False,prices|economy|investment|revenue
+Los Angeles,Education,True,5,2,0.459703947368,False,school|schools
+Los Angeles,Culture and Art,True,7,2,0.520202020202,False,culture|movie
+Los Angeles,Race/Immigration Discourse,True,13,0,,True,
+Los Angeles,Recreation,True,14,1,0.948818897638,False,food
+Los Angeles,Social Problem,True,20,3,-0.698280885781,False,crime|drug addicts|homeless
+Los Angeles,Governing,True,15,5,-0.331371961372,False,law|laws|policy|policies|regulations
+Los Angeles,Policing,True,8,1,-1,False,speed limit
+Los Angeles,Neighborhood,True,5,4,0.0661945812808,False,neighborhoods|residents|environment|resources
+Los Angeles,City Development,True,12,8,0.031459233491,False,business|planning|market|growth|industry|development|city limits|infrastructure
+Chicago,Public Transportation,True,22,7,0.227659741053,False,commuter rail|commute|train|trains|transport|transportation|transit
+Chicago,Driving and Traffic,True,11,7,0.0395417714217,False,drivers|driving|traffic|parking|distance|direction|parking lot
+Chicago,Economy and Income,True,13,8,0.267204878921,False,prices|economy|income|investment|revenue|salary|taxes|tax
+Chicago,Education,True,5,3,0.790190938925,False,school|schools|university
+Chicago,Culture and Art,True,7,4,0.497867803838,False,culture|museum|museums|movie
+Chicago,Race/Immigration Discourse,True,13,6,-0.277200577201,False,hate crime|blacks|diversity|race|racism|majority
+Chicago,Recreation,True,14,6,0.563355238315,False,clubs|parks|sports|fans|food|foods
+Chicago,Social Problem,True,20,10,-0.891093114062,False,crime|crime problem|gun crime|criminals|drugs|guns|weed|violence|violence problem|police brutality
+Chicago,Governing,True,15,11,-0.240797596874,False,mayor|government|officers|law|laws|rules|policy|policies|regulations|property taxes|taxation
+Chicago,Policing,True,8,7,-0.594813588306,False,cops|police|speed limit|speed limits|justice|enforcement|policing
+Chicago,Neighborhood,True,5,5,-0.0596578644141,False,neighbors|neighborhoods|residents|environment|resources
+Chicago,City Development,True,12,9,-0.0166665241882,False,business|planning|market|markets|growth|industry|development|city limits|infrastructure
+Dallas,Public Transportation,True,22,6,-0.157708304767,False,commuter rail|dart rail|commute|light rail|transportation|transit
+Dallas,Driving and Traffic,True,11,8,-0.0117953162755,False,drivers|driving|traffic|parking|distance|direction|highway|highways
+Dallas,Economy and Income,True,13,4,0.493333333333,False,prices|economy|investment|taxes
+Dallas,Education,True,5,2,0.826297300629,False,school|schools
+Dallas,Culture and Art,True,7,3,0.808859721083,False,culture|museum|museums
+Dallas,Race/Immigration Discourse,True,13,1,-1.23076923077,False,immigrant
+Dallas,Recreation,True,14,8,0.586601291773,False,nightlife|clubs|parks|sports|fans|golf|food|foods
+Dallas,Social Problem,True,20,2,-0.88,False,crime|road rage
+Dallas,Governing,True,15,6,-0.470388517543,False,government|officers|law|laws|rules|policies
+Dallas,Policing,True,8,4,-0.547007159507,False,cops|police|speed limit|speed limits
+Dallas,Neighborhood,True,5,5,0.252357206788,False,neighbors|neighborhoods|residents|environment|resources
+Dallas,City Development,True,12,9,0.057776380693,False,business|planning|market|markets|growth|construction|development|city limits|infrastructure
+Houston,Public Transportation,True,22,8,-0.205194923317,False,commuter rail|commute|light rail|train|metro rail|transport|transportation|transit
+Houston,Driving and Traffic,True,11,8,0.103284030945,False,drivers|driving|traffic|parking|distance|direction|vehicle|highways
+Houston,Economy and Income,True,13,5,0.430669330669,False,prices|economy|income|investment|tax
+Houston,Education,True,5,2,0.832386363636,False,school|schools
+Houston,Culture and Art,True,7,5,0.730759064189,False,concerts|culture|museum|museums|movie
+Houston,Race/Immigration Discourse,True,13,2,-0.121517027864,False,diversity|majority
+Houston,Recreation,True,14,5,0.298783230577,False,parks|sports|fans|fan|food
+Houston,Social Problem,True,20,3,-1.0422280168,False,crime|property crime|road rage
+Houston,Governing,True,15,6,-0.353903903904,False,government|law|laws|rules|policy|policies
+Houston,Policing,True,8,6,-0.457033000816,False,cops|police|speed limit|speed limits|justice|enforcement
+Houston,Neighborhood,True,5,5,0.345432895685,False,neighbors|neighborhoods|residents|environment|resources
+Houston,City Development,True,12,10,0.0383538201204,False,business|planning|market|markets|growth|industry|construction|development|city limits|infrastructure
+Washington,Public Transportation,False,22,0,,True,
+Washington,Driving and Traffic,False,11,2,0,False,traffic|parking
+Washington,Economy and Income,False,13,0,,True,
+Washington,Education,False,5,1,0.681818181818,False,schools
+Washington,Culture and Art,False,7,2,0.812820512821,False,museum|museums
+Washington,Race/Immigration Discourse,False,13,0,,True,
+Washington,Recreation,False,14,1,0.866666666667,False,food
+Washington,Social Problem,False,20,0,,True,
+Washington,Governing,False,15,1,-0.0769230769231,False,government
+Washington,Policing,False,8,0,,True,
+Washington,Neighborhood,False,5,2,-0.12012987013,False,neighborhoods|residents
+Washington,City Development,False,12,1,0.545454545455,False,market
+Miami,Public Transportation,True,22,6,0.231521396437,False,bus|commute|metro rail|transport|transportation|transit
+Miami,Driving and Traffic,True,11,5,-0.266776621689,False,drivers|driving|traffic|parking|direction
+Miami,Economy and Income,True,13,4,0.37225877193,False,prices|economy|income|salary
+Miami,Education,True,5,2,1.0031512605,False,school|schools
+Miami,Culture and Art,True,7,2,0.388288288288,False,culture|museum
+Miami,Race/Immigration Discourse,True,13,1,-0.181818181818,False,majority
+Miami,Recreation,True,14,4,0.74978672731,False,nightlife|clubs|parks|food
+Miami,Social Problem,True,20,1,-0.947368421053,False,crime
+Miami,Governing,True,15,4,-0.61988011988,False,government|law|laws|rules
+Miami,Policing,True,8,1,-0.904761904762,False,speed limit
+Miami,Neighborhood,True,5,1,0.318681318681,False,neighborhoods
+Miami,City Development,True,12,7,-0.0877110984254,False,business|planning|market|industry|development|city limits|infrastructure
+Philadelphia,Public Transportation,True,22,3,0.636147186147,False,commute|transportation|transit
+Philadelphia,Driving and Traffic,True,11,5,-0.0873015873016,False,drivers|driving|traffic|parking|direction
+Philadelphia,Economy and Income,True,13,7,-0.0569037111412,False,prices|economy|income|investment|revenue|taxes|tax
+Philadelphia,Education,True,5,2,0.633932217232,False,school|schools
+Philadelphia,Culture and Art,True,7,3,0.581541218638,False,culture|museum|museums
+Philadelphia,Race/Immigration Discourse,True,13,1,-0.583333333333,False,majority
+Philadelphia,Recreation,True,14,3,0.512261904762,False,parks|fans|food
+Philadelphia,Social Problem,True,20,3,-0.751643727536,False,crime|criminals|violence
+Philadelphia,Governing,True,15,7,-0.420444862155,False,mayor|government|law|laws|rules|policy|policies
+Philadelphia,Policing,True,8,5,-0.75158492823,False,cops|police|speed limit|justice|enforcement
+Philadelphia,Neighborhood,True,5,5,0.22654684879,False,neighbors|neighborhoods|residents|environment|resources
+Philadelphia,City Development,True,12,6,-0.0233636167204,False,business|market|growth|development|city limits|infrastructure
+Atlanta,Public Transportation,True,22,13,-0.0589570826881,False,bus|buses|commuter rail|commute|light rail|train|trains|marta|marta rail|metro|transportation|transit|transit system
+Atlanta,Driving and Traffic,True,11,7,0.0663182127797,False,drivers|driving|traffic|parking|distance|direction|vehicle
+Atlanta,Economy and Income,True,13,8,0.29609204194,False,prices|economy|income|investment|revenue|salary|taxes|tax
+Atlanta,Education,True,5,2,0.870702754036,False,school|schools
+Atlanta,Culture and Art,True,7,4,0.692045454545,False,concerts|culture|museum|movie
+Atlanta,Race/Immigration Discourse,True,13,4,-0.104778554779,False,blacks|diversity|racism|majority
+Atlanta,Recreation,True,14,9,0.485302939751,False,nightlife|clubs|parks|sports|sport|fans|fan|baseball|food
+Atlanta,Social Problem,True,20,3,-0.998102139406,False,crime|property crime|road rage
+Atlanta,Governing,True,15,7,-0.366891815339,False,government|officers|law|laws|rules|policy|policies
+Atlanta,Policing,True,8,5,-0.475818789054,False,cops|police|speed limit|speed limits|enforcement
+Atlanta,Neighborhood,True,5,5,0.421476328869,False,neighbors|neighborhoods|residents|environment|resources
+Atlanta,City Development,True,12,11,0.250618510084,False,business|planning|market|markets|growth|expansion|industry|construction|development|city limits|infrastructure
+Phoenix,Public Transportation,True,22,4,0.196742424242,False,commute|light rail|transportation|transit
+Phoenix,Driving and Traffic,True,11,7,0.185057745317,False,drivers|driving|traffic|parking|distance|direction|vehicle
+Phoenix,Economy and Income,True,13,1,0.309523809524,False,prices
+Phoenix,Education,True,5,2,0.845722483046,False,school|schools
+Phoenix,Culture and Art,True,7,3,0.735197368421,False,culture|museum|museums
+Phoenix,Race/Immigration Discourse,True,13,0,,True,
+Phoenix,Recreation,True,14,4,0.923930921053,False,nightlife|clubs|parks|food
+Phoenix,Social Problem,True,20,1,-0.541666666667,False,crime
+Phoenix,Governing,True,15,3,-0.392197840474,False,law|laws|rules
+Phoenix,Policing,True,8,2,-1.03837555887,False,speed limit|speed limits
+Phoenix,Neighborhood,True,5,4,0.545776833461,False,neighbors|neighborhoods|environment|resources
+Phoenix,City Development,True,12,4,0.0714424464424,False,business|market|city limits|infrastructure
+Boston,Public Transportation,True,22,9,0.161708539267,False,bus|buses|commuter rail|commute|train|trains|transport|transportation|transit
+Boston,Driving and Traffic,True,11,7,-0.0786559860611,False,drivers|driving|traffic|parking|distance|direction|highway
+Boston,Economy and Income,True,13,8,0.322986089708,False,prices|economy|income|investment|revenue|salary|taxes|tax
+Boston,Education,True,5,4,0.615628338269,False,school|schools|university|colleges
+Boston,Culture and Art,True,7,4,0.706238244514,False,culture|museum|museums|movie
+Boston,Race/Immigration Discourse,True,13,5,-0.0969696969697,False,foreigners|race|racism|racist|majority
+Boston,Recreation,True,14,8,0.403296744893,False,nightlife|clubs|parks|sports|fans|fan|food|foods
+Boston,Social Problem,True,20,5,-0.793759181994,False,crime|road rage|weed|violence|police brutality
+Boston,Governing,True,15,9,-0.192862432518,False,mayor|government|law|laws|rules|policy|policies|regulations|healthcare
+Boston,Policing,True,8,5,-0.673701298701,False,cops|police|speed limit|speed limits|justice
+Boston,Neighborhood,True,5,5,0.191644525101,False,neighbors|neighborhoods|residents|environment|resources
+Boston,City Development,True,12,12,0.213216263631,False,business|building boom|planning|market|markets|growth|expansion|industry|construction|development|city limits|infrastructure
+San Francisco,Public Transportation,True,22,5,0.373404889684,False,bus|buses|commute|transportation|transit
+San Francisco,Driving and Traffic,True,11,4,0.0802548900375,False,drivers|traffic|parking|direction
+San Francisco,Economy and Income,True,13,8,0.181775437456,False,prices|economy|income|investment|revenue|salary|taxes|tax
+San Francisco,Education,True,5,1,0.586206896552,False,schools
+San Francisco,Culture and Art,True,7,1,0.0925925925926,False,culture
+San Francisco,Race/Immigration Discourse,True,13,3,-0.332638888889,False,immigrant|diversity|majority
+San Francisco,Recreation,True,14,2,0.816912972085,False,parks|food
+San Francisco,Social Problem,True,20,6,-0.764351166905,False,crime|criminals|drug addicts|drugs|homeless|property crime
+San Francisco,Governing,True,15,9,-0.296694013468,False,mayor|government|law|laws|rent control|rules|policy|policies|regulations
+San Francisco,Policing,True,8,3,-0.459706959707,False,cops|police|justice
+San Francisco,Neighborhood,True,5,5,-0.105681098278,False,neighbors|neighborhoods|residents|environment|resources
+San Francisco,City Development,True,12,10,0.0517394622921,False,business|planning|market|markets|growth|industry|construction|development|city limits|infrastructure
+Detroit,Public Transportation,True,22,8,0.260654973788,False,bus|buses|commuter rail|commute|metro|transportation|transit|transit system
+Detroit,Driving and Traffic,True,11,7,0.318127090253,False,drivers|driving|traffic|parking|distance|direction|vehicle
+Detroit,Economy and Income,True,13,8,0.304999091144,False,prices|economy|investment|investments|salary|taxes|tax|capital
+Detroit,Education,True,5,2,0.718502415459,False,school|schools
+Detroit,Culture and Art,True,7,3,0.829787234043,False,culture|museum|museums
+Detroit,Race/Immigration Discourse,True,13,5,0.0964793271245,False,blacks|diversity|race|racism|majority
+Detroit,Recreation,True,14,6,0.736622188364,False,nightlife|parks|sports|fans|food|foods
+Detroit,Social Problem,True,20,2,-0.949309749784,False,crime|property crime
+Detroit,Governing,True,15,7,-0.390730813857,False,mayor|government|officers|law|laws|rules|policies
+Detroit,Policing,True,8,2,-0.0909090909091,False,cops|police
+Detroit,Neighborhood,True,5,5,0.183059608608,False,neighbors|neighborhoods|residents|environment|resources
+Detroit,City Development,True,12,10,0.210718162273,False,business|planning|market|markets|growth|industry|construction|development|city limits|infrastructure
+Seattle,Public Transportation,True,22,15,0.202060272572,False,bus|buses|bus system|commuter rail|commute|light rail|train|trains|subway|transport|transportation|transit|transit system|ferry|commuters
+Seattle,Driving and Traffic,True,11,7,0.0420429500482,False,drivers|driving|traffic|parking|distance|direction|vehicle
+Seattle,Economy and Income,True,13,11,0.268721312231,False,prices|economy|economies|income|investment|revenue|salary|taxes|tax|salaries|capital gains
+Seattle,Education,True,5,2,0.870038412292,False,school|schools
+Seattle,Culture and Art,True,7,3,0.568031430935,False,culture|museum|museums
+Seattle,Race/Immigration Discourse,True,13,6,-0.437841162106,False,hate crime|diversity|racism|inequality|majority|minority
+Seattle,Recreation,True,14,8,0.487220020135,False,nightlife|clubs|parks|sports|fans|franchise|food|foods
+Seattle,Social Problem,True,20,10,-0.767598129598,False,crime|criminals|drug addicts|drugs|homeless|property crime|road rage|weed|violence|police brutality
+Seattle,Governing,True,15,10,-0.215937313405,False,mayor|government|officers|law|laws|rent control|rules|policy|policies|regulations
+Seattle,Policing,True,8,5,-0.771166666667,False,cops|police|speed limit|speed limits|justice
+Seattle,Neighborhood,True,5,5,0.274219222764,False,neighbors|neighborhoods|residents|environment|resources
+Seattle,City Development,True,12,11,0.111076043171,False,business|planning|market|markets|growth|expansion|industry|construction|development|city limits|infrastructure
+Minneapolis,Public Transportation,True,22,5,0.144621212121,False,buses|commute|light rail|transportation|transit
+Minneapolis,Driving and Traffic,True,11,5,0.110870610871,False,drivers|traffic|parking|distance|direction
+Minneapolis,Economy and Income,True,13,2,0.782732447818,False,prices|economy
+Minneapolis,Education,True,5,2,0.798319327731,False,school|schools
+Minneapolis,Culture and Art,True,7,2,0.645604395604,False,culture|museum
+Minneapolis,Race/Immigration Discourse,True,13,2,-0.215909090909,False,racism|majority
+Minneapolis,Recreation,True,14,2,1.06115238928,False,parks|food
+Minneapolis,Social Problem,True,20,1,-0.921052631579,False,crime
+Minneapolis,Governing,True,15,5,-0.296234817814,False,mayor|law|laws|policy|policies
+Minneapolis,Policing,True,8,3,-0.772222222222,False,cops|police|speed limit
+Minneapolis,Neighborhood,True,5,4,0.299468954248,False,neighbors|neighborhoods|residents|environment
+Minneapolis,City Development,True,12,5,0.0951394841717,False,business|market|development|city limits|infrastructure
+San Diego,Public Transportation,True,22,4,0.481787330317,False,bus|commute|transportation|transit
+San Diego,Driving and Traffic,True,11,6,-0.0530267146646,False,drivers|driving|traffic|parking|distance|direction
+San Diego,Economy and Income,True,13,6,0.20907870724,False,prices|economy|income|investment|revenue|tax
+San Diego,Education,True,5,2,0.918074324324,False,school|schools
+San Diego,Culture and Art,True,7,4,0.788898601399,False,culture|museum|museums|movie
+San Diego,Race/Immigration Discourse,True,13,1,0.333333333333,False,majority
+San Diego,Recreation,True,14,9,0.315521019377,False,clubs|parks|sports|sport|fans|fan|football|franchise|food
+San Diego,Social Problem,True,20,3,-0.884259259259,False,crime|homeless|road rage
+San Diego,Governing,True,15,6,-0.525051734382,False,government|law|laws|rules|policy|policies
+San Diego,Policing,True,8,1,-1.15384615385,False,speed limit
+San Diego,Neighborhood,True,5,5,0.196633839291,False,neighbors|neighborhoods|residents|environment|resources
+San Diego,City Development,True,12,10,0.12931826911,False,business|market|markets|growth|expansion|industry|construction|development|city limits|infrastructure
+Tampa,Public Transportation,True,22,4,0.152759009009,False,commuter rail|commute|transportation|transit
+Tampa,Driving and Traffic,True,11,6,0.147160947712,False,drivers|driving|traffic|parking|distance|direction
+Tampa,Economy and Income,True,13,2,0.677220394737,False,prices|investment
+Tampa,Education,True,5,2,1.12757034632,False,school|schools
+Tampa,Culture and Art,True,7,3,0.419306184012,False,concerts|culture|movie
+Tampa,Race/Immigration Discourse,True,13,0,,True,
+Tampa,Recreation,True,14,4,0.893753006253,False,nightlife|clubs|parks|food
+Tampa,Social Problem,True,20,0,,True,
+Tampa,Governing,True,15,2,-0.715144230769,False,law|rules
+Tampa,Policing,True,8,1,-1.13636363636,False,speed limit
+Tampa,Neighborhood,True,5,3,0.506162464986,False,neighbors|neighborhoods|environment
+Tampa,City Development,True,12,5,0.0645055503215,False,planning|market|growth|city limits|infrastructure
+Denver,Public Transportation,True,22,8,0.0182129765136,False,bus|commuter rail|commute|light rail|train|transport|transportation|transit
+Denver,Driving and Traffic,True,11,7,0.125882219844,False,drivers|driving|traffic|parking|distance|direction|vehicle
+Denver,Economy and Income,True,13,8,0.276630055866,False,prices|economy|income|investment|revenue|salary|taxes|tax
+Denver,Education,True,5,2,0.854292790314,False,school|schools
+Denver,Culture and Art,True,7,3,0.687121762285,False,culture|museum|museums
+Denver,Race/Immigration Discourse,True,13,3,-0.187311713628,False,diversity|race|majority
+Denver,Recreation,True,14,6,0.745035520621,False,nightlife|clubs|parks|sports|skiing|food
+Denver,Social Problem,True,20,7,-0.645617435286,False,crime|criminals|drug addicts|homeless|road rage|weed|police brutality
+Denver,Governing,True,15,7,-0.430700418548,False,government|law|laws|rules|policy|policies|regulations
+Denver,Policing,True,8,5,-0.861043741737,False,cops|police|speed limit|speed limits|enforcement
+Denver,Neighborhood,True,5,5,0.373767641129,False,neighbors|neighborhoods|residents|environment|resources
+Denver,City Development,True,12,10,0.136126141581,False,business|planning|market|markets|growth|industry|construction|development|city limits|infrastructure
+St. Louis,Public Transportation,True,22,3,0.459694989107,False,commute|transportation|transit
+St. Louis,Driving and Traffic,True,11,5,-0.0233053221289,False,drivers|driving|traffic|parking|direction
+St. Louis,Economy and Income,True,13,5,0.348148148148,False,prices|economy|investment|revenue|tax
+St. Louis,Education,True,5,2,0.923927392739,False,school|schools
+St. Louis,Culture and Art,True,7,3,0.791635288539,False,culture|museum|museums
+St. Louis,Race/Immigration Discourse,True,13,2,-0.75,False,racism|majority
+St. Louis,Recreation,True,14,4,0.507878641125,False,parks|fans|franchise|food
+St. Louis,Social Problem,True,20,3,-0.783015239652,False,crime|crime problem|criminals
+St. Louis,Governing,True,15,5,-0.2443001443,False,government|officers|law|laws|policies
+St. Louis,Policing,True,8,3,-0.391045735873,False,cops|police|justice
+St. Louis,Neighborhood,True,5,5,0.39327689854,False,neighbors|neighborhoods|residents|environment|resources
+St. Louis,City Development,True,12,6,0.21918128655,False,business|market|growth|development|city limits|infrastructure
+Baltimore,Public Transportation,True,22,10,0.227724439397,False,bus|buses|commuter rail|commute|light rail|train|subway|transport|transportation|transit
+Baltimore,Driving and Traffic,True,11,6,0.0512397035835,False,drivers|driving|traffic|parking|distance|direction
+Baltimore,Economy and Income,True,13,8,0.110617670464,False,prices|economy|income|investment|revenue|salary|taxes|tax
+Baltimore,Education,True,5,3,0.0195542472666,False,school|schools|school system
+Baltimore,Culture and Art,True,7,4,0.658855946685,False,concerts|culture|museum|museums
+Baltimore,Race/Immigration Discourse,True,13,6,-0.59023968681,False,blacks|race|racism|racist|racists|majority
+Baltimore,Recreation,True,14,2,0.956241032999,False,parks|food
+Baltimore,Social Problem,True,20,15,-0.871080524364,False,crime|crime problem|gun crime|criminals|drug addicts|drugs|guns|property crime|violence|violence problem|murders|street crime|drug crime|murder|police brutality
+Baltimore,Governing,True,15,11,-0.175877162291,False,mayor|government|officers|governor|law|laws|rules|policy|policies|healthcare|property taxes
+Baltimore,Policing,True,8,7,-0.599698366453,False,cops|police|speed limit|speed limits|justice|enforcement|policing
+Baltimore,Neighborhood,True,5,5,0.0547020404066,False,neighbors|neighborhoods|residents|environment|resources
+Baltimore,City Development,True,12,8,0.195374314785,False,business|market|markets|growth|industry|development|city limits|infrastructure
+Charlotte,Public Transportation,True,22,4,0.212815900316,False,commute|light rail|transportation|transit
+Charlotte,Driving and Traffic,True,11,6,0.0141061165846,False,drivers|driving|traffic|parking|distance|direction
+Charlotte,Economy and Income,True,13,4,0.464649321267,False,prices|economy|investment|taxes
+Charlotte,Education,True,5,2,0.877331002331,False,school|schools
+Charlotte,Culture and Art,True,7,1,0.485714285714,False,culture
+Charlotte,Race/Immigration Discourse,True,13,0,,True,
+Charlotte,Recreation,True,14,2,1.04776665077,False,parks|food
+Charlotte,Social Problem,True,20,1,-0.703703703704,False,crime
+Charlotte,Governing,True,15,3,-0.470490328385,False,mayor|law|laws
+Charlotte,Policing,True,8,1,-0.972972972973,False,speed limit
+Charlotte,Neighborhood,True,5,3,0.577605055552,False,neighborhoods|environment|resources
+Charlotte,City Development,True,12,7,-0.0359068225865,False,business|planning|market|growth|development|city limits|infrastructure
+Orlando,Public Transportation,True,22,2,0.580459770115,False,commute|transportation
+Orlando,Driving and Traffic,True,11,5,-0.283816239316,False,drivers|driving|traffic|parking|direction
+Orlando,Economy and Income,True,13,2,0.489604989605,False,prices|economy
+Orlando,Education,True,5,2,0.996503496503,False,school|schools
+Orlando,Culture and Art,True,7,1,0.5,False,culture
+Orlando,Race/Immigration Discourse,True,13,0,,True,
+Orlando,Recreation,True,14,2,0.905137981118,False,parks|food
+Orlando,Social Problem,True,20,1,-0.65,False,crime
+Orlando,Governing,True,15,0,,True,
+Orlando,Policing,True,8,1,-1.21428571429,False,speed limit
+Orlando,Neighborhood,True,5,2,0.597659402744,False,neighborhoods|environment
+Orlando,City Development,True,12,4,-0.0500303789777,False,business|market|markets|city limits
+San Antonio,Public Transportation,True,22,1,1,False,transportation
+San Antonio,Driving and Traffic,True,11,5,-0.0820202020202,False,drivers|driving|traffic|parking|direction
+San Antonio,Economy and Income,True,13,2,0.426923076923,False,prices|economy
+San Antonio,Education,True,5,2,0.878205128205,False,school|schools
+San Antonio,Culture and Art,True,7,3,0.84595959596,False,culture|museum|museums
+San Antonio,Race/Immigration Discourse,True,13,0,,True,
+San Antonio,Recreation,True,14,2,0.794217687075,False,parks|food
+San Antonio,Social Problem,True,20,1,-1.05263157895,False,crime
+San Antonio,Governing,True,15,1,-0.769230769231,False,law
+San Antonio,Policing,True,8,1,-1.13333333333,False,speed limit
+San Antonio,Neighborhood,True,5,2,0.446428571429,False,neighborhoods|environment
+San Antonio,City Development,True,12,3,-0.111005892256,False,market|city limits|infrastructure
+Portland,Public Transportation,True,22,4,0.362639452333,False,bus|commute|transportation|transit
+Portland,Driving and Traffic,True,11,7,0.0244945875381,False,drivers|driving|traffic|parking|distance|direction|vehicle
+Portland,Economy and Income,True,13,9,0.159609808836,False,prices|economy|income|investment|investments|revenue|salary|taxes|tax
+Portland,Education,True,5,2,0.43053415511,False,school|schools
+Portland,Culture and Art,True,7,1,0.0894736842105,False,culture
+Portland,Race/Immigration Discourse,True,13,2,0.0464743589744,False,racism|majority
+Portland,Recreation,True,14,2,0.814780130293,False,parks|food
+Portland,Social Problem,True,20,10,-0.626561748699,False,crime|criminals|drug addicts|drugs|guns|homeless|property crime|road rage|weed|violence
+Portland,Governing,True,15,11,-0.179008866022,False,mayor|government|officers|law|laws|rent control|rules|policy|policies|regulations|property taxes
+Portland,Policing,True,8,6,-0.547762826028,False,cops|police|speed limit|speed limits|justice|enforcement
+Portland,Neighborhood,True,5,5,0.208148955351,False,neighbors|neighborhoods|residents|environment|resources
+Portland,City Development,True,12,10,0.0619031469564,False,business|planning|market|markets|growth|industry|construction|development|city limits|infrastructure
+Sacramento,Public Transportation,True,22,4,0.150482633446,False,commute|light rail|transportation|transit
+Sacramento,Driving and Traffic,True,11,6,-0.114776546982,False,drivers|driving|traffic|parking|distance|direction
+Sacramento,Economy and Income,True,13,4,0.404166666667,False,prices|economy|investment|taxes
+Sacramento,Education,True,5,2,0.852272727273,False,school|schools
+Sacramento,Culture and Art,True,7,3,0.785612535613,False,culture|museum|movie
+Sacramento,Race/Immigration Discourse,True,13,1,0.2,False,diversity
+Sacramento,Recreation,True,14,2,0.942789968652,False,parks|food
+Sacramento,Social Problem,True,20,2,-0.526988636364,False,crime|homeless
+Sacramento,Governing,True,15,1,-0.705882352941,False,law
+Sacramento,Policing,True,8,1,-1,False,speed limit
+Sacramento,Neighborhood,True,5,3,0.3085033377,False,neighborhoods|environment|resources
+Sacramento,City Development,True,12,7,0.113613666811,False,business|planning|market|growth|development|city limits|infrastructure
+Pittsburgh,Public Transportation,True,22,5,0.0466838001967,False,bus|commute|light rail|transportation|transit
+Pittsburgh,Driving and Traffic,True,11,7,0.0760264797859,False,drivers|driving|traffic|parking|distance|direction|vehicle
+Pittsburgh,Economy and Income,True,13,5,0.260567351262,False,prices|economy|income|investment|taxes
+Pittsburgh,Education,True,5,2,0.666602465331,False,school|schools
+Pittsburgh,Culture and Art,True,7,5,0.644098124098,False,culture|museum|museums|movie|movies
+Pittsburgh,Race/Immigration Discourse,True,13,2,-0.681818181818,False,racism|majority
+Pittsburgh,Recreation,True,14,5,0.379997910586,False,parks|sports|fans|food|foods
+Pittsburgh,Social Problem,True,20,2,-0.830128205128,False,crime|road rage
+Pittsburgh,Governing,True,15,5,-0.185351300549,False,mayor|law|laws|rules|policy
+Pittsburgh,Policing,True,8,4,-0.550066773504,False,police|speed limit|speed limits|enforcement
+Pittsburgh,Neighborhood,True,5,5,0.23618615495,False,neighbors|neighborhoods|residents|environment|resources
+Pittsburgh,City Development,True,12,9,0.0691532740251,False,business|market|markets|growth|industry|construction|development|city limits|infrastructure
+Austin,Public Transportation,True,22,10,0.109465442183,False,bus|buses|commuter rail|commute|light rail|train|metro rail|transport|transportation|transit
+Austin,Driving and Traffic,True,11,8,0.112851087122,False,drivers|driving|traffic|parking|distance|direction|vehicle|ride sharing
+Austin,Economy and Income,True,13,9,0.192815253243,False,prices|economy|income|investment|revenue|salary|taxes|tax|capital
+Austin,Education,True,5,2,0.731988916256,False,school|schools
+Austin,Culture and Art,True,7,3,0.551638795987,False,culture|museums|movies
+Austin,Race/Immigration Discourse,True,13,2,0.35,False,diversity|majority
+Austin,Recreation,True,14,3,0.691081780894,False,parks|sport|food
+Austin,Social Problem,True,20,5,-0.654377104377,False,crime|criminals|homeless|property crime|weed
+Austin,Governing,True,15,8,-0.402676841944,False,government|law|laws|rules|policy|policies|regulations|property taxes
+Austin,Policing,True,8,4,-0.832344295935,False,cops|police|speed limit|speed limits
+Austin,Neighborhood,True,5,5,0.316556828288,False,neighbors|neighborhoods|residents|environment|resources
+Austin,City Development,True,12,10,0.00497957303343,False,business|planning|market|markets|growth|industry|construction|development|city limits|infrastructure
+Cincinnati,Public Transportation,True,22,3,0.415168475803,False,commute|transportation|transit
+Cincinnati,Driving and Traffic,True,11,6,0.153720383559,False,drivers|driving|traffic|parking|distance|direction
+Cincinnati,Economy and Income,True,13,3,0.341153470186,False,prices|economy|investment
+Cincinnati,Education,True,5,2,0.860826939471,False,school|schools
+Cincinnati,Culture and Art,True,7,3,0.769785169785,False,culture|museum|museums
+Cincinnati,Race/Immigration Discourse,True,13,0,,True,
+Cincinnati,Recreation,True,14,4,0.696671387567,False,parks|sports|fans|food
+Cincinnati,Social Problem,True,20,1,-0.689655172414,False,crime
+Cincinnati,Governing,True,15,0,,True,
+Cincinnati,Policing,True,8,1,-1.0625,False,speed limit
+Cincinnati,Neighborhood,True,5,3,0.783435486406,False,neighborhoods|environment|resources
+Cincinnati,City Development,True,12,6,0.00354808590103,False,business|market|growth|development|city limits|infrastructure
+Kansas City,Public Transportation,True,22,1,0.9,False,transit
+Kansas City,Driving and Traffic,True,11,3,0.222222222222,False,traffic|parking|direction
+Kansas City,Economy and Income,True,13,0,,True,
+Kansas City,Education,True,5,2,0.795625942685,False,school|schools
+Kansas City,Culture and Art,True,7,1,0.285714285714,False,culture
+Kansas City,Race/Immigration Discourse,True,13,0,,True,
+Kansas City,Recreation,True,14,2,0.916666666667,False,parks|food
+Kansas City,Social Problem,True,20,1,-1,False,crime
+Kansas City,Governing,True,15,0,,True,
+Kansas City,Policing,True,8,0,,True,
+Kansas City,Neighborhood,True,5,1,0.148148148148,False,neighborhoods
+Kansas City,City Development,True,12,4,0.100162337662,False,business|market|city limits|infrastructure
+Columbus,Public Transportation,True,22,5,0.390193210298,False,bus|commute|light rail|transportation|transit
+Columbus,Driving and Traffic,True,11,6,0.158586480569,False,drivers|driving|traffic|parking|distance|direction
+Columbus,Economy and Income,True,13,4,0.610364396655,False,prices|economy|investment|taxes
+Columbus,Education,True,5,2,0.810255387071,False,school|schools
+Columbus,Culture and Art,True,7,1,-0.0232558139535,False,culture
+Columbus,Race/Immigration Discourse,True,13,1,-0.115384615385,False,majority
+Columbus,Recreation,True,14,9,0.466386336184,False,clubs|parks|sports|sport|fans|fan|football|food|foods
+Columbus,Social Problem,True,20,2,-0.829326923077,False,crime|property crime
+Columbus,Governing,True,15,2,-0.384848484848,False,law|laws
+Columbus,Policing,True,8,2,-0.852159468439,False,police|speed limit
+Columbus,Neighborhood,True,5,5,0.469583333333,False,neighbors|neighborhoods|residents|environment|resources
+Columbus,City Development,True,12,8,0.187636656783,False,business|planning|market|markets|growth|development|city limits|infrastructure
+Cleveland,Public Transportation,True,22,3,0.600095785441,False,commute|transportation|transit
+Cleveland,Driving and Traffic,True,11,4,0.126755493532,False,drivers|traffic|parking|direction
+Cleveland,Economy and Income,True,13,3,0.444444444444,False,prices|investment|taxes
+Cleveland,Education,True,5,2,0.82183908046,False,school|schools
+Cleveland,Culture and Art,True,7,4,0.914705882353,False,culture|museum|museums|movie
+Cleveland,Race/Immigration Discourse,True,13,0,,True,
+Cleveland,Recreation,True,14,3,0.62562962963,False,parks|fans|food
+Cleveland,Social Problem,True,20,2,-0.972222222222,False,crime|property crime
+Cleveland,Governing,True,15,1,-0.666666666667,False,laws
+Cleveland,Policing,True,8,2,-0.961538461538,False,cops|speed limit
+Cleveland,Neighborhood,True,5,3,0.634632034632,False,neighborhoods|residents|environment
+Cleveland,City Development,True,12,6,0.178236957888,False,business|market|growth|development|city limits|infrastructure
+San Jose,Public Transportation,True,22,4,0.144696969697,False,commute|light rail|transportation|transit
+San Jose,Driving and Traffic,True,11,3,-0.187654320988,False,drivers|traffic|parking
+San Jose,Economy and Income,True,13,1,0,False,prices
+San Jose,Education,True,5,1,0.607142857143,False,schools
+San Jose,Culture and Art,True,7,1,0.266666666667,False,culture
+San Jose,Race/Immigration Discourse,True,13,0,,True,
+San Jose,Recreation,True,14,2,0.934476940382,False,parks|food
+San Jose,Social Problem,True,20,2,-0.88768115942,False,crime|property crime
+San Jose,Governing,True,15,0,,True,
+San Jose,Policing,True,8,1,-0.0588235294118,False,cops
+San Jose,Neighborhood,True,5,3,0.424297924298,False,neighborhoods|residents|environment
+San Jose,City Development,True,12,4,0.0840311004785,False,business|market|development|city limits
+Nashville,Public Transportation,True,22,9,0.116808062781,False,bus|buses|commuter rail|commute|light rail|train|transportation|transit|transit plan
+Nashville,Driving and Traffic,True,11,6,0.0699235486457,False,drivers|driving|traffic|parking|distance|direction
+Nashville,Economy and Income,True,13,7,0.42595324775,False,prices|economy|income|investment|salary|taxes|tax
+Nashville,Education,True,5,3,0.924708526478,False,school|schools|university
+Nashville,Culture and Art,True,7,3,0.819444444444,False,concerts|culture|museum
+Nashville,Race/Immigration Discourse,True,13,1,-0.16,False,majority
+Nashville,Recreation,True,14,7,0.836812070019,False,clubs|parks|sports|sport|fans|golf|food
+Nashville,Social Problem,True,20,1,-1,False,crime
+Nashville,Governing,True,15,6,-0.182077182077,False,mayor|government|law|laws|policy|policies
+Nashville,Policing,True,8,1,-1.10975609756,False,speed limit
+Nashville,Neighborhood,True,5,5,0.323038762004,False,neighbors|neighborhoods|residents|environment|resources
+Nashville,City Development,True,12,10,0.139567995414,False,business|planning|market|markets|growth|industry|construction|development|city limits|infrastructure
+Milwaukee,Public Transportation,True,22,4,0.173426573427,False,commuter rail|commute|transportation|transit
+Milwaukee,Driving and Traffic,True,11,6,-0.193955026455,False,drivers|driving|traffic|parking|distance|direction
+Milwaukee,Economy and Income,True,13,3,0.56994047619,False,prices|economy|investment
+Milwaukee,Education,True,5,2,0.527777777778,False,school|schools
+Milwaukee,Culture and Art,True,7,2,0.838709677419,False,culture|museum
+Milwaukee,Race/Immigration Discourse,True,13,0,,True,
+Milwaukee,Recreation,True,14,2,0.947283085013,False,parks|food
+Milwaukee,Social Problem,True,20,1,-0.875,False,crime
+Milwaukee,Governing,True,15,1,-0.333333333333,False,rules
+Milwaukee,Policing,True,8,1,-1.08333333333,False,speed limit
+Milwaukee,Neighborhood,True,5,5,0.320728291317,False,neighbors|neighborhoods|residents|environment|resources
+Milwaukee,City Development,True,12,6,0.189325971935,False,business|market|growth|development|city limits|infrastructure
+Raleigh,Public Transportation,True,22,5,0.0514696223317,False,commuter rail|commute|light rail|transportation|transit
+Raleigh,Driving and Traffic,True,11,6,0.0367843816356,False,drivers|driving|traffic|parking|distance|direction
+Raleigh,Economy and Income,True,13,2,0.640161725067,False,prices|investment
+Raleigh,Education,True,5,2,0.93443627451,False,school|schools
+Raleigh,Culture and Art,True,7,4,0.895562770563,False,culture|museum|museums|movies
+Raleigh,Race/Immigration Discourse,True,13,0,,True,
+Raleigh,Recreation,True,14,4,0.848541458541,False,nightlife|parks|food|foods
+Raleigh,Social Problem,True,20,0,,True,
+Raleigh,Governing,True,15,2,-1.01420454545,False,law|laws
+Raleigh,Policing,True,8,1,-1.13793103448,False,speed limit
+Raleigh,Neighborhood,True,5,2,0.530303030303,False,neighborhoods|environment
+Raleigh,City Development,True,12,7,0.0901967930029,False,business|planning|market|growth|development|city limits|infrastructure
+New Orleans,Public Transportation,True,22,0,,True,
+New Orleans,Driving and Traffic,True,11,2,-0.111111111111,False,drivers|direction
+New Orleans,Economy and Income,True,13,3,0.368181818182,False,prices|economy|investment
+New Orleans,Education,True,5,2,0.608333333333,False,school|schools
+New Orleans,Culture and Art,True,7,1,0.423076923077,False,culture
+New Orleans,Race/Immigration Discourse,True,13,2,-0.166666666667,False,blacks|majority
+New Orleans,Recreation,True,14,1,0.804964539007,False,food
+New Orleans,Social Problem,True,20,1,-0.967741935484,False,crime
+New Orleans,Governing,True,15,5,-0.288040184453,False,government|law|laws|rules|policies
+New Orleans,Policing,True,8,2,-0.741477272727,False,cops|justice
+New Orleans,Neighborhood,True,5,4,0.314116555713,False,neighborhoods|residents|environment|resources
+New Orleans,City Development,True,12,5,-0.131976238771,False,business|market|industry|city limits|infrastructure
+Louisville,Public Transportation,True,22,1,0.363636363636,False,transit
+Louisville,Driving and Traffic,True,11,5,-0.147443051202,False,drivers|driving|traffic|parking|direction
+Louisville,Economy and Income,True,13,1,0.7,False,prices
+Louisville,Education,True,5,3,0.609874252731,False,school|schools|university
+Louisville,Culture and Art,True,7,0,,True,
+Louisville,Race/Immigration Discourse,True,13,0,,True,
+Louisville,Recreation,True,14,3,0.911290322581,False,parks|sports|food
+Louisville,Social Problem,True,20,1,-0.555555555556,False,crime
+Louisville,Governing,True,15,1,-0.75,False,law
+Louisville,Policing,True,8,1,-1,False,speed limit
+Louisville,Neighborhood,True,5,2,0.295081967213,False,neighborhoods|residents
+Louisville,City Development,True,12,4,0.0176282051282,False,business|market|growth|city limits
+Salt Lake,Public Transportation,True,22,1,0.615384615385,False,transit
+Salt Lake,Driving and Traffic,True,11,2,-0.753787878788,False,drivers|traffic
+Salt Lake,Economy and Income,True,13,1,0.961538461538,False,prices
+Salt Lake,Education,True,5,2,0.67619047619,False,school|schools
+Salt Lake,Culture and Art,True,7,1,0.212121212121,False,culture
+Salt Lake,Race/Immigration Discourse,True,13,0,,True,
+Salt Lake,Recreation,True,14,2,1.16842105263,False,parks|food
+Salt Lake,Social Problem,True,20,0,,True,
+Salt Lake,Governing,True,15,2,-0.295454545455,False,laws|policies
+Salt Lake,Policing,True,8,0,,True,
+Salt Lake,Neighborhood,True,5,3,0.608647450111,False,neighbors|neighborhoods|environment
+Salt Lake,City Development,True,12,4,0.179761904762,False,market|growth|city limits|infrastructure
+Buffalo,Public Transportation,True,22,5,0.0883006535948,False,commuter rail|commute|metro rail|transportation|transit
+Buffalo,Driving and Traffic,True,11,6,0.259733036707,False,drivers|driving|traffic|parking|distance|direction
+Buffalo,Economy and Income,True,13,6,0.485247666514,False,prices|economy|investment|revenue|salary|taxes
+Buffalo,Education,True,5,2,0.971014492754,False,school|schools
+Buffalo,Culture and Art,True,7,3,0.554625199362,False,concerts|culture|movie
+Buffalo,Race/Immigration Discourse,True,13,0,,True,
+Buffalo,Recreation,True,14,4,0.790564900837,False,nightlife|parks|sports|food
+Buffalo,Social Problem,True,20,1,-1.05714285714,False,crime
+Buffalo,Governing,True,15,1,-0.227272727273,False,law
+Buffalo,Policing,True,8,1,-1.25757575758,False,speed limit
+Buffalo,Neighborhood,True,5,5,0.599743845898,False,neighbors|neighborhoods|residents|environment|resources
+Buffalo,City Development,True,12,7,0.244730491361,False,business|market|growth|industry|development|city limits|infrastructure
+Birmingham,Public Transportation,False,22,2,1.12424242424,False,transportation|transit
+Birmingham,Driving and Traffic,False,11,5,-0.230968660969,False,drivers|driving|traffic|parking|direction
+Birmingham,Economy and Income,False,13,2,0.418972332016,False,prices|economy
+Birmingham,Education,False,5,2,0.680210060807,False,school|schools
+Birmingham,Culture and Art,False,7,1,0.230769230769,False,culture
+Birmingham,Race/Immigration Discourse,False,13,0,,True,
+Birmingham,Recreation,False,14,2,0.932481751825,False,parks|food
+Birmingham,Social Problem,False,20,1,-1.03333333333,False,crime
+Birmingham,Governing,False,15,2,0.485795454545,False,mayor|government
+Birmingham,Policing,False,8,0,,True,
+Birmingham,Neighborhood,False,5,4,0.306042609351,False,neighborhoods|residents|environment|resources
+Birmingham,City Development,False,12,6,0.295935264414,False,business|market|growth|development|city limits|infrastructure

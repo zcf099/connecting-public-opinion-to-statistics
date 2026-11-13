@@ -1,0 +1,16 @@
+{
+  "code/scripts/derived_numbers.py": "df9e0fb9d4d5adb7dba61fd01f0bb35c6e5f4e5dfa5fff960b0718c6ceef829b",
+  "code/scripts/make_fig_assoc.py": "73454b7437e00d6b0bfce865fb021bec868837f6482209f3fff7de807b10c5e3",
+  "code/scripts/make_fig_mechanism.py": "8c63686100ec245e9a154eb251e662e16dc633b6abd8f1e66e55edbe502abae0",
+  "code/scripts/make_fig_sd.py": "882b06076c08c1c48e1ccd088508bd62b0e0dbbc58377272f468af317405d82c",
+  "code/scripts/make_tables.py": "e4a28ca51d144d2891266d826d7e02bd0056e0b039e67442dd426567083cc436",
+  "code/table3_objective_regression_reproduction.py": "9ae8c4ba657f82d5eff386d56977cc9289e21015fbf3ea701877547e85b15d09",
+  "code/table4_online_regression_reproduction.py": "ead5546b943b3312c93f6ed885c10aff1f50a02cc3b5afe8ed2f34855241a84c",
+  "code/www_short_analysis.ipynb": "33e60d09df1389b50288bdd624d2a77edc796ab664ab865420d2c68ae1ac136d",
+  "data/aspect_domain_dictionary.csv": "3cca63ed5a3d9ff316d96530aed70a888bcb747bfcb7abf905c62d4a25ddc2b6",
+  "data/aspect_keyword_means_long.csv": "b354bad4872367e8b5cd725c3bd020e7f935cf2ceae6d12e2a135c5cc77637a6",
+  "data/census_cities.csv": "947b95ed3b18ced105d91a28c61fef373e5a87c7a7911b7d359d44e518870415",
+  "data/city_aspects.npy": "c94e1d3578e7385fbf5b68521de4704677911936f66bda8fd02f11565c81b43b",
+  "data/keyword_screen_codes.csv": "da1cf7868a89b5e91b16dbd2dc68e4c04d7e17ffbd6da477f7156f0f85bcb40e",
+  "data/keyword_screen_rules.md": "ca28d6120a2a7b75c3028c494a9e8b2177b7010c4e20c92aa887b0880774674e"
+}

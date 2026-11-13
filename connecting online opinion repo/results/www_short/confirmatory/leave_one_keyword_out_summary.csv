@@ -1,0 +1,28 @@
+statistic,beta_all_keywords,beta_min,beta_max,sign_flips,most_influential_keyword
+12-domain | a_mean_fill | Public Transportation,-0.335248639124,-0.401572721046,-0.213493308805,0,transit
+12-domain | a_mean_fill | Driving and Traffic,-0.306070880304,-0.368757576324,-0.175236847533,0,prices
+12-domain | a_mean_fill | Social Problem,-0.432160765111,-0.498133152871,-0.361933656734,0,law
+12-domain | tone_mean_fill | Public Transportation,0.0632057833043,-0.0560587667866,0.167908626517,3,transportation
+12-domain | tone_mean_fill | Driving and Traffic,0.030329624303,-0.0180499843375,0.0794140457331,3,police
+12-domain | tone_mean_fill | Social Problem,-0.22842689512,-0.281031782997,-0.0518946838045,0,crime
+12-domain | composition_mean_fill | Public Transportation,-0.310530112705,-0.554729586929,0.0318358103943,1,transit
+12-domain | composition_mean_fill | Driving and Traffic,-0.148916902654,-0.350804029992,0.034521926705,2,direction
+12-domain | composition_mean_fill | Social Problem,0.019312656129,-0.238603359763,0.13369204494,16,homeless
+single-domain | a_available | none+log_s | Public Transportation,-0.17866018676,-0.309515269011,-0.0273969063758,0,transit
+single-domain | a_available | density_income+log_s | Public Transportation,-0.127150705252,-0.214355634538,-0.0268635185518,0,transit
+single-domain | a_available | density_income_shares+log_s | Public Transportation,-0.0415686920545,-0.0687805821809,-0.019302167929,0,light rail
+single-domain | tone | none+log_s | Public Transportation,0.0197290242192,-0.140091691895,0.12533198547,4,transportation
+single-domain | tone | density_income+log_s | Public Transportation,0.246243043348,0.184878876992,0.260808768948,0,bus
+single-domain | tone | density_income_shares+log_s | Public Transportation,-0.0288431538859,-0.0506729605721,-0.0134462627326,0,bus
+single-domain | coverage_n | none+log_s | Public Transportation,0.241269631686,0.165070883013,0.318329877043,0,light rail
+single-domain | coverage_n | density_income+log_s | Public Transportation,0.405378593448,0.349525405226,0.442702468776,0,transportation
+single-domain | coverage_n | density_income_shares+log_s | Public Transportation,0.0644566367398,0.0430670569368,0.0866888844545,0,light rail
+single-domain | a_available | none+log_s | Driving and Traffic,-0.153067413233,-0.253969155464,-0.0297927897317,0,drivers
+single-domain | a_available | density_income+log_s | Driving and Traffic,-0.0358062874943,-0.0982996650479,0.00782030784286,3,direction
+single-domain | a_available | density_income_shares+log_s | Driving and Traffic,0.0368710378698,-0.0205321365071,0.0909401373913,1,drivers
+single-domain | tone | none+log_s | Driving and Traffic,-0.134511814856,-0.164235557699,-0.0914908906362,0,driving
+single-domain | tone | density_income+log_s | Driving and Traffic,-0.0699642581091,-0.113418090977,-0.0203063969465,0,parking
+single-domain | tone | density_income_shares+log_s | Driving and Traffic,0.019151585848,0.000847834110145,0.0351722285889,0,drivers
+single-domain | coverage_n | none+log_s | Driving and Traffic,-0.045358558925,-0.142337103355,0.10375785718,2,distance
+single-domain | coverage_n | density_income+log_s | Driving and Traffic,0.166153255287,0.0732226730212,0.287157213683,0,distance
+single-domain | coverage_n | density_income_shares+log_s | Driving and Traffic,0.155791972805,0.115506288291,0.180549216741,0,highway

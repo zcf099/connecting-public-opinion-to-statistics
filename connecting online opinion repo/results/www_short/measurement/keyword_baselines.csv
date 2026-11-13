@@ -1,0 +1,144 @@
+domain,keyword,baseline_beta,cities,raw_mean
+Public Transportation,bus,0.166349521532,15,0.180891128615
+Public Transportation,bus system,0.704147818021,1,0.75
+Public Transportation,buses,0.318385746891,10,0.340149312796
+Public Transportation,commute,0.264566068958,33,0.266928766124
+Public Transportation,commuter rail,-1.12672874761,16,-1.08288772363
+Public Transportation,commuters,-0.122775258902,1,-0.0769230769231
+Public Transportation,dart rail,-1.01932670431,1,-0.954545454545
+Public Transportation,ferry,0.777677229786,1,0.823529411765
+Public Transportation,light rail,-0.897651295345,16,-0.874165714283
+Public Transportation,marta,0.254719689134,1,0.237704918033
+Public Transportation,marta rail,-0.972346931026,1,-0.989361702128
+Public Transportation,metro,0.0727526555196,2,0.127083333333
+Public Transportation,metro rail,-0.9778470068,4,-0.926225035469
+Public Transportation,mta,-0.267633086413,1,-0.441176470588
+Public Transportation,subway,0.250426637972,3,0.257326007326
+Public Transportation,train,-0.260220388386,11,-0.264114358986
+Public Transportation,trains,0.250418098526,5,0.227308377897
+Public Transportation,transit,0.75639331721,35,0.744494411929
+Public Transportation,transit plan,0.169703961514,1,0.277777777778
+Public Transportation,transit system,-0.0596978199183,4,-0.0644552815605
+Public Transportation,transport,0.634020396271,9,0.642801180301
+Public Transportation,transportation,0.687810033888,34,0.699285297788
+Driving and Traffic,direction,0.692643044732,36,0.6949228156
+Driving and Traffic,distance,0.906303835737,26,0.911506961992
+Driving and Traffic,drivers,-0.785592588638,37,-0.784355547181
+Driving and Traffic,driving,-0.643421364573,31,-0.641204320285
+Driving and Traffic,highway,-0.42664224252,2,-0.458333333333
+Driving and Traffic,highways,0.0949629447413,2,0.107142857143
+Driving and Traffic,parking,0.594978622234,36,0.600084350689
+Driving and Traffic,parking lot,-0.10342070816,1,-0.0892857142857
+Driving and Traffic,ride sharing,0.322333898666,1,0.333333333333
+Driving and Traffic,traffic,-0.483643398499,37,-0.481896470414
+Driving and Traffic,vehicle,0.21121116998,10,0.233210008945
+Economy and Income,capital,0.383967746782,2,0.272727272727
+Economy and Income,capital gains,1.3966664,1,1.20833333333
+Economy and Income,economies,0.676601274826,2,0.454545454545
+Economy and Income,economy,0.546401101146,30,0.513220161585
+Economy and Income,income,0.356540251239,16,0.252656681058
+Economy and Income,investment,0.593092245503,29,0.570931758516
+Economy and Income,investments,0.642188810933,2,0.5
+Economy and Income,prices,0.373664517608,37,0.373664517608
+Economy and Income,revenue,-0.0688330771639,15,-0.166373020436
+Economy and Income,salaries,0.475302573527,2,0.253246753247
+Economy and Income,salary,0.8240778746,14,0.737048968385
+Economy and Income,tax,-0.00729567507989,16,-0.0985469123617
+Economy and Income,taxes,-0.138619318287,20,-0.17252393207
+Education,colleges,0.569542829173,1,0.5
+Education,school,0.736975909969,36,0.749738434252
+Education,school system,-0.643489793349,2,-0.791666666667
+Education,schools,0.826400313928,38,0.826400313928
+Education,university,0.607765616696,4,0.628787878788
+Culture and Art,concerts,0.821987907295,6,0.828282828283
+Culture and Art,culture,0.340404335729,37,0.340404335729
+Culture and Art,movie,0.454268279778,11,0.510219679311
+Culture and Art,movies,0.62783651676,3,0.665112665113
+Culture and Art,museum,0.909487507708,24,0.942420126565
+Culture and Art,museums,0.920288778786,19,0.936492026487
+Race/Immigration Discourse,asians,-0.593071283757,1,-0.5
+Race/Immigration Discourse,blacks,-0.395770023981,6,-0.319955507456
+Race/Immigration Discourse,diversity,0.411919980263,10,0.409699357016
+Race/Immigration Discourse,foreigners,0.587301469226,2,0.690476190476
+Race/Immigration Discourse,hate crime,-1.08908798008,3,-1.04359774213
+Race/Immigration Discourse,immigrant,-0.996416833197,3,-1.06581196581
+Race/Immigration Discourse,inequality,-0.582808591455,1,-0.571428571429
+Race/Immigration Discourse,majority,-0.212706961644,21,-0.191455896033
+Race/Immigration Discourse,minority,-0.750027849694,2,-0.697802197802
+Race/Immigration Discourse,race,-0.0970592480084,5,-0.0863303363303
+Race/Immigration Discourse,racism,-0.472615690184,11,-0.453400613667
+Race/Immigration Discourse,racist,-0.85615884796,3,-0.827380952381
+Race/Immigration Discourse,racists,-0.787032814502,2,-0.800505050505
+Recreation,baseball,0.728246268423,1,0.692307692308
+Recreation,clubs,0.58705652224,12,0.592970184003
+Recreation,fan,-0.423038649361,5,-0.456955624355
+Recreation,fans,-0.147367421974,15,-0.143837079508
+Recreation,food,0.944435204184,38,0.944435204184
+Recreation,foods,0.601251611424,8,0.577045952951
+Recreation,football,0.0811640986572,2,0.0845588235294
+Recreation,franchise,-0.0423219222597,3,-0.0377591706539
+Recreation,golf,1.0196207981,2,1.07486631016
+Recreation,nightlife,0.835525741436,11,0.837506459516
+Recreation,parks,0.916505856519,36,0.920258272401
+Recreation,skiing,0.610203871072,1,0.619047619048
+Recreation,sport,0.726386680904,5,0.72307393598
+Recreation,sports,0.523423440421,15,0.528644677762
+Social Problem,crime,-0.865667547728,35,-0.865667547728
+Social Problem,crime problem,-0.863198896434,3,-0.941457586619
+Social Problem,criminals,-0.750213696013,10,-0.785539607578
+Social Problem,drug addicts,-0.893503673952,6,-0.890005369654
+Social Problem,drug crime,-0.914414566271,1,-1
+Social Problem,drugs,-0.774987131042,5,-0.82465034965
+Social Problem,firearms,-0.288150971303,1,-0.444444444444
+Social Problem,gun crime,-0.974639660855,3,-1.11944444444
+Social Problem,guns,-0.357896203231,4,-0.455940988836
+Social Problem,homeless,-0.347176358918,9,-0.361852393162
+Social Problem,murder,-0.740501522793,1,-0.826086956522
+Social Problem,murders,-0.247747899604,1,-0.333333333333
+Social Problem,police brutality,-0.987042874254,5,-1.05577147526
+Social Problem,property crime,-1.09529508386,11,-1.08421863373
+Social Problem,road rage,-0.92723874486,9,-0.952379831405
+Social Problem,street crime,-1.16441456627,1,-1.25
+Social Problem,violence,-0.416963476021,7,-0.503344274773
+Social Problem,violence problem,-0.735939561186,2,-0.875
+Social Problem,weed,-0.259027654862,7,-0.31088720803
+Governing,cuomo,-0.585048287147,1,-0.51724137931
+Governing,government,-0.30850413713,19,-0.332495592911
+Governing,governor,0.383184943676,2,0.386904761905
+Governing,healthcare,0.614891141419,3,0.619652406417
+Governing,law,-0.765107537878,31,-0.762771176546
+Governing,laws,-0.502171173268,28,-0.519335755451
+Governing,mayor,0.0889287757877,13,0.0828650689516
+Governing,officers,0.00987055520738,8,-0.0119210761529
+Governing,policies,-0.221557442915,21,-0.232904694131
+Governing,policy,0.0208108212857,17,0.00706230826126
+Governing,property taxes,-0.231962883394,4,-0.256086956522
+Governing,regulations,-0.365657903983,9,-0.366954496121
+Governing,rent control,0.0369542564227,3,0.0519377240143
+Governing,rules,-0.358991862813,21,-0.384125663684
+Governing,taxation,0.339904616113,1,0.307692307692
+Policing,cops,-0.440389300433,19,-0.459917466738
+Policing,enforcement,0.0305660431722,9,-0.0255143005143
+Policing,justice,-0.791020169621,11,-0.820752496889
+Policing,nypd,-0.790917505743,1,-0.725
+Policing,police,-0.18752924343,18,-0.222611685772
+Policing,policing,0.100123848266,2,-0.0141129032258
+Policing,speed limit,-1.12245704538,31,-1.14097478283
+Policing,speed limits,-0.970428713792,13,-0.993992118992
+Neighborhood,environment,0.412806483272,35,0.422288496626
+Neighborhood,neighborhoods,0.431776403138,38,0.431776403138
+Neighborhood,neighbors,0.280186876422,25,0.25402743737
+Neighborhood,residents,0.028681787138,27,-0.00438330604088
+Neighborhood,resources,0.3780356897,27,0.347351645601
+City Development,building boom,1.10115566395,1,1.07692307692
+City Development,business,0.0949040924975,35,0.090740325039
+City Development,city limits,-1.05115221043,38,-1.05115221043
+City Development,construction,-0.00730955757807,14,-0.03464130524
+City Development,development,0.231548487006,30,0.228271322799
+City Development,expansion,0.54833430975,4,0.537931995541
+City Development,growth,0.268975760033,30,0.273183993171
+City Development,industry,0.347587878486,19,0.309119871309
+City Development,infrastructure,0.354993887709,35,0.352667599569
+City Development,market,0.565822094086,38,0.565822094086
+City Development,markets,0.551589191342,18,0.522770243878
+City Development,planning,-0.15706338901,20,-0.177052694267

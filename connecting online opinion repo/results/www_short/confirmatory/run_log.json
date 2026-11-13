@@ -1,0 +1,287 @@
+{
+  "mode": "confirmatory",
+  "run_stamp": "20261113_203153",
+  "main_run_before_screen": false,
+  "analysis_code_sha256 (all code cells except settings)": "ffeba187371d9b570cb3c131faea28b4502e95671c358b157684473e09666b3b",
+  "note": "confirmatory",
+  "input_sha256": {
+    "census_cities.csv": "947b95ed3b18ced105d91a28c61fef373e5a87c7a7911b7d359d44e518870415",
+    "city_aspects.npy": "c94e1d3578e7385fbf5b68521de4704677911936f66bda8fd02f11565c81b43b",
+    "aspect_domain_dictionary.csv": "3cca63ed5a3d9ff316d96530aed70a888bcb747bfcb7abf905c62d4a25ddc2b6",
+    "aspect_keyword_means_long.csv": "b354bad4872367e8b5cd725c3bd020e7f935cf2ceae6d12e2a135c5cc77637a6"
+  },
+  "screen_status": "frozen",
+  "screen_sha256": {
+    "keyword_screen_codes.csv": "da1cf7868a89b5e91b16dbd2dc68e4c04d7e17ffbd6da477f7156f0f85bcb40e",
+    "keyword_screen_rules.md": "ca28d6120a2a7b75c3028c494a9e8b2177b7010c4e20c92aa887b0880774674e"
+  },
+  "settings": {
+    "seed": 20261104,
+    "quick": false,
+    "B_BOOT": 2000,
+    "R_NULL": 500,
+    "retention_threshold": 10,
+    "theta": 0.6,
+    "screen_max_drop": 0.3,
+    "re_lrt_alpha": 0.2,
+    "re_tone_domains": [
+      "Public Transportation",
+      "Driving and Traffic",
+      "Economy and Income",
+      "Education",
+      "Culture and Art",
+      "Race/Immigration Discourse",
+      "Policing",
+      "Neighborhood"
+    ],
+    "control_sets": {
+      "none": [
+        "log s"
+      ],
+      "density_income": [
+        "urban_pop_den_sq mi",
+        "median household income",
+        "log s"
+      ],
+      "density_income_shares": [
+        "urban_pop_den_sq mi",
+        "median household income",
+        "%Non Hispanic Black",
+        "%Hispanic",
+        "%Asian",
+        "log s"
+      ]
+    }
+  },
+  "software": {
+    "python": "3.12.7",
+    "numpy": "1.26.4",
+    "pandas": "2.3.3",
+    "scipy": "1.13.1",
+    "statsmodels": "0.14.2"
+  },
+  "checks_passed": 44,
+  "checks": [
+    {
+      "check": "unchanged since packaging: census_cities.csv",
+      "passed": true,
+      "detail": "947b95ed3b18"
+    },
+    {
+      "check": "unchanged since packaging: city_aspects.npy",
+      "passed": true,
+      "detail": "c94e1d3578e7"
+    },
+    {
+      "check": "unchanged since packaging: aspect_domain_dictionary.csv",
+      "passed": true,
+      "detail": "3cca63ed5a3d"
+    },
+    {
+      "check": "unchanged since packaging: aspect_keyword_means_long.csv",
+      "passed": true,
+      "detail": "b354bad48723"
+    },
+    {
+      "check": "long table rebuilt from the NPY equals aspect_keyword_means_long.csv",
+      "passed": true,
+      "detail": "18406 city-term rows"
+    },
+    {
+      "check": "terms are lower case without padding",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "no missing keyword means",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "145 listed keywords in 12 domains, none listed twice",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "dictionary equals aspect_domain_dictionary.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "metro first names are unique",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "38 linked cities, one metro each",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "same metros as the archived objective model",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "crosswalk equals results/city_metro_crosswalk.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "27 missing city-domain cells in 16 cities",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "one genuinely observed zero score",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "domain scores equal results/aspect_groups_true_missing.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "coverage counts equal the archived coverage file",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "outcomes equal results/outcomes_38_metros.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "r(C, S) = .927",
+      "passed": true,
+      "detail": "0.926526"
+    },
+    {
+      "check": "corpus-size proxy ranges from 121 to 914",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "1,855 cells and 143 observed keywords",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "design table equals results/analysis_design_38_metros.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "objective_archived: displayed coefficients, SEs, p values and R-squared reproduce",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "online_archived: displayed coefficients, SEs, p values and R-squared reproduce",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "reference Reddit model: smallest HC3 q is .209",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "both reference designs x 6 outcomes match the archive",
+      "passed": true,
+      "detail": "150 rows, 0 unmatched, max |diff| 5.0e-13"
+    },
+    {
+      "check": "leave-one-city-out summary matches the archive",
+      "passed": true,
+      "detail": "138 rows, 0 unmatched, max |diff| 1.6e-12"
+    },
+    {
+      "check": "U + V + W equals the original coefficient",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "transit: -.324 = -.306 + .008 - .026",
+      "passed": true,
+      "detail": "(-0.324, -0.306, 0.008, -0.026)"
+    },
+    {
+      "check": "decomposition matches results/reference_decomposition",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "original single-domain grid matches the archive",
+      "passed": true,
+      "detail": "1872 rows, 0 unmatched, max |diff| 4.3e-12"
+    },
+    {
+      "check": "available case + density/income: transit -.170 (n 37), driving .026 (n 38), social -.307 (n 35)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "264 direct comparisons match the archive",
+      "passed": true,
+      "detail": "264 rows, 0 unmatched, max |diff| 6.3e-12"
+    },
+    {
+      "check": "two Pearson and two Spearman pairs pass BH",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "behavioral models match the archive",
+      "passed": true,
+      "detail": "39 rows, 0 unmatched, max |diff| 4.9e-13"
+    },
+    {
+      "check": "none of the 36 behavioral coefficients passes BH",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "every domain graph is connected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "a = tone + composition exactly",
+      "passed": true,
+      "detail": "max error 8.7e-15"
+    },
+    {
+      "check": "recomputed a equals the archived domain scores",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "coverage n equals the retained-keyword counts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "transit tone reliability .277 and corrected SD .071 (pre-test values)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "both sides start from the same coefficient",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "864 single-domain models",
+      "passed": true,
+      "detail": "2 s"
+    },
+    {
+      "check": "4 families of 132 partial correlations",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "runtime_seconds": 109.6
+}

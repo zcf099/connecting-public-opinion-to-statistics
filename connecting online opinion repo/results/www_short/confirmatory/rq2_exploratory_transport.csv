@@ -1,0 +1,17 @@
+signal,method,domain,indicator,n,partial_r,p,family,q_bh
+tone,pearson,Public Transportation,Transit Score,37,-0.174930017913,0.314852441848,rq2_exploratory_transport|16,0.446526512574
+tone,pearson,Public Transportation,commute_%public transit,37,-0.167934085952,0.334894884431,rq2_exploratory_transport|16,0.446526512574
+tone,pearson,Driving and Traffic,Transit Score,38,-0.283693052443,0.0935945330705,rq2_exploratory_transport|16,0.196979930893
+tone,pearson,Driving and Traffic,commute_%public transit,38,-0.279713569126,0.0984899654464,rq2_exploratory_transport|16,0.196979930893
+tone,spearman,Public Transportation,Transit Score,37,-0.187289154661,0.281325665044,rq2_exploratory_transport|16,0.446526512574
+tone,spearman,Public Transportation,commute_%public transit,37,-0.382667197351,0.0232803679369,rq2_exploratory_transport|16,0.074497177398
+tone,spearman,Driving and Traffic,Transit Score,38,-0.307501548044,0.0680940930721,rq2_exploratory_transport|16,0.181584248192
+tone,spearman,Driving and Traffic,commute_%public transit,38,-0.251306999477,0.139281260789,rq2_exploratory_transport|16,0.247611130291
+n,pearson,Public Transportation,Transit Score,38,0.0481819067157,0.780205735208,rq2_exploratory_transport|16,0.780205735208
+n,pearson,Public Transportation,commute_%public transit,38,0.116662561796,0.498030748925,rq2_exploratory_transport|16,0.612960921754
+n,pearson,Driving and Traffic,Transit Score,38,-0.528134839921,0.000930677282671,rq2_exploratory_transport|16,0.0148908365227
+n,pearson,Driving and Traffic,commute_%public transit,38,-0.471157126669,0.00372639776922,rq2_exploratory_transport|16,0.0198741214358
+n,spearman,Public Transportation,Transit Score,38,-0.0642114403139,0.709851013208,rq2_exploratory_transport|16,0.757174414088
+n,spearman,Public Transportation,commute_%public transit,38,-0.0975188945674,0.57151944925,rq2_exploratory_transport|16,0.653165084857
+n,spearman,Driving and Traffic,Transit Score,38,-0.417710128107,0.0112482698493,rq2_exploratory_transport|16,0.0449930793971
+n,spearman,Driving and Traffic,commute_%public transit,38,-0.498237943443,0.00198503105507,rq2_exploratory_transport|16,0.0158802484406

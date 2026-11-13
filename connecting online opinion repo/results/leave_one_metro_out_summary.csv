@@ -1,0 +1,139 @@
+branch,outcome,term,beta_full,beta_loo_min,beta_loo_max,sign_consistent_omissions,omissions,max_absolute_change,largest_change_omitted_city,scaling
+objective_archived,archived_composite,urban land area_sq mi,0.581222977124,0.530720422476,0.68120511002,38,38,0.099982132896,San Francisco,fixed full-sample population SD
+objective_archived,archived_composite,urban_pop_den_sq mi,0.617392168792,0.484082692571,0.773344532517,38,38,0.155952363724,Los Angeles,fixed full-sample population SD
+objective_archived,archived_composite,poverty rate,0.36020897128,0.231296767887,0.457675189278,38,38,0.128912203393,Los Angeles,fixed full-sample population SD
+objective_archived,archived_composite,median household income,0.300902125659,0.150985617388,0.398438965317,38,38,0.149916508272,Los Angeles,fixed full-sample population SD
+objective_archived,archived_composite,commute_%carpool,0.130719824018,0.0776256141905,0.200280231053,38,38,0.0695604070349,Salt Lake,fixed full-sample population SD
+objective_archived,archived_composite,commute_%drive,0.601534851719,0.518490340565,0.693631119208,38,38,0.092096267489,Los Angeles,fixed full-sample population SD
+objective_archived,archived_composite,%home ownership,-0.00697138463808,-0.103588746393,0.0608852447217,24,38,0.0966173617547,Los Angeles,fixed full-sample population SD
+objective_archived,archived_composite,Black_White income inequality,0.234809844097,0.167781174377,0.357707955335,38,38,0.122898111238,Tampa,fixed full-sample population SD
+objective_archived,archived_composite,Hispanic_White income inequality,-0.138389579201,-0.206893115347,-0.0947147868485,38,38,0.068503536146,Buffalo,fixed full-sample population SD
+objective_archived,archived_composite,Driving Score,-0.275791012013,-0.343808129897,-0.185758450476,38,38,0.0900325615369,San Francisco,fixed full-sample population SD
+objective_archived,archived_composite,Walking Score,0.367036989457,0.294360584347,0.465981000455,38,38,0.0989440109981,Charlotte,fixed full-sample population SD
+objective_archived,normalized_composite,urban land area_sq mi,0.465887473721,0.342071326288,0.583435939032,38,38,0.123816147433,Portland,fixed full-sample population SD
+objective_archived,normalized_composite,urban_pop_den_sq mi,0.21228725511,0.162865765324,0.290267657662,38,38,0.0779804025524,Minneapolis,fixed full-sample population SD
+objective_archived,normalized_composite,poverty rate,0.521110560586,0.405188373063,0.704596224399,38,38,0.183485663812,Sacramento,fixed full-sample population SD
+objective_archived,normalized_composite,median household income,0.291737814617,0.0771112585202,0.458041945463,38,38,0.214626556097,San Jose,fixed full-sample population SD
+objective_archived,normalized_composite,commute_%carpool,-0.538570550269,-0.590994326866,-0.487076343673,38,38,0.0524237765965,Salt Lake,fixed full-sample population SD
+objective_archived,normalized_composite,commute_%drive,0.550073680152,0.384802442452,0.69760092368,38,38,0.1652712377,Portland,fixed full-sample population SD
+objective_archived,normalized_composite,%home ownership,0.161931260763,0.10327877388,0.250496285035,38,38,0.0885650242721,Milwaukee,fixed full-sample population SD
+objective_archived,normalized_composite,Black_White income inequality,-0.242918576941,-0.320691687948,-0.177206563062,38,38,0.0777731110063,Minneapolis,fixed full-sample population SD
+objective_archived,normalized_composite,Hispanic_White income inequality,0.108321755723,0.0220281527094,0.162921872599,38,38,0.0862936030138,Minneapolis,fixed full-sample population SD
+objective_archived,normalized_composite,Driving Score,-0.183605449462,-0.302664343677,-0.113523402519,38,38,0.119058894215,NYC,fixed full-sample population SD
+objective_archived,normalized_composite,Walking Score,0.249827086848,0.0687835200578,0.372908338691,38,38,0.18104356679,Minneapolis,fixed full-sample population SD
+objective_archived,equal_pairwise_mean,urban land area_sq mi,0.448958480379,0.3434873912,0.558483282231,38,38,0.109524801852,San Francisco,fixed full-sample population SD
+objective_archived,equal_pairwise_mean,urban_pop_den_sq mi,0.181358245457,0.120786533925,0.237288472056,38,38,0.0605717115325,Seattle,fixed full-sample population SD
+objective_archived,equal_pairwise_mean,poverty rate,0.371308409265,0.284100822668,0.471234618541,38,38,0.0999262092759,New Orleans,fixed full-sample population SD
+objective_archived,equal_pairwise_mean,median household income,0.252097213245,0.169480863955,0.309008718852,38,38,0.0826163492904,Detroit,fixed full-sample population SD
+objective_archived,equal_pairwise_mean,commute_%carpool,-0.469860779257,-0.50743784251,-0.429426506435,38,38,0.0404342728215,Seattle,fixed full-sample population SD
+objective_archived,equal_pairwise_mean,commute_%drive,0.440270563078,0.299486523101,0.521699203083,38,38,0.140784039977,Portland,fixed full-sample population SD
+objective_archived,equal_pairwise_mean,%home ownership,-0.0607449496263,-0.110694197878,0.00920143697281,36,38,0.0699463865991,Milwaukee,fixed full-sample population SD
+objective_archived,equal_pairwise_mean,Black_White income inequality,-0.189954846244,-0.234006573856,-0.152119750325,38,38,0.0440517276123,Minneapolis,fixed full-sample population SD
+objective_archived,equal_pairwise_mean,Hispanic_White income inequality,-0.139521660537,-0.223061337182,-0.0982833392796,38,38,0.0835396766445,Pittsburgh,fixed full-sample population SD
+objective_archived,equal_pairwise_mean,Driving Score,-0.276327623818,-0.396579511922,-0.177702017653,38,38,0.120251888104,New Orleans,fixed full-sample population SD
+objective_archived,equal_pairwise_mean,Walking Score,0.199466395052,0.096920903596,0.400688126659,38,38,0.201221731607,New Orleans,fixed full-sample population SD
+objective_archived,d_black_white,urban land area_sq mi,0.316498585443,0.213312278453,0.437388674287,38,38,0.120890088845,Atlanta,fixed full-sample population SD
+objective_archived,d_black_white,urban_pop_den_sq mi,0.200163574502,0.076491443989,0.286629032276,38,38,0.123672130513,Denver,fixed full-sample population SD
+objective_archived,d_black_white,poverty rate,0.33686804367,0.240421090609,0.481646123125,38,38,0.144778079455,Denver,fixed full-sample population SD
+objective_archived,d_black_white,median household income,0.0523030658362,-0.0390662229265,0.182003003326,35,38,0.12969993749,Denver,fixed full-sample population SD
+objective_archived,d_black_white,commute_%carpool,-0.634583488295,-0.666549023516,-0.584626445036,38,38,0.0499570432587,Salt Lake,fixed full-sample population SD
+objective_archived,d_black_white,commute_%drive,0.36979615372,0.232061867656,0.447248670534,38,38,0.137734286064,Portland,fixed full-sample population SD
+objective_archived,d_black_white,%home ownership,0.0424388118682,-0.02157694991,0.15057258326,34,38,0.108133771392,Milwaukee,fixed full-sample population SD
+objective_archived,d_black_white,Black_White income inequality,-0.22308885297,-0.304916442295,-0.170902613428,38,38,0.081827589325,Denver,fixed full-sample population SD
+objective_archived,d_black_white,Hispanic_White income inequality,0.140805893211,0.0717199156465,0.190372843292,38,38,0.0690859775646,Minneapolis,fixed full-sample population SD
+objective_archived,d_black_white,Driving Score,-0.291455768701,-0.38068960288,-0.192618176716,38,38,0.0988375919853,San Francisco,fixed full-sample population SD
+objective_archived,d_black_white,Walking Score,0.266472952231,0.121530901411,0.415791078661,38,38,0.14931812643,New Orleans,fixed full-sample population SD
+objective_archived,d_hispanic_white,urban land area_sq mi,0.314989967921,0.212712469012,0.427351212667,38,38,0.112361244747,NYC,fixed full-sample population SD
+objective_archived,d_hispanic_white,urban_pop_den_sq mi,0.329257481231,0.202189944778,0.460753573508,38,38,0.131496092276,Milwaukee,fixed full-sample population SD
+objective_archived,d_hispanic_white,poverty rate,-0.0658909878583,-0.162588624934,0.0810134765705,34,38,0.146904464429,New Orleans,fixed full-sample population SD
+objective_archived,d_hispanic_white,median household income,-0.192856208206,-0.275457445121,-0.0268239636707,38,38,0.166032244535,Salt Lake,fixed full-sample population SD
+objective_archived,d_hispanic_white,commute_%carpool,-0.00884024369448,-0.114778497018,0.054399430597,28,38,0.105938253324,Salt Lake,fixed full-sample population SD
+objective_archived,d_hispanic_white,commute_%drive,0.0819683783579,-0.181911267269,0.196566854875,35,38,0.263879645627,NYC,fixed full-sample population SD
+objective_archived,d_hispanic_white,%home ownership,-0.142073260567,-0.220194467407,0.0223758587382,37,38,0.164449119305,Milwaukee,fixed full-sample population SD
+objective_archived,d_hispanic_white,Black_White income inequality,-0.0741530558667,-0.122105197068,0.0108559430233,36,38,0.0850089988899,Cleveland,fixed full-sample population SD
+objective_archived,d_hispanic_white,Hispanic_White income inequality,-0.569601402114,-0.618934972469,-0.517848949926,38,38,0.0517524521878,Boston,fixed full-sample population SD
+objective_archived,d_hispanic_white,Driving Score,0.0797757433737,-0.097010100365,0.292734503144,36,38,0.212958759771,NYC,fixed full-sample population SD
+objective_archived,d_hispanic_white,Walking Score,-0.251828050023,-0.427857610739,0.0439939463015,37,38,0.295821996324,New Orleans,fixed full-sample population SD
+objective_archived,d_asian_white,urban land area_sq mi,0.430469119694,0.227488982742,0.55648440085,38,38,0.202980136952,NYC,fixed full-sample population SD
+objective_archived,d_asian_white,urban_pop_den_sq mi,-0.241417450778,-0.403432725066,-0.0892535976941,38,38,0.162015274288,Milwaukee,fixed full-sample population SD
+objective_archived,d_asian_white,poverty rate,0.671140770877,0.495375834856,0.822308935215,38,38,0.175764936021,Denver,fixed full-sample population SD
+objective_archived,d_asian_white,median household income,0.988955245462,0.83149562657,1.1381740479,38,38,0.157459618892,Denver,fixed full-sample population SD
+objective_archived,d_asian_white,commute_%carpool,-0.33467047368,-0.374197318266,-0.168279779032,38,38,0.166390694648,NYC,fixed full-sample population SD
+objective_archived,d_asian_white,commute_%drive,0.62786884186,0.524877902569,1.10456636091,38,38,0.476697519049,NYC,fixed full-sample population SD
+objective_archived,d_asian_white,%home ownership,-0.0778779365596,-0.28049436956,0.0441614158506,35,38,0.202616433,Milwaukee,fixed full-sample population SD
+objective_archived,d_asian_white,Black_White income inequality,-0.0990853392089,-0.196869681432,0.000255811444628,37,38,0.0993411506535,Denver,fixed full-sample population SD
+objective_archived,d_asian_white,Hispanic_White income inequality,0.0794606618805,-0.199874994607,0.193019818425,36,38,0.279335656487,Pittsburgh,fixed full-sample population SD
+objective_archived,d_asian_white,Driving Score,-0.466683941024,-0.851393084472,-0.310610162569,38,38,0.384709143448,NYC,fixed full-sample population SD
+objective_archived,d_asian_white,Walking Score,0.503289844276,0.311298553236,0.7201744457,38,38,0.216884601424,Milwaukee,fixed full-sample population SD
+online_archived,archived_composite,Public Transportation,-0.32423971767,-0.382876771785,-0.258228529121,38,38,0.0660111885494,Kansas City,fixed full-sample population SD
+online_archived,archived_composite,Driving and Traffic,-0.374055923425,-0.431441538929,-0.308045605914,38,38,0.0660103175116,Minneapolis,fixed full-sample population SD
+online_archived,archived_composite,Economy and Income,-0.383386089256,-0.476835982069,-0.220512593904,38,38,0.162873495353,Minneapolis,fixed full-sample population SD
+online_archived,archived_composite,Education,0.0541325259524,-0.0174147840392,0.118672371248,34,38,0.0715473099916,Louisville,fixed full-sample population SD
+online_archived,archived_composite,Culture and Art,0.106573219912,-0.00952364629155,0.263460215559,37,38,0.156886995647,Columbus,fixed full-sample population SD
+online_archived,archived_composite,Race/Immigration Discourse,0.119063365908,0.0504235124278,0.159367646622,38,38,0.0686398534804,Houston,fixed full-sample population SD
+online_archived,archived_composite,Recreation,0.147155017613,0.0505677990164,0.254954918489,38,38,0.107799900876,Houston,fixed full-sample population SD
+online_archived,archived_composite,Social Problem,-0.421275761849,-0.523861785542,-0.367850980172,38,38,0.102586023692,Tampa,fixed full-sample population SD
+online_archived,archived_composite,Governing,-0.374060239142,-0.471588519306,-0.318386541883,38,38,0.0975282801638,Orlando,fixed full-sample population SD
+online_archived,archived_composite,Policing,0.0866366209122,-0.010911680599,0.163443869941,37,38,0.0975483015112,Houston,fixed full-sample population SD
+online_archived,archived_composite,Neighborhood,-0.186114762297,-0.260197494998,-0.0871468477682,38,38,0.0989679145289,Los Angeles,fixed full-sample population SD
+online_archived,archived_composite,City Development,-0.24820329276,-0.30394294653,-0.159035124132,38,38,0.0891681686279,Houston,fixed full-sample population SD
+online_archived,normalized_composite,Public Transportation,0.0195894724848,-0.0349308241806,0.216870528597,30,38,0.197281056112,San Antonio,fixed full-sample population SD
+online_archived,normalized_composite,Driving and Traffic,0.0910701531513,-0.0200501400597,0.221258220019,37,38,0.130188066868,Miami,fixed full-sample population SD
+online_archived,normalized_composite,Economy and Income,0.110102324347,0.00388284076084,0.335668667022,38,38,0.225566342675,Minneapolis,fixed full-sample population SD
+online_archived,normalized_composite,Education,-0.3215526713,-0.444006659109,-0.241735133682,38,38,0.122453987809,Baltimore,fixed full-sample population SD
+online_archived,normalized_composite,Culture and Art,0.184345400082,0.0871584497966,0.292773908435,38,38,0.108428508353,San Antonio,fixed full-sample population SD
+online_archived,normalized_composite,Race/Immigration Discourse,-0.10803408122,-0.258321338271,-0.0379098433728,38,38,0.150287257051,Dallas,fixed full-sample population SD
+online_archived,normalized_composite,Recreation,-0.0856465083191,-0.151997487285,0.00369897004637,37,38,0.0893454783655,Minneapolis,fixed full-sample population SD
+online_archived,normalized_composite,Social Problem,-0.439524841578,-0.564994873899,-0.325723705595,38,38,0.125470032321,San Antonio,fixed full-sample population SD
+online_archived,normalized_composite,Governing,-0.0520331042998,-0.182844444438,0.0510080988521,34,38,0.130811340139,Cincinnati,fixed full-sample population SD
+online_archived,normalized_composite,Policing,-0.0550895262546,-0.230778823831,0.0247992994115,36,38,0.175689297576,Detroit,fixed full-sample population SD
+online_archived,normalized_composite,Neighborhood,0.065165692934,-0.0545258584357,0.222678789423,34,38,0.157513096489,Chicago,fixed full-sample population SD
+online_archived,normalized_composite,City Development,0.105312482005,-0.026796894507,0.199981422481,37,38,0.132109376512,San Antonio,fixed full-sample population SD
+online_archived,equal_pairwise_mean,Public Transportation,-0.173705449859,-0.240385862941,-0.0608653375337,38,38,0.112840112325,San Antonio,fixed full-sample population SD
+online_archived,equal_pairwise_mean,Driving and Traffic,-0.0162636718628,-0.100589241861,0.052901981318,29,38,0.0843255699985,Cincinnati,fixed full-sample population SD
+online_archived,equal_pairwise_mean,Economy and Income,0.0343013600695,-0.040336062118,0.204960313345,34,38,0.170658953275,Minneapolis,fixed full-sample population SD
+online_archived,equal_pairwise_mean,Education,-0.155644926974,-0.351434667439,-0.0752506018651,38,38,0.195789740465,Baltimore,fixed full-sample population SD
+online_archived,equal_pairwise_mean,Culture and Art,0.16415274302,0.0770178781872,0.254244888159,38,38,0.0900921451391,Buffalo,fixed full-sample population SD
+online_archived,equal_pairwise_mean,Race/Immigration Discourse,0.0317173635744,-0.0503936761989,0.119728314808,34,38,0.0880109512336,Philadelphia,fixed full-sample population SD
+online_archived,equal_pairwise_mean,Recreation,-0.0691168257093,-0.153662119757,-0.00151983567561,38,38,0.084545294048,San Diego,fixed full-sample population SD
+online_archived,equal_pairwise_mean,Social Problem,-0.401944471913,-0.492557158311,-0.307514704805,38,38,0.0944297671081,Buffalo,fixed full-sample population SD
+online_archived,equal_pairwise_mean,Governing,-0.0387235338204,-0.170480159255,0.0317621004677,32,38,0.131756625435,Cincinnati,fixed full-sample population SD
+online_archived,equal_pairwise_mean,Policing,-0.163232296965,-0.24368328771,-0.0533159940149,38,38,0.10991630295,Buffalo,fixed full-sample population SD
+online_archived,equal_pairwise_mean,Neighborhood,-0.273223571762,-0.393780053217,-0.141200695915,38,38,0.132022875846,Chicago,fixed full-sample population SD
+online_archived,equal_pairwise_mean,City Development,0.0997222406424,-0.023762518296,0.195075289678,37,38,0.123484758938,Buffalo,fixed full-sample population SD
+online_archived,d_black_white,Public Transportation,0.0518147650128,-0.0405460507414,0.234791492347,36,38,0.182976727334,San Antonio,fixed full-sample population SD
+online_archived,d_black_white,Driving and Traffic,0.175257012146,0.0727016478091,0.300069591059,38,38,0.124812578913,Miami,fixed full-sample population SD
+online_archived,d_black_white,Economy and Income,0.179234100116,-0.000708393836938,0.404128785919,37,38,0.224894685803,Minneapolis,fixed full-sample population SD
+online_archived,d_black_white,Education,-0.216941828737,-0.344704448869,-0.122625324999,38,38,0.127762620132,Baltimore,fixed full-sample population SD
+online_archived,d_black_white,Culture and Art,0.149848153214,0.0610698189282,0.250414796556,38,38,0.100566643342,San Antonio,fixed full-sample population SD
+online_archived,d_black_white,Race/Immigration Discourse,-0.132018867803,-0.299574415569,-0.0122631988001,38,38,0.167555547767,Dallas,fixed full-sample population SD
+online_archived,d_black_white,Recreation,-0.103348588555,-0.227384218143,-0.0142691494574,38,38,0.124035629587,San Diego,fixed full-sample population SD
+online_archived,d_black_white,Social Problem,-0.302613238303,-0.424907996647,-0.193510971044,38,38,0.122294758343,Tampa,fixed full-sample population SD
+online_archived,d_black_white,Governing,0.0691955627344,-0.0853778382917,0.167982176662,36,38,0.154573401026,Cincinnati,fixed full-sample population SD
+online_archived,d_black_white,Policing,-0.178101953682,-0.338590611315,-0.0953248773278,38,38,0.160488657633,Detroit,fixed full-sample population SD
+online_archived,d_black_white,Neighborhood,-0.19281721,-0.334250897245,-0.0455562962085,38,38,0.147260913791,Chicago,fixed full-sample population SD
+online_archived,d_black_white,City Development,0.0878782577542,-0.0346522164876,0.199743942223,37,38,0.122530474242,San Antonio,fixed full-sample population SD
+online_archived,d_hispanic_white,Public Transportation,-0.206111458516,-0.282201241237,-0.144096757407,38,38,0.0760897827211,Philadelphia,fixed full-sample population SD
+online_archived,d_hispanic_white,Driving and Traffic,-0.355191517392,-0.453254673596,-0.165248557121,38,38,0.189942960271,Salt Lake,fixed full-sample population SD
+online_archived,d_hispanic_white,Economy and Income,-0.203319325632,-0.380489711509,-0.0487801314318,38,38,0.177170385877,Salt Lake,fixed full-sample population SD
+online_archived,d_hispanic_white,Education,0.0888815742986,-0.119387271469,0.18246092598,37,38,0.208268845767,Baltimore,fixed full-sample population SD
+online_archived,d_hispanic_white,Culture and Art,0.0816396048084,-0.00570073900291,0.151600856349,37,38,0.0873403438113,Louisville,fixed full-sample population SD
+online_archived,d_hispanic_white,Race/Immigration Discourse,0.185563577556,0.0793621064292,0.319693379403,38,38,0.134129801847,Dallas,fixed full-sample population SD
+online_archived,d_hispanic_white,Recreation,0.138876431045,0.025364675725,0.246227125144,38,38,0.11351175532,Pittsburgh,fixed full-sample population SD
+online_archived,d_hispanic_white,Social Problem,-0.357835301362,-0.479956899667,-0.297967483778,38,38,0.122121598305,Salt Lake,fixed full-sample population SD
+online_archived,d_hispanic_white,Governing,-0.126889161847,-0.21927788952,-0.0388328692095,38,38,0.092388727673,Sacramento,fixed full-sample population SD
+online_archived,d_hispanic_white,Policing,-0.184077370861,-0.372530773775,-0.127165624965,38,38,0.188453402914,Salt Lake,fixed full-sample population SD
+online_archived,d_hispanic_white,Neighborhood,-0.323826436648,-0.426389246112,-0.212651398386,38,38,0.111175038262,Chicago,fixed full-sample population SD
+online_archived,d_hispanic_white,City Development,0.128600619925,-0.00509312565526,0.205750453881,37,38,0.13369374558,New Orleans,fixed full-sample population SD
+online_archived,d_asian_white,Public Transportation,-0.372401507505,-0.434594712013,-0.308398426993,38,38,0.0640030805112,San Jose,fixed full-sample population SD
+online_archived,d_asian_white,Driving and Traffic,0.116779725878,-0.00344181406231,0.187695036333,37,38,0.120221539941,Miami,fixed full-sample population SD
+online_archived,d_asian_white,Economy and Income,0.061945688783,-0.0514421545834,0.186640060891,35,38,0.124694372108,San Jose,fixed full-sample population SD
+online_archived,d_asian_white,Education,-0.226191185688,-0.334240122921,-0.115407939802,38,38,0.110783245887,Miami,fixed full-sample population SD
+online_archived,d_asian_white,Culture and Art,0.140794803189,0.0715465319761,0.27604827595,38,38,0.135253472761,Buffalo,fixed full-sample population SD
+online_archived,d_asian_white,Race/Immigration Discourse,0.0893024571025,0.0439884863016,0.143075101937,38,38,0.0537726448347,Austin,fixed full-sample population SD
+online_archived,d_asian_white,Recreation,-0.225828954218,-0.324265862837,-0.167472904656,38,38,0.0984369086183,Buffalo,fixed full-sample population SD
+online_archived,d_asian_white,Social Problem,-0.244120485031,-0.358960622044,-0.102355030188,38,38,0.141765454843,Buffalo,fixed full-sample population SD
+online_archived,d_asian_white,Governing,-0.0772194220198,-0.194496516116,0.00202618433151,37,38,0.117277094096,Cincinnati,fixed full-sample population SD
+online_archived,d_asian_white,Policing,0.0571809091114,0.00212222770162,0.222195979673,38,38,0.165015070561,Buffalo,fixed full-sample population SD
+online_archived,d_asian_white,Neighborhood,-0.0776483566219,-0.184956158206,3.48252400099e-05,37,38,0.107307801584,Cincinnati,fixed full-sample population SD
+online_archived,d_asian_white,City Development,-0.0186032464319,-0.203988359127,0.0662708801417,30,38,0.185385112695,Buffalo,fixed full-sample population SD

@@ -1,0 +1,529 @@
+signal,method,domain,indicator,n,partial_r,p,family,q_bh
+tone,pearson,Public Transportation,urban land area_sq mi,37,0.00817291356945,0.962834971783,rq2_partial|tone|pearson|132,0.968833294733
+tone,pearson,Public Transportation,urban_pop_den_sq mi,37,-0.196487184843,0.257933754336,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Public Transportation,poverty rate,37,0.204638473729,0.238310766059,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Public Transportation,median household income,37,-0.114470219607,0.512610710456,rq2_partial|tone|pearson|132,0.815236310605
+tone,pearson,Public Transportation,commute_%carpool,37,0.0554649304768,0.75165210414,rq2_partial|tone|pearson|132,0.954019978331
+tone,pearson,Public Transportation,commute_%drive,37,0.192486849372,0.267943932529,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Public Transportation,%home ownership,37,0.0248530834661,0.8873053652,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Public Transportation,Black_White income inequality,37,0.249783656989,0.147861574001,rq2_partial|tone|pearson|132,0.541172855962
+tone,pearson,Public Transportation,Hispanic_White income inequality,37,-0.204108624268,0.23955485521,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Public Transportation,Driving Score,37,0.0510195619085,0.771002759926,rq2_partial|tone|pearson|132,0.960116644436
+tone,pearson,Public Transportation,Walking Score,37,-0.0973809260587,0.577858194977,rq2_partial|tone|pearson|132,0.885177707886
+tone,pearson,Driving and Traffic,urban land area_sq mi,38,-0.120843855746,0.482645626445,rq2_partial|tone|pearson|132,0.793737912993
+tone,pearson,Driving and Traffic,urban_pop_den_sq mi,38,-0.0778217282518,0.651890923101,rq2_partial|tone|pearson|132,0.905785282624
+tone,pearson,Driving and Traffic,poverty rate,38,0.105155130646,0.541623253682,rq2_partial|tone|pearson|132,0.84498279125
+tone,pearson,Driving and Traffic,median household income,38,-0.0945322468227,0.583412580197,rq2_partial|tone|pearson|132,0.885177707886
+tone,pearson,Driving and Traffic,commute_%carpool,38,-0.0336005922848,0.845750434031,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Driving and Traffic,commute_%drive,38,0.334599118671,0.0460807574187,rq2_partial|tone|pearson|132,0.415511893948
+tone,pearson,Driving and Traffic,%home ownership,38,0.3030421379,0.072399799703,rq2_partial|tone|pearson|132,0.415511893948
+tone,pearson,Driving and Traffic,Black_White income inequality,38,0.0573624514743,0.739661252098,rq2_partial|tone|pearson|132,0.947915391038
+tone,pearson,Driving and Traffic,Hispanic_White income inequality,38,0.121045049392,0.481911607174,rq2_partial|tone|pearson|132,0.793737912993
+tone,pearson,Driving and Traffic,Driving Score,38,-0.0884275388824,0.608058203475,rq2_partial|tone|pearson|132,0.89305736085
+tone,pearson,Driving and Traffic,Walking Score,38,-0.252608879364,0.137175976533,rq2_partial|tone|pearson|132,0.541172855962
+tone,pearson,Economy and Income,urban land area_sq mi,37,0.269649056315,0.117230352842,rq2_partial|tone|pearson|132,0.499174405649
+tone,pearson,Economy and Income,urban_pop_den_sq mi,37,-0.404428161744,0.0159660128338,rq2_partial|tone|pearson|132,0.341599510527
+tone,pearson,Economy and Income,poverty rate,37,-0.0278340505814,0.873890494056,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Economy and Income,median household income,37,-0.308368427337,0.0715005443816,rq2_partial|tone|pearson|132,0.415511893948
+tone,pearson,Economy and Income,commute_%carpool,37,-0.016469623281,0.925186023393,rq2_partial|tone|pearson|132,0.968833294733
+tone,pearson,Economy and Income,commute_%drive,37,0.203903644616,0.240037317863,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Economy and Income,%home ownership,37,0.327962936245,0.0544341571255,rq2_partial|tone|pearson|132,0.415511893948
+tone,pearson,Economy and Income,Black_White income inequality,37,-0.0836734242726,0.632735317382,rq2_partial|tone|pearson|132,0.896769330852
+tone,pearson,Economy and Income,Hispanic_White income inequality,37,-0.00702988332721,0.968029850881,rq2_partial|tone|pearson|132,0.968833294733
+tone,pearson,Economy and Income,Driving Score,37,-0.0822364539512,0.63860846288,rq2_partial|tone|pearson|132,0.896769330852
+tone,pearson,Economy and Income,Walking Score,37,-0.254660025021,0.139852994261,rq2_partial|tone|pearson|132,0.541172855962
+tone,pearson,Education,urban land area_sq mi,38,0.245456739333,0.149035593395,rq2_partial|tone|pearson|132,0.541172855962
+tone,pearson,Education,urban_pop_den_sq mi,38,-0.490842064734,0.00236957938784,rq2_partial|tone|pearson|132,0.104261493065
+tone,pearson,Education,poverty rate,38,0.231401179255,0.174488483352,rq2_partial|tone|pearson|132,0.541172855962
+tone,pearson,Education,median household income,38,-0.383216614546,0.0210541515743,rq2_partial|tone|pearson|132,0.347393500976
+tone,pearson,Education,commute_%carpool,38,0.0129322348218,0.94032767424,rq2_partial|tone|pearson|132,0.968833294733
+tone,pearson,Education,commute_%drive,38,0.294909815501,0.0807968610316,rq2_partial|tone|pearson|132,0.417695973865
+tone,pearson,Education,%home ownership,38,0.207193026978,0.225322811203,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Education,Black_White income inequality,38,0.555362013487,0.00043830699408,rq2_partial|tone|pearson|132,0.0578565232186
+tone,pearson,Education,Hispanic_White income inequality,38,0.0668258219951,0.698580095205,rq2_partial|tone|pearson|132,0.92212572567
+tone,pearson,Education,Driving Score,38,-0.295383614095,0.0802878070773,rq2_partial|tone|pearson|132,0.417695973865
+tone,pearson,Education,Walking Score,38,-0.504434759431,0.00170610057557,rq2_partial|tone|pearson|132,0.104261493065
+tone,pearson,Culture and Art,urban land area_sq mi,37,0.204229786248,0.239269981896,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Culture and Art,urban_pop_den_sq mi,37,-0.319358551935,0.0614782997952,rq2_partial|tone|pearson|132,0.415511893948
+tone,pearson,Culture and Art,poverty rate,37,0.320958433428,0.0601167859188,rq2_partial|tone|pearson|132,0.415511893948
+tone,pearson,Culture and Art,median household income,37,-0.271065550718,0.115243417015,rq2_partial|tone|pearson|132,0.499174405649
+tone,pearson,Culture and Art,commute_%carpool,37,-0.0524454620109,0.764780388204,rq2_partial|tone|pearson|132,0.960116644436
+tone,pearson,Culture and Art,commute_%drive,37,0.397293163,0.0181151255582,rq2_partial|tone|pearson|132,0.341599510527
+tone,pearson,Culture and Art,%home ownership,37,-0.00703986177989,0.967984494596,rq2_partial|tone|pearson|132,0.968833294733
+tone,pearson,Culture and Art,Black_White income inequality,37,0.154489088185,0.37555637009,rq2_partial|tone|pearson|132,0.70819201217
+tone,pearson,Culture and Art,Hispanic_White income inequality,37,-0.0679352628878,0.69819169386,rq2_partial|tone|pearson|132,0.92212572567
+tone,pearson,Culture and Art,Driving Score,37,-0.243787182345,0.158161498831,rq2_partial|tone|pearson|132,0.541172855962
+tone,pearson,Culture and Art,Walking Score,37,-0.378164327788,0.0250965439371,rq2_partial|tone|pearson|132,0.368082644411
+tone,pearson,Race/Immigration Discourse,urban land area_sq mi,23,-0.0252834234821,0.913372697954,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Race/Immigration Discourse,urban_pop_den_sq mi,23,0.288937488326,0.203976220596,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Race/Immigration Discourse,poverty rate,23,0.212185389123,0.355803606813,rq2_partial|tone|pearson|132,0.699055672553
+tone,pearson,Race/Immigration Discourse,median household income,23,0.0794527083285,0.732091248401,rq2_partial|tone|pearson|132,0.947412203813
+tone,pearson,Race/Immigration Discourse,commute_%carpool,23,0.11408514779,0.622433918168,rq2_partial|tone|pearson|132,0.89305736085
+tone,pearson,Race/Immigration Discourse,commute_%drive,23,-0.17704714441,0.442637512874,rq2_partial|tone|pearson|132,0.779042022659
+tone,pearson,Race/Immigration Discourse,%home ownership,23,-0.402821325838,0.0702149911431,rq2_partial|tone|pearson|132,0.415511893948
+tone,pearson,Race/Immigration Discourse,Black_White income inequality,23,-0.0334960309433,0.885390893136,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Race/Immigration Discourse,Hispanic_White income inequality,23,-0.21596590105,0.347094379685,rq2_partial|tone|pearson|132,0.699055672553
+tone,pearson,Race/Immigration Discourse,Driving Score,23,0.252877798737,0.268739458497,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Race/Immigration Discourse,Walking Score,23,0.158317337203,0.493079612617,rq2_partial|tone|pearson|132,0.793737912993
+tone,pearson,Recreation,urban land area_sq mi,38,0.0854965924218,0.620046073014,rq2_partial|tone|pearson|132,0.89305736085
+tone,pearson,Recreation,urban_pop_den_sq mi,38,-0.233234347644,0.17100384537,rq2_partial|tone|pearson|132,0.541172855962
+tone,pearson,Recreation,poverty rate,38,-0.124365547882,0.469881572634,rq2_partial|tone|pearson|132,0.793737912993
+tone,pearson,Recreation,median household income,38,-0.0677148377446,0.694761713457,rq2_partial|tone|pearson|132,0.92212572567
+tone,pearson,Recreation,commute_%carpool,38,0.0336329266126,0.845603780208,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Recreation,commute_%drive,38,0.268170730983,0.11379568423,rq2_partial|tone|pearson|132,0.499174405649
+tone,pearson,Recreation,%home ownership,38,0.413368596157,0.0122143975502,rq2_partial|tone|pearson|132,0.322460095325
+tone,pearson,Recreation,Black_White income inequality,38,-0.025059349533,0.884653724341,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Recreation,Hispanic_White income inequality,38,0.178356085138,0.297994582908,rq2_partial|tone|pearson|132,0.636812224938
+tone,pearson,Recreation,Driving Score,38,0.0404586711529,0.814767082296,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Recreation,Walking Score,38,-0.332259277749,0.0477203756384,rq2_partial|tone|pearson|132,0.415511893948
+tone,pearson,Social Problem,urban land area_sq mi,35,-0.150666762288,0.402629193422,rq2_partial|tone|pearson|132,0.738153521273
+tone,pearson,Social Problem,urban_pop_den_sq mi,35,-0.0196334044331,0.913641294245,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Social Problem,poverty rate,35,-0.00995461990021,0.95615340756,rq2_partial|tone|pearson|132,0.968833294733
+tone,pearson,Social Problem,median household income,35,0.019391543862,0.914701246067,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Social Problem,commute_%carpool,35,0.306969764997,0.0822734493977,rq2_partial|tone|pearson|132,0.417695973865
+tone,pearson,Social Problem,commute_%drive,35,0.0715887165407,0.692180615359,rq2_partial|tone|pearson|132,0.92212572567
+tone,pearson,Social Problem,%home ownership,35,0.0635025232237,0.725526065387,rq2_partial|tone|pearson|132,0.947412203813
+tone,pearson,Social Problem,Black_White income inequality,35,0.166511312677,0.35437300992,rq2_partial|tone|pearson|132,0.699055672553
+tone,pearson,Social Problem,Hispanic_White income inequality,35,0.363404736501,0.0376377631481,rq2_partial|tone|pearson|132,0.415511893948
+tone,pearson,Social Problem,Driving Score,35,0.0287515258299,0.873803541599,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Social Problem,Walking Score,35,-0.292669571182,0.0983616016398,rq2_partial|tone|pearson|132,0.480435821904
+tone,pearson,Governing,urban land area_sq mi,34,-0.00719305713654,0.968833294733,rq2_partial|tone|pearson|132,0.968833294733
+tone,pearson,Governing,urban_pop_den_sq mi,34,0.17985064541,0.324637165727,rq2_partial|tone|pearson|132,0.680192156761
+tone,pearson,Governing,poverty rate,34,0.24702315294,0.172879172882,rq2_partial|tone|pearson|132,0.541172855962
+tone,pearson,Governing,median household income,34,-0.192096904271,0.292212984058,rq2_partial|tone|pearson|132,0.636812224938
+tone,pearson,Governing,commute_%carpool,34,-0.144898560411,0.428799403861,rq2_partial|tone|pearson|132,0.764885423103
+tone,pearson,Governing,commute_%drive,34,-0.0724394373629,0.693585311212,rq2_partial|tone|pearson|132,0.92212572567
+tone,pearson,Governing,%home ownership,34,-0.0332418805691,0.856671636845,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Governing,Black_White income inequality,34,-0.327759636178,0.0670588520922,rq2_partial|tone|pearson|132,0.415511893948
+tone,pearson,Governing,Hispanic_White income inequality,34,-0.111327474521,0.544117706487,rq2_partial|tone|pearson|132,0.84498279125
+tone,pearson,Governing,Driving Score,34,-0.158486317974,0.386293343128,rq2_partial|tone|pearson|132,0.718179173139
+tone,pearson,Governing,Walking Score,34,0.201297718906,0.269262064612,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Policing,urban land area_sq mi,36,-0.0231008230967,0.89682074681,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Policing,urban_pop_den_sq mi,36,0.125130957126,0.480735465814,rq2_partial|tone|pearson|132,0.793737912993
+tone,pearson,Policing,poverty rate,36,-0.049872713179,0.77939902781,rq2_partial|tone|pearson|132,0.961501604401
+tone,pearson,Policing,median household income,36,0.208253438633,0.237242199179,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Policing,commute_%carpool,36,0.242480046312,0.167055860367,rq2_partial|tone|pearson|132,0.541172855962
+tone,pearson,Policing,commute_%drive,36,0.0889723243872,0.616805736062,rq2_partial|tone|pearson|132,0.89305736085
+tone,pearson,Policing,%home ownership,36,-0.158353473798,0.371066976495,rq2_partial|tone|pearson|132,0.70819201217
+tone,pearson,Policing,Black_White income inequality,36,0.141664843635,0.424182512015,rq2_partial|tone|pearson|132,0.764885423103
+tone,pearson,Policing,Hispanic_White income inequality,36,0.194839663616,0.26949337877,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Policing,Driving Score,36,0.195743508633,0.267234448809,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Policing,Walking Score,36,-0.0421481408377,0.812908008293,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Neighborhood,urban land area_sq mi,38,0.317759688614,0.058952316816,rq2_partial|tone|pearson|132,0.415511893948
+tone,pearson,Neighborhood,urban_pop_den_sq mi,38,-0.343446339045,0.0402860256027,rq2_partial|tone|pearson|132,0.415511893948
+tone,pearson,Neighborhood,poverty rate,38,0.230463077746,0.176291157624,rq2_partial|tone|pearson|132,0.541172855962
+tone,pearson,Neighborhood,median household income,38,-0.27702161107,0.101910628889,rq2_partial|tone|pearson|132,0.480435821904
+tone,pearson,Neighborhood,commute_%carpool,38,0.0913033473111,0.596392827766,rq2_partial|tone|pearson|132,0.89305736085
+tone,pearson,Neighborhood,commute_%drive,38,0.330663465291,0.0488652404375,rq2_partial|tone|pearson|132,0.415511893948
+tone,pearson,Neighborhood,%home ownership,38,0.157117543089,0.360119588891,rq2_partial|tone|pearson|132,0.699055672553
+tone,pearson,Neighborhood,Black_White income inequality,38,0.188971970806,0.269680389284,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,Neighborhood,Hispanic_White income inequality,38,-0.0278117208655,0.87208382939,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,Neighborhood,Driving Score,38,-0.177951888932,0.299108772319,rq2_partial|tone|pearson|132,0.636812224938
+tone,pearson,Neighborhood,Walking Score,38,-0.462252491002,0.00453456349884,rq2_partial|tone|pearson|132,0.149640595462
+tone,pearson,City Development,urban land area_sq mi,38,0.191835061524,0.262356742181,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,City Development,urban_pop_den_sq mi,38,-0.118130715716,0.492600440522,rq2_partial|tone|pearson|132,0.793737912993
+tone,pearson,City Development,poverty rate,38,-0.251006982555,0.139769771209,rq2_partial|tone|pearson|132,0.541172855962
+tone,pearson,City Development,median household income,38,0.162441167167,0.343864476891,rq2_partial|tone|pearson|132,0.699055672553
+tone,pearson,City Development,commute_%carpool,38,-0.232639322348,0.172129417979,rq2_partial|tone|pearson|132,0.541172855962
+tone,pearson,City Development,commute_%drive,38,0.124532177605,0.469282087088,rq2_partial|tone|pearson|132,0.793737912993
+tone,pearson,City Development,%home ownership,38,0.202909317872,0.235272848916,rq2_partial|tone|pearson|132,0.603352735347
+tone,pearson,City Development,Black_White income inequality,38,-0.037949827767,0.826072028718,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,City Development,Hispanic_White income inequality,38,0.0262537810753,0.87919524676,rq2_partial|tone|pearson|132,0.965924515847
+tone,pearson,City Development,Driving Score,38,0.365809302157,0.0282302231393,rq2_partial|tone|pearson|132,0.372638945439
+tone,pearson,City Development,Walking Score,38,-0.0203939855054,0.906022016524,rq2_partial|tone|pearson|132,0.965924515847
+tone,spearman,Public Transportation,urban land area_sq mi,37,0.0893836235617,0.60961710785,rq2_partial|tone|spearman|132,0.856058066342
+tone,spearman,Public Transportation,urban_pop_den_sq mi,37,-0.09186830999,0.599670813922,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,Public Transportation,poverty rate,37,0.253306332406,0.14204354699,rq2_partial|tone|spearman|132,0.480762774429
+tone,spearman,Public Transportation,median household income,37,-0.178802013311,0.304090173909,rq2_partial|tone|spearman|132,0.668998382599
+tone,spearman,Public Transportation,commute_%carpool,37,-0.0237530656584,0.89226362605,rq2_partial|tone|spearman|132,0.985050453446
+tone,spearman,Public Transportation,commute_%drive,37,0.268086431274,0.119451895936,rq2_partial|tone|spearman|132,0.426152709826
+tone,spearman,Public Transportation,%home ownership,37,-0.0425834741263,0.808092191961,rq2_partial|tone|spearman|132,0.962428845094
+tone,spearman,Public Transportation,Black_White income inequality,37,0.275072118827,0.109760102291,rq2_partial|tone|spearman|132,0.418843893509
+tone,spearman,Public Transportation,Hispanic_White income inequality,37,-0.157273245638,0.366906491097,rq2_partial|tone|spearman|132,0.733812982194
+tone,spearman,Public Transportation,Driving Score,37,0.148515134085,0.394517014643,rq2_partial|tone|spearman|132,0.766234670109
+tone,spearman,Public Transportation,Walking Score,37,-0.0988976183385,0.571919980234,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,Driving and Traffic,urban land area_sq mi,38,0.0382830780572,0.824568352818,rq2_partial|tone|spearman|132,0.962428845094
+tone,spearman,Driving and Traffic,urban_pop_den_sq mi,38,-0.143935854695,0.40230567989,rq2_partial|tone|spearman|132,0.766234670109
+tone,spearman,Driving and Traffic,poverty rate,38,0.166891987538,0.330623857282,rq2_partial|tone|spearman|132,0.681911705644
+tone,spearman,Driving and Traffic,median household income,38,-0.303632944618,0.0718174263085,rq2_partial|tone|spearman|132,0.372316028054
+tone,spearman,Driving and Traffic,commute_%carpool,38,-0.0311013325548,0.857101020426,rq2_partial|tone|spearman|132,0.962428845094
+tone,spearman,Driving and Traffic,commute_%drive,38,0.368956855974,0.0268013939986,rq2_partial|tone|spearman|132,0.25902932678
+tone,spearman,Driving and Traffic,%home ownership,38,0.265995903306,0.116869457432,rq2_partial|tone|spearman|132,0.426152709826
+tone,spearman,Driving and Traffic,Black_White income inequality,38,0.0303864409364,0.860353058494,rq2_partial|tone|spearman|132,0.962428845094
+tone,spearman,Driving and Traffic,Hispanic_White income inequality,38,0.109583086448,0.524636455996,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,Driving and Traffic,Driving Score,38,-0.0183432696078,0.915436195984,rq2_partial|tone|spearman|132,0.985050453446
+tone,spearman,Driving and Traffic,Walking Score,38,-0.30210114616,0.0733349752228,rq2_partial|tone|spearman|132,0.372316028054
+tone,spearman,Economy and Income,urban land area_sq mi,37,0.333012460263,0.0506092139758,rq2_partial|tone|spearman|132,0.35160085499
+tone,spearman,Economy and Income,urban_pop_den_sq mi,37,-0.480694748617,0.00346791969749,rq2_partial|tone|spearman|132,0.0915530800138
+tone,spearman,Economy and Income,poverty rate,37,0.0118162010627,0.946287906319,rq2_partial|tone|spearman|132,0.985050453446
+tone,spearman,Economy and Income,median household income,37,-0.201097062059,0.246708916141,rq2_partial|tone|spearman|132,0.657487876613
+tone,spearman,Economy and Income,commute_%carpool,37,-0.148097200622,0.395863814718,rq2_partial|tone|spearman|132,0.766234670109
+tone,spearman,Economy and Income,commute_%drive,37,0.38795983815,0.0212861088739,rq2_partial|tone|spearman|132,0.25902932678
+tone,spearman,Economy and Income,%home ownership,37,0.289763599493,0.0913252233581,rq2_partial|tone|spearman|132,0.399086308527
+tone,spearman,Economy and Income,Black_White income inequality,37,0.0828891230667,0.635938183465,rq2_partial|tone|spearman|132,0.856569798137
+tone,spearman,Economy and Income,Hispanic_White income inequality,37,-0.0674109796873,0.700412825029,rq2_partial|tone|spearman|132,0.895507247338
+tone,spearman,Economy and Income,Driving Score,37,-0.0860745127289,0.622970905763,rq2_partial|tone|spearman|132,0.856569798137
+tone,spearman,Economy and Income,Walking Score,37,-0.414037661811,0.0134127563223,rq2_partial|tone|spearman|132,0.221310479317
+tone,spearman,Education,urban land area_sq mi,38,0.304895463178,0.0705852147302,rq2_partial|tone|spearman|132,0.372316028054
+tone,spearman,Education,urban_pop_den_sq mi,38,-0.337461114936,0.0441371666219,rq2_partial|tone|spearman|132,0.323672555228
+tone,spearman,Education,poverty rate,38,0.228576974049,0.179955575977,rq2_partial|tone|spearman|132,0.552421768117
+tone,spearman,Education,median household income,38,-0.338182282291,0.0436579911616,rq2_partial|tone|spearman|132,0.323672555228
+tone,spearman,Education,commute_%carpool,38,0.107926851385,0.530959566821,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,Education,commute_%drive,38,0.322523238342,0.055052202987,rq2_partial|tone|spearman|132,0.363344539714
+tone,spearman,Education,%home ownership,38,0.0652071309068,0.705551164569,rq2_partial|tone|spearman|132,0.895507247338
+tone,spearman,Education,Black_White income inequality,38,0.594628278803,0.000131098441278,rq2_partial|tone|spearman|132,0.0173049942487
+tone,spearman,Education,Hispanic_White income inequality,38,0.126657615981,0.461670932193,rq2_partial|tone|spearman|132,0.822704037778
+tone,spearman,Education,Driving Score,38,-0.194923370391,0.254605445419,rq2_partial|tone|spearman|132,0.657487876613
+tone,spearman,Education,Walking Score,38,-0.476743168699,0.00328591877348,rq2_partial|tone|spearman|132,0.0915530800138
+tone,spearman,Culture and Art,urban land area_sq mi,37,0.323055103133,0.0583687152037,rq2_partial|tone|spearman|132,0.366889066994
+tone,spearman,Culture and Art,urban_pop_den_sq mi,37,-0.385265433747,0.0222828548413,rq2_partial|tone|spearman|132,0.25902932678
+tone,spearman,Culture and Art,poverty rate,37,0.342558558693,0.043966260631,rq2_partial|tone|spearman|132,0.323672555228
+tone,spearman,Culture and Art,median household income,37,-0.188444736208,0.278313835912,rq2_partial|tone|spearman|132,0.657487876613
+tone,spearman,Culture and Art,commute_%carpool,37,-0.00553775097347,0.974813255365,rq2_partial|tone|spearman|132,0.98635586534
+tone,spearman,Culture and Art,commute_%drive,37,0.374058628179,0.0268529531642,rq2_partial|tone|spearman|132,0.25902932678
+tone,spearman,Culture and Art,%home ownership,37,-0.0114967647317,0.94773793627,rq2_partial|tone|spearman|132,0.985050453446
+tone,spearman,Culture and Art,Black_White income inequality,37,0.226368090583,0.191000378593,rq2_partial|tone|spearman|132,0.57300113578
+tone,spearman,Culture and Art,Hispanic_White income inequality,37,-0.102980223774,0.556074669606,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,Culture and Art,Driving Score,37,-0.173739146039,0.318209891748,rq2_partial|tone|spearman|132,0.681911705644
+tone,spearman,Culture and Art,Walking Score,37,-0.43943676396,0.00826108014144,rq2_partial|tone|spearman|132,0.155780368381
+tone,spearman,Race/Immigration Discourse,urban land area_sq mi,23,0.0474215969159,0.838259309295,rq2_partial|tone|spearman|132,0.962428845094
+tone,spearman,Race/Immigration Discourse,urban_pop_den_sq mi,23,0.165400725212,0.473678082357,rq2_partial|tone|spearman|132,0.822704037778
+tone,spearman,Race/Immigration Discourse,poverty rate,23,0.238092489753,0.298661189448,rq2_partial|tone|spearman|132,0.668191135715
+tone,spearman,Race/Immigration Discourse,median household income,23,0.0836697605794,0.718414894519,rq2_partial|tone|spearman|132,0.895936074862
+tone,spearman,Race/Immigration Discourse,commute_%carpool,23,0.00864716561792,0.970325263974,rq2_partial|tone|spearman|132,0.98635586534
+tone,spearman,Race/Immigration Discourse,commute_%drive,23,-0.0470737225802,0.839430904371,rq2_partial|tone|spearman|132,0.962428845094
+tone,spearman,Race/Immigration Discourse,%home ownership,23,-0.2531280178,0.268249985319,rq2_partial|tone|spearman|132,0.657487876613
+tone,spearman,Race/Immigration Discourse,Black_White income inequality,23,-0.135317987936,0.558658983124,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,Race/Immigration Discourse,Hispanic_White income inequality,23,-0.218638893937,0.341012492092,rq2_partial|tone|spearman|132,0.692517676247
+tone,spearman,Race/Immigration Discourse,Driving Score,23,0.160331709866,0.487522770709,rq2_partial|tone|spearman|132,0.835753321216
+tone,spearman,Race/Immigration Discourse,Walking Score,23,0.0985592659652,0.67081006784,rq2_partial|tone|spearman|132,0.885469289548
+tone,spearman,Recreation,urban land area_sq mi,38,0.340089228022,0.0424111197896,rq2_partial|tone|spearman|132,0.323672555228
+tone,spearman,Recreation,urban_pop_den_sq mi,38,-0.235307947904,0.167122493225,rq2_partial|tone|spearman|132,0.525242121564
+tone,spearman,Recreation,poverty rate,38,-0.082799205828,0.631164633274,rq2_partial|tone|spearman|132,0.856569798137
+tone,spearman,Recreation,median household income,38,0.0319138378837,0.853407751955,rq2_partial|tone|spearman|132,0.962428845094
+tone,spearman,Recreation,commute_%carpool,38,-0.103113597836,0.549542397673,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,Recreation,commute_%drive,38,0.283585108053,0.0937248148813,rq2_partial|tone|spearman|132,0.399086308527
+tone,spearman,Recreation,%home ownership,38,0.520476957164,0.00113744336101,rq2_partial|tone|spearman|132,0.0500475078846
+tone,spearman,Recreation,Black_White income inequality,38,0.0020788158013,0.990399526837,rq2_partial|tone|spearman|132,0.990399526837
+tone,spearman,Recreation,Hispanic_White income inequality,38,0.307978308344,0.0676459283103,rq2_partial|tone|spearman|132,0.372316028054
+tone,spearman,Recreation,Driving Score,38,0.00457282201659,0.978883472421,rq2_partial|tone|spearman|132,0.98635586534
+tone,spearman,Recreation,Walking Score,38,-0.452119444647,0.00563459183252,rq2_partial|tone|spearman|132,0.123961020316
+tone,spearman,Social Problem,urban land area_sq mi,35,-0.0951329790998,0.598455925484,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,Social Problem,urban_pop_den_sq mi,35,-0.0702978915609,0.697467646362,rq2_partial|tone|spearman|132,0.895507247338
+tone,spearman,Social Problem,poverty rate,35,-0.0643283264817,0.72209667259,rq2_partial|tone|spearman|132,0.895936074862
+tone,spearman,Social Problem,median household income,35,0.0465718093791,0.796902027599,rq2_partial|tone|spearman|132,0.962428845094
+tone,spearman,Social Problem,commute_%carpool,35,0.308643937256,0.0805312399482,rq2_partial|tone|spearman|132,0.393708284191
+tone,spearman,Social Problem,commute_%drive,35,-0.00631055682272,0.972196258956,rq2_partial|tone|spearman|132,0.98635586534
+tone,spearman,Social Problem,%home ownership,35,0.0789825256278,0.662177318811,rq2_partial|tone|spearman|132,0.882903091747
+tone,spearman,Social Problem,Black_White income inequality,35,0.132612447057,0.461922163319,rq2_partial|tone|spearman|132,0.822704037778
+tone,spearman,Social Problem,Hispanic_White income inequality,35,0.40410112305,0.0196828580872,rq2_partial|tone|spearman|132,0.25902932678
+tone,spearman,Social Problem,Driving Score,35,0.228800685351,0.200281703271,rq2_partial|tone|spearman|132,0.57706900933
+tone,spearman,Social Problem,Walking Score,35,-0.2863833873,0.106145960188,rq2_partial|tone|spearman|132,0.418843893509
+tone,spearman,Governing,urban land area_sq mi,34,-0.217884753059,0.230931552835,rq2_partial|tone|spearman|132,0.648573722856
+tone,spearman,Governing,urban_pop_den_sq mi,34,0.200230114312,0.271863126525,rq2_partial|tone|spearman|132,0.657487876613
+tone,spearman,Governing,poverty rate,34,0.151979012387,0.406336567482,rq2_partial|tone|spearman|132,0.766234670109
+tone,spearman,Governing,median household income,34,-0.105783936492,0.564468560313,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,Governing,commute_%carpool,34,-0.0133518349977,0.94218214297,rq2_partial|tone|spearman|132,0.985050453446
+tone,spearman,Governing,commute_%drive,34,-0.102476286416,0.576774378626,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,Governing,%home ownership,34,-0.0187253332436,0.91897826438,rq2_partial|tone|spearman|132,0.985050453446
+tone,spearman,Governing,Black_White income inequality,34,-0.309152779399,0.0851208259689,rq2_partial|tone|spearman|132,0.399086308527
+tone,spearman,Governing,Hispanic_White income inequality,34,0.0207472369417,0.910263174782,rq2_partial|tone|spearman|132,0.985050453446
+tone,spearman,Governing,Driving Score,34,-0.199140213281,0.274535293143,rq2_partial|tone|spearman|132,0.657487876613
+tone,spearman,Governing,Walking Score,34,0.113425553066,0.536506897657,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,Policing,urban land area_sq mi,36,-0.0122151338989,0.945336556498,rq2_partial|tone|spearman|132,0.985050453446
+tone,spearman,Policing,urban_pop_den_sq mi,36,-0.0623170117168,0.726251212199,rq2_partial|tone|spearman|132,0.895936074862
+tone,spearman,Policing,poverty rate,36,0.0982134702275,0.580539872901,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,Policing,median household income,36,-0.0394902649045,0.824516887622,rq2_partial|tone|spearman|132,0.962428845094
+tone,spearman,Policing,commute_%carpool,36,0.268642154949,0.124478507284,rq2_partial|tone|spearman|132,0.432399025302
+tone,spearman,Policing,commute_%drive,36,0.246827939783,0.15934098826,rq2_partial|tone|spearman|132,0.513000254887
+tone,spearman,Policing,%home ownership,36,-0.134534428915,0.448103817361,rq2_partial|tone|spearman|132,0.821523665162
+tone,spearman,Policing,Black_White income inequality,36,0.0879442945916,0.620897899425,rq2_partial|tone|spearman|132,0.856569798137
+tone,spearman,Policing,Hispanic_White income inequality,36,0.128563938976,0.468681791412,rq2_partial|tone|spearman|132,0.822704037778
+tone,spearman,Policing,Driving Score,36,-0.0426961723918,0.810519130559,rq2_partial|tone|spearman|132,0.962428845094
+tone,spearman,Policing,Walking Score,36,-0.185499403046,0.29356626999,rq2_partial|tone|spearman|132,0.668116338598
+tone,spearman,Neighborhood,urban land area_sq mi,38,0.367461021984,0.0274728073858,rq2_partial|tone|spearman|132,0.25902932678
+tone,spearman,Neighborhood,urban_pop_den_sq mi,38,-0.311063274774,0.0648017395132,rq2_partial|tone|spearman|132,0.372316028054
+tone,spearman,Neighborhood,poverty rate,38,0.168480816957,0.325974690605,rq2_partial|tone|spearman|132,0.681911705644
+tone,spearman,Neighborhood,median household income,38,-0.27982746486,0.0983471937735,rq2_partial|tone|spearman|132,0.405682174316
+tone,spearman,Neighborhood,commute_%carpool,38,0.168162377127,0.326903227736,rq2_partial|tone|spearman|132,0.681911705644
+tone,spearman,Neighborhood,commute_%drive,38,0.218192977566,0.201099806282,rq2_partial|tone|spearman|132,0.57706900933
+tone,spearman,Neighborhood,%home ownership,38,0.13953409684,0.416998186629,rq2_partial|tone|spearman|132,0.775264234296
+tone,spearman,Neighborhood,Black_White income inequality,38,0.240685887376,0.157351528701,rq2_partial|tone|spearman|132,0.513000254887
+tone,spearman,Neighborhood,Hispanic_White income inequality,38,0.0487827556285,0.777533348537,rq2_partial|tone|spearman|132,0.950318537101
+tone,spearman,Neighborhood,Driving Score,38,-0.0917174180172,0.594721250321,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,Neighborhood,Walking Score,38,-0.552712351404,0.000472973502621,rq2_partial|tone|spearman|132,0.031216251173
+tone,spearman,City Development,urban land area_sq mi,38,0.0953379176202,0.580193486503,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,City Development,urban_pop_den_sq mi,38,-0.0999213783483,0.562033238739,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,City Development,poverty rate,38,-0.185426190102,0.278934250684,rq2_partial|tone|spearman|132,0.657487876613
+tone,spearman,City Development,median household income,38,0.182045813025,0.287946228031,rq2_partial|tone|spearman|132,0.66682284386
+tone,spearman,City Development,commute_%carpool,38,-0.283658355725,0.0936363945996,rq2_partial|tone|spearman|132,0.399086308527
+tone,spearman,City Development,commute_%drive,38,0.192639302825,0.260323367586,rq2_partial|tone|spearman|132,0.657487876613
+tone,spearman,City Development,%home ownership,38,0.196749162544,0.250095226475,rq2_partial|tone|spearman|132,0.657487876613
+tone,spearman,City Development,Black_White income inequality,38,-0.102059255622,0.553653442402,rq2_partial|tone|spearman|132,0.851145671374
+tone,spearman,City Development,Hispanic_White income inequality,38,0.068022752524,0.693440916034,rq2_partial|tone|spearman|132,0.895507247338
+tone,spearman,City Development,Driving Score,38,0.270145933463,0.111057092976,rq2_partial|tone|spearman|132,0.418843893509
+tone,spearman,City Development,Walking Score,38,-0.0157214128289,0.9274886515,rq2_partial|tone|spearman|132,0.985050453446
+n,pearson,Public Transportation,urban land area_sq mi,38,0.250178329801,0.141125587176,rq2_partial|n|pearson|132,0.332653169772
+n,pearson,Public Transportation,urban_pop_den_sq mi,38,-0.0518462034864,0.763947749133,rq2_partial|n|pearson|132,0.826566417094
+n,pearson,Public Transportation,poverty rate,38,-0.280723747896,0.0972291786117,rq2_partial|n|pearson|132,0.274215283798
+n,pearson,Public Transportation,median household income,38,0.283253725691,0.094125639514,rq2_partial|n|pearson|132,0.274215283798
+n,pearson,Public Transportation,commute_%carpool,38,0.107695430041,0.531846009012,rq2_partial|n|pearson|132,0.735751617546
+n,pearson,Public Transportation,commute_%drive,38,-0.128326315408,0.455741813039,rq2_partial|n|pearson|132,0.661076036496
+n,pearson,Public Transportation,%home ownership,38,-0.078514856125,0.648988832688,rq2_partial|n|pearson|132,0.783364892587
+n,pearson,Public Transportation,Black_White income inequality,38,0.180255346644,0.292794666143,rq2_partial|n|pearson|132,0.501933713388
+n,pearson,Public Transportation,Hispanic_White income inequality,38,-0.101526541132,0.555736034839,rq2_partial|n|pearson|132,0.735751617546
+n,pearson,Public Transportation,Driving Score,38,0.288013233109,0.0884933537025,rq2_partial|n|pearson|132,0.270852871588
+n,pearson,Public Transportation,Walking Score,38,0.140952585752,0.412230786589,rq2_partial|n|pearson|132,0.618346179883
+n,pearson,Driving and Traffic,urban land area_sq mi,38,0.0996854780841,0.56296146494,rq2_partial|n|pearson|132,0.735751617546
+n,pearson,Driving and Traffic,urban_pop_den_sq mi,38,-0.418705083803,0.0110362289217,rq2_partial|n|pearson|132,0.105960853864
+n,pearson,Driving and Traffic,poverty rate,38,0.218587542569,0.2002660726,rq2_partial|n|pearson|132,0.400532145201
+n,pearson,Driving and Traffic,median household income,38,-0.331077254923,0.0485662874654,rq2_partial|n|pearson|132,0.206798385337
+n,pearson,Driving and Traffic,commute_%carpool,38,0.0606001033101,0.725519732853,rq2_partial|n|pearson|132,0.818535083219
+n,pearson,Driving and Traffic,commute_%drive,38,0.447513229607,0.00620615405515,rq2_partial|n|pearson|132,0.0682676946067
+n,pearson,Driving and Traffic,%home ownership,38,0.0535510132926,0.756417027194,rq2_partial|n|pearson|132,0.826566417094
+n,pearson,Driving and Traffic,Black_White income inequality,38,0.469423659608,0.00387311277494,rq2_partial|n|pearson|132,0.0568056540325
+n,pearson,Driving and Traffic,Hispanic_White income inequality,38,0.0963216477004,0.576273767482,rq2_partial|n|pearson|132,0.738525604928
+n,pearson,Driving and Traffic,Driving Score,38,-0.0616983157259,0.720742890993,rq2_partial|n|pearson|132,0.818535083219
+n,pearson,Driving and Traffic,Walking Score,38,-0.480221800609,0.00303511833116,rq2_partial|n|pearson|132,0.0568056540325
+n,pearson,Economy and Income,urban land area_sq mi,38,-0.057326329618,0.739819511327,rq2_partial|n|pearson|132,0.826566417094
+n,pearson,Economy and Income,urban_pop_den_sq mi,38,0.362208262703,0.0299411761627,rq2_partial|n|pearson|132,0.164676468895
+n,pearson,Economy and Income,poverty rate,38,-0.149963575752,0.382674939398,rq2_partial|n|pearson|132,0.600206361098
+n,pearson,Economy and Income,median household income,38,0.261489065021,0.123436767976,rq2_partial|n|pearson|132,0.316073186522
+n,pearson,Economy and Income,commute_%carpool,38,-0.146656426563,0.393375078784,rq2_partial|n|pearson|132,0.600206361098
+n,pearson,Economy and Income,commute_%drive,38,-0.498919248059,0.00195252610768,rq2_partial|n|pearson|132,0.0515466892427
+n,pearson,Economy and Income,%home ownership,38,-0.191638289386,0.262855834733,rq2_partial|n|pearson|132,0.46262626913
+n,pearson,Economy and Income,Black_White income inequality,38,-0.328838574924,0.0502013223159,rq2_partial|n|pearson|132,0.207080454553
+n,pearson,Economy and Income,Hispanic_White income inequality,38,-0.227853754803,0.181374918751,rq2_partial|n|pearson|132,0.386153052824
+n,pearson,Economy and Income,Driving Score,38,0.131816630146,0.443473650778,rq2_partial|n|pearson|132,0.650428021142
+n,pearson,Economy and Income,Walking Score,38,0.57535655735,0.000241632544134,rq2_partial|n|pearson|132,0.0318954958257
+n,pearson,Education,urban land area_sq mi,38,0.449767501749,0.00592049634359,rq2_partial|n|pearson|132,0.0682676946067
+n,pearson,Education,urban_pop_den_sq mi,38,-0.394460393148,0.0172810619554,rq2_partial|n|pearson|132,0.120057904111
+n,pearson,Education,poverty rate,38,0.0832575822512,0.629269496739,rq2_partial|n|pearson|132,0.769107162681
+n,pearson,Education,median household income,38,-0.288581418597,0.0878386988776,rq2_partial|n|pearson|132,0.270852871588
+n,pearson,Education,commute_%carpool,38,-0.313566847972,0.0625635442847,rq2_partial|n|pearson|132,0.223199671502
+n,pearson,Education,commute_%drive,38,0.00512298390726,0.976343589749,rq2_partial|n|pearson|132,0.983796594251
+n,pearson,Education,%home ownership,38,0.251751851488,0.138559231093,rq2_partial|n|pearson|132,0.332542154623
+n,pearson,Education,Black_White income inequality,38,0.0324143125717,0.851134349843,rq2_partial|n|pearson|132,0.886821545282
+n,pearson,Education,Hispanic_White income inequality,38,-0.113546964431,0.509654465646,rq2_partial|n|pearson|132,0.723380531884
+n,pearson,Education,Driving Score,38,-0.202585718072,0.236036369045,rq2_partial|n|pearson|132,0.435914762518
+n,pearson,Education,Walking Score,38,-0.199536939228,0.243312023606,rq2_partial|n|pearson|132,0.435914762518
+n,pearson,Culture and Art,urban land area_sq mi,38,0.248540839527,0.143833142563,rq2_partial|n|pearson|132,0.333087277514
+n,pearson,Culture and Art,urban_pop_den_sq mi,38,-0.407439525027,0.0136464736037,rq2_partial|n|pearson|132,0.105960853864
+n,pearson,Culture and Art,poverty rate,38,0.0966212040625,0.575082546018,rq2_partial|n|pearson|132,0.738525604928
+n,pearson,Culture and Art,median household income,38,-0.21948516263,0.198378346215,rq2_partial|n|pearson|132,0.400532145201
+n,pearson,Culture and Art,commute_%carpool,38,-0.101239619072,0.556859238257,rq2_partial|n|pearson|132,0.735751617546
+n,pearson,Culture and Art,commute_%drive,38,0.33202287425,0.0478886042607,rq2_partial|n|pearson|132,0.206798385337
+n,pearson,Culture and Art,%home ownership,38,0.266479673377,0.11618039969,rq2_partial|n|pearson|132,0.310021677999
+n,pearson,Culture and Art,Black_White income inequality,38,0.246607882543,0.147077968949,rq2_partial|n|pearson|132,0.334729170712
+n,pearson,Culture and Art,Hispanic_White income inequality,38,0.119475085446,0.487654703282,rq2_partial|n|pearson|132,0.699678487318
+n,pearson,Culture and Art,Driving Score,38,-0.199993228508,0.242213659371,rq2_partial|n|pearson|132,0.435914762518
+n,pearson,Culture and Art,Walking Score,38,-0.314035470326,0.0621514620484,rq2_partial|n|pearson|132,0.223199671502
+n,pearson,Race/Immigration Discourse,urban land area_sq mi,38,0.291040509038,0.0850482872346,rq2_partial|n|pearson|132,0.270852871588
+n,pearson,Race/Immigration Discourse,urban_pop_den_sq mi,38,0.102165191268,0.553239733554,rq2_partial|n|pearson|132,0.735751617546
+n,pearson,Race/Immigration Discourse,poverty rate,38,-0.213542433182,0.211109186372,rq2_partial|n|pearson|132,0.405418640383
+n,pearson,Race/Immigration Discourse,median household income,38,0.199096062533,0.244376457775,rq2_partial|n|pearson|132,0.435914762518
+n,pearson,Race/Immigration Discourse,commute_%carpool,38,-0.21547197931,0.206915271299,rq2_partial|n|pearson|132,0.405418640383
+n,pearson,Race/Immigration Discourse,commute_%drive,38,-0.520481681005,0.00113730424163,rq2_partial|n|pearson|132,0.0500413866319
+n,pearson,Race/Immigration Discourse,%home ownership,38,0.1063009675,0.537202504371,rq2_partial|n|pearson|132,0.735751617546
+n,pearson,Race/Immigration Discourse,Black_White income inequality,38,-0.29059338153,0.0855504984168,rq2_partial|n|pearson|132,0.270852871588
+n,pearson,Race/Immigration Discourse,Hispanic_White income inequality,38,-0.0531652565138,0.758119139838,rq2_partial|n|pearson|132,0.826566417094
+n,pearson,Race/Immigration Discourse,Driving Score,38,0.220509496707,0.196239359396,rq2_partial|n|pearson|132,0.400532145201
+n,pearson,Race/Immigration Discourse,Walking Score,38,0.454399720833,0.00536883178182,rq2_partial|n|pearson|132,0.0682676946067
+n,pearson,Recreation,urban land area_sq mi,38,0.213170915403,0.2119233802,rq2_partial|n|pearson|132,0.405418640383
+n,pearson,Recreation,urban_pop_den_sq mi,38,-0.353267274351,0.0345597222033,rq2_partial|n|pearson|132,0.175457051186
+n,pearson,Recreation,poverty rate,38,-0.00350558963121,0.983811028823,rq2_partial|n|pearson|132,0.983811028823
+n,pearson,Recreation,median household income,38,-0.0905696755055,0.599359621184,rq2_partial|n|pearson|132,0.740353515204
+n,pearson,Recreation,commute_%carpool,38,0.0946770182133,0.582833554054,rq2_partial|n|pearson|132,0.739750280145
+n,pearson,Recreation,commute_%drive,38,0.359364690615,0.0313515839224,rq2_partial|n|pearson|132,0.16553636311
+n,pearson,Recreation,%home ownership,38,0.0903781766098,0.600135046415,rq2_partial|n|pearson|132,0.740353515204
+n,pearson,Recreation,Black_White income inequality,38,0.280395692782,0.0976372601403,rq2_partial|n|pearson|132,0.274215283798
+n,pearson,Recreation,Hispanic_White income inequality,38,-0.00748469550277,0.965443398,rq2_partial|n|pearson|132,0.983796594251
+n,pearson,Recreation,Driving Score,38,-0.072777590893,0.673160050546,rq2_partial|n|pearson|132,0.800514654703
+n,pearson,Recreation,Walking Score,38,-0.367798184457,0.0273202734303,rq2_partial|n|pearson|132,0.156794612731
+n,pearson,Social Problem,urban land area_sq mi,38,-0.286475206249,0.0902842905293,rq2_partial|n|pearson|132,0.270852871588
+n,pearson,Social Problem,urban_pop_den_sq mi,38,0.409254853724,0.0131937011641,rq2_partial|n|pearson|132,0.105960853864
+n,pearson,Social Problem,poverty rate,38,-0.388579260695,0.0191770067416,rq2_partial|n|pearson|132,0.120541185233
+n,pearson,Social Problem,median household income,38,0.398304031787,0.0161288372334,rq2_partial|n|pearson|132,0.118278139711
+n,pearson,Social Problem,commute_%carpool,38,-0.0072843834179,0.966367702,rq2_partial|n|pearson|132,0.983796594251
+n,pearson,Social Problem,commute_%drive,38,-0.412206905132,0.0124845037607,rq2_partial|n|pearson|132,0.105960853864
+n,pearson,Social Problem,%home ownership,38,-0.100704546088,0.558956686735,rq2_partial|n|pearson|132,0.735751617546
+n,pearson,Social Problem,Black_White income inequality,38,-0.222174843391,0.192796364827,rq2_partial|n|pearson|132,0.400532145201
+n,pearson,Social Problem,Hispanic_White income inequality,38,0.0670277010844,0.697712367569,rq2_partial|n|pearson|132,0.806857643817
+n,pearson,Social Problem,Driving Score,38,0.3905612115,0.0185195752699,rq2_partial|n|pearson|132,0.120541185233
+n,pearson,Social Problem,Walking Score,38,0.47025463493,0.00380216838293,rq2_partial|n|pearson|132,0.0568056540325
+n,pearson,Governing,urban land area_sq mi,38,-0.145978223737,0.395590556178,rq2_partial|n|pearson|132,0.600206361098
+n,pearson,Governing,urban_pop_den_sq mi,38,0.341055471506,0.041790402864,rq2_partial|n|pearson|132,0.197011899216
+n,pearson,Governing,poverty rate,38,-0.373778243389,0.0247287313723,rq2_partial|n|pearson|132,0.148372388234
+n,pearson,Governing,median household income,38,0.326301370033,0.0521073331813,rq2_partial|n|pearson|132,0.208429332725
+n,pearson,Governing,commute_%carpool,38,0.0913359581516,0.596261105736,rq2_partial|n|pearson|132,0.740353515204
+n,pearson,Governing,commute_%drive,38,-0.505834544994,0.00164808285578,rq2_partial|n|pearson|132,0.0515466892427
+n,pearson,Governing,%home ownership,38,0.0379569596984,0.82603984196,rq2_partial|n|pearson|132,0.879332734989
+n,pearson,Governing,Black_White income inequality,38,-0.34213659339,0.0411046133516,rq2_partial|n|pearson|132,0.197011899216
+n,pearson,Governing,Hispanic_White income inequality,38,-0.0690499135313,0.689041368169,rq2_partial|n|pearson|132,0.806857643817
+n,pearson,Governing,Driving Score,38,0.161714806635,0.346055569871,rq2_partial|n|pearson|132,0.570991690287
+n,pearson,Governing,Walking Score,38,0.536033982201,0.000752924518056,rq2_partial|n|pearson|132,0.0496930181917
+n,pearson,Policing,urban land area_sq mi,38,0.236279729085,0.165325441683,rq2_partial|n|pearson|132,0.357753414789
+n,pearson,Policing,urban_pop_den_sq mi,38,-0.0658118308857,0.702944159386,rq2_partial|n|pearson|132,0.806857643817
+n,pearson,Policing,poverty rate,38,-0.315485192314,0.060890215801,rq2_partial|n|pearson|132,0.223199671502
+n,pearson,Policing,median household income,38,0.162094280435,0.344909815829,rq2_partial|n|pearson|132,0.570991690287
+n,pearson,Policing,commute_%carpool,38,-0.148061037297,0.38880954654,rq2_partial|n|pearson|132,0.600206361098
+n,pearson,Policing,commute_%drive,38,-0.255787263115,0.132134778382,rq2_partial|n|pearson|132,0.322996124933
+n,pearson,Policing,%home ownership,38,0.301472457785,0.0739650168745,rq2_partial|n|pearson|132,0.256931111248
+n,pearson,Policing,Black_White income inequality,38,-0.288924017041,0.0874457685254,rq2_partial|n|pearson|132,0.270852871588
+n,pearson,Policing,Hispanic_White income inequality,38,-0.107394931478,0.532998113994,rq2_partial|n|pearson|132,0.735751617546
+n,pearson,Policing,Driving Score,38,0.163158627855,0.341708556033,rq2_partial|n|pearson|132,0.570991690287
+n,pearson,Policing,Walking Score,38,0.265602223122,0.117432453788,rq2_partial|n|pearson|132,0.310021677999
+n,pearson,Neighborhood,urban land area_sq mi,38,-0.0520204681949,0.763176970661,rq2_partial|n|pearson|132,0.826566417094
+n,pearson,Neighborhood,urban_pop_den_sq mi,38,0.201882976981,0.237700216539,rq2_partial|n|pearson|132,0.435914762518
+n,pearson,Neighborhood,poverty rate,38,-0.0663122423942,0.700789285205,rq2_partial|n|pearson|132,0.806857643817
+n,pearson,Neighborhood,median household income,38,0.146155156357,0.395011879399,rq2_partial|n|pearson|132,0.600206361098
+n,pearson,Neighborhood,commute_%carpool,38,-0.138730160872,0.419713860127,rq2_partial|n|pearson|132,0.622496961088
+n,pearson,Neighborhood,commute_%drive,38,-0.0388702128109,0.821920610266,rq2_partial|n|pearson|132,0.879332734989
+n,pearson,Neighborhood,%home ownership,38,-0.0319529991413,0.853229820082,rq2_partial|n|pearson|132,0.886821545282
+n,pearson,Neighborhood,Black_White income inequality,38,-0.482864430292,0.00285589423089,rq2_partial|n|pearson|132,0.0568056540325
+n,pearson,Neighborhood,Hispanic_White income inequality,38,-0.241749266754,0.155469534287,rq2_partial|n|pearson|132,0.342032975432
+n,pearson,Neighborhood,Driving Score,38,0.0320886930375,0.852613340736,rq2_partial|n|pearson|132,0.886821545282
+n,pearson,Neighborhood,Walking Score,38,0.337381046647,0.0441906279393,rq2_partial|n|pearson|132,0.201143547861
+n,pearson,City Development,urban land area_sq mi,38,-0.0776038821039,0.652804077155,rq2_partial|n|pearson|132,0.783364892587
+n,pearson,City Development,urban_pop_den_sq mi,38,0.260767227339,0.124513679539,rq2_partial|n|pearson|132,0.316073186522
+n,pearson,City Development,poverty rate,38,-0.180650887233,0.291719096754,rq2_partial|n|pearson|132,0.501933713388
+n,pearson,City Development,median household income,38,0.276413091144,0.102696238351,rq2_partial|n|pearson|132,0.282414655466
+n,pearson,City Development,commute_%carpool,38,0.00592171632514,0.972656568277,rq2_partial|n|pearson|132,0.983796594251
+n,pearson,City Development,commute_%drive,38,-0.148669383049,0.38684178808,rq2_partial|n|pearson|132,0.600206361098
+n,pearson,City Development,%home ownership,38,-0.411549030771,0.0126396941821,rq2_partial|n|pearson|132,0.105960853864
+n,pearson,City Development,Black_White income inequality,38,-0.150038467197,0.382434622158,rq2_partial|n|pearson|132,0.600206361098
+n,pearson,City Development,Hispanic_White income inequality,38,-0.242882747921,0.153481496071,rq2_partial|n|pearson|132,0.342032975432
+n,pearson,City Development,Driving Score,38,0.258281910803,0.128275079953,rq2_partial|n|pearson|132,0.319477557619
+n,pearson,City Development,Walking Score,38,0.320471006569,0.056706472941,rq2_partial|n|pearson|132,0.220154542006
+n,spearman,Public Transportation,urban land area_sq mi,38,0.0617110571244,0.720687530973,rq2_partial|n|spearman|132,0.902753708961
+n,spearman,Public Transportation,urban_pop_den_sq mi,38,-0.053096292418,0.758423555203,rq2_partial|n|spearman|132,0.902753708961
+n,spearman,Public Transportation,poverty rate,38,-0.10829825475,0.529538432139,rq2_partial|n|spearman|132,0.720609000437
+n,spearman,Public Transportation,median household income,38,0.210032325526,0.218888245619,rq2_partial|n|spearman|132,0.483876662043
+n,spearman,Public Transportation,commute_%carpool,38,0.0841770885593,0.625474872188,rq2_partial|n|spearman|132,0.829532078178
+n,spearman,Public Transportation,commute_%drive,38,0.0381304754683,0.825256842887,rq2_partial|n|spearman|132,0.931059002232
+n,spearman,Public Transportation,%home ownership,38,-0.146522593661,0.39381169975,rq2_partial|n|spearman|132,0.61858774995
+n,spearman,Public Transportation,Black_White income inequality,38,0.227512605478,0.182047182951,rq2_partial|n|spearman|132,0.4575331744
+n,spearman,Public Transportation,Hispanic_White income inequality,38,-0.169060761004,0.324287846151,rq2_partial|n|spearman|132,0.582088735349
+n,spearman,Public Transportation,Driving Score,38,0.0477724601849,0.782028248447,rq2_partial|n|spearman|132,0.902753708961
+n,spearman,Public Transportation,Walking Score,38,0.0118226356222,0.945439634073,rq2_partial|n|spearman|132,0.996697807071
+n,spearman,Driving and Traffic,urban land area_sq mi,38,0.274768895259,0.104841929679,rq2_partial|n|spearman|132,0.314911409658
+n,spearman,Driving and Traffic,urban_pop_den_sq mi,38,-0.229261514387,0.178619419801,rq2_partial|n|spearman|132,0.4575331744
+n,spearman,Driving and Traffic,poverty rate,38,0.287714721009,0.0888387962938,rq2_partial|n|spearman|132,0.308597923968
+n,spearman,Driving and Traffic,median household income,38,-0.223697762883,0.189685137797,rq2_partial|n|spearman|132,0.463674781281
+n,spearman,Driving and Traffic,commute_%carpool,38,0.18504005155,0.279954306968,rq2_partial|n|spearman|132,0.538466130643
+n,spearman,Driving and Traffic,commute_%drive,38,0.232424170285,0.172537707956,rq2_partial|n|spearman|132,0.4575331744
+n,spearman,Driving and Traffic,%home ownership,38,-0.116100130476,0.500119059911,rq2_partial|n|spearman|132,0.720609000437
+n,spearman,Driving and Traffic,Black_White income inequality,38,0.383921818163,0.0207989014707,rq2_partial|n|spearman|132,0.172063215687
+n,spearman,Driving and Traffic,Hispanic_White income inequality,38,0.0327675201873,0.849530617062,rq2_partial|n|spearman|132,0.950322385188
+n,spearman,Driving and Traffic,Driving Score,38,0.0755936655356,0.661253689671,rq2_partial|n|spearman|132,0.855740068986
+n,spearman,Driving and Traffic,Walking Score,38,-0.391490233678,0.0182179546139,rq2_partial|n|spearman|132,0.172063215687
+n,spearman,Economy and Income,urban land area_sq mi,38,-0.356862069394,0.0326374791213,rq2_partial|n|spearman|132,0.179506135167
+n,spearman,Economy and Income,urban_pop_den_sq mi,38,0.294118134197,0.0816530316064,rq2_partial|n|spearman|132,0.302485496189
+n,spearman,Economy and Income,poverty rate,38,0.116070941248,0.500227560671,rq2_partial|n|spearman|132,0.720609000437
+n,spearman,Economy and Income,median household income,38,0.0467711656059,0.786489973716,rq2_partial|n|spearman|132,0.902753708961
+n,spearman,Economy and Income,commute_%carpool,38,-0.163998860648,0.339194241345,rq2_partial|n|spearman|132,0.589126840231
+n,spearman,Economy and Income,commute_%drive,38,-0.157922322552,0.357633176062,rq2_partial|n|spearman|132,0.605225374875
+n,spearman,Economy and Income,%home ownership,38,-0.192800726047,0.259916497528,rq2_partial|n|spearman|132,0.538466130643
+n,spearman,Economy and Income,Black_White income inequality,38,-0.269369550972,0.112127547378,rq2_partial|n|spearman|132,0.314911409658
+n,spearman,Economy and Income,Hispanic_White income inequality,38,-0.165354003672,0.335163063603,rq2_partial|n|spearman|132,0.589126840231
+n,spearman,Economy and Income,Driving Score,38,-0.00583770907859,0.97304432841,rq2_partial|n|spearman|132,0.996697807071
+n,spearman,Economy and Income,Walking Score,38,0.456183002339,0.00516859222729,rq2_partial|n|spearman|132,0.0867560429417
+n,spearman,Education,urban land area_sq mi,38,0.39100171669,0.0183760427556,rq2_partial|n|spearman|132,0.172063215687
+n,spearman,Education,urban_pop_den_sq mi,38,-0.27148416289,0.109230088996,rq2_partial|n|spearman|132,0.314911409658
+n,spearman,Education,poverty rate,38,0.150248667544,0.381760587868,rq2_partial|n|spearman|132,0.61858774995
+n,spearman,Education,median household income,38,-0.159864595521,0.351675062782,rq2_partial|n|spearman|132,0.602871536198
+n,spearman,Education,commute_%carpool,38,-0.36023316625,0.0309151650982,rq2_partial|n|spearman|132,0.179506135167
+n,spearman,Education,commute_%drive,38,0.115514140445,0.502299554379,rq2_partial|n|spearman|132,0.720609000437
+n,spearman,Education,%home ownership,38,0.291273406699,0.0847876012044,rq2_partial|n|spearman|132,0.302485496189
+n,spearman,Education,Black_White income inequality,38,0.0489063151902,0.776984104913,rq2_partial|n|spearman|132,0.902753708961
+n,spearman,Education,Hispanic_White income inequality,38,0.0114828776915,0.947005348551,rq2_partial|n|spearman|132,0.996697807071
+n,spearman,Education,Driving Score,38,-0.362947053566,0.0295833878373,rq2_partial|n|spearman|132,0.179506135167
+n,spearman,Education,Walking Score,38,-0.185877279102,0.27774567744,rq2_partial|n|spearman|132,0.538466130643
+n,spearman,Culture and Art,urban land area_sq mi,38,0.376889053932,0.0234631657756,rq2_partial|n|spearman|132,0.172063215687
+n,spearman,Culture and Art,urban_pop_den_sq mi,38,-0.359105407452,0.0314828504859,rq2_partial|n|spearman|132,0.179506135167
+n,spearman,Culture and Art,poverty rate,38,0.111152224541,0.518680043555,rq2_partial|n|spearman|132,0.720609000437
+n,spearman,Culture and Art,median household income,38,-0.171304685188,0.317812351154,rq2_partial|n|spearman|132,0.582088735349
+n,spearman,Culture and Art,commute_%carpool,38,-0.185492328388,0.278759776698,rq2_partial|n|spearman|132,0.538466130643
+n,spearman,Culture and Art,commute_%drive,38,0.209562612074,0.219943937292,rq2_partial|n|spearman|132,0.483876662043
+n,spearman,Culture and Art,%home ownership,38,0.214308637231,0.209436852414,rq2_partial|n|spearman|132,0.483876662043
+n,spearman,Culture and Art,Black_White income inequality,38,0.270814738543,0.110141155586,rq2_partial|n|spearman|132,0.314911409658
+n,spearman,Culture and Art,Hispanic_White income inequality,38,0.0275042920799,0.873486363901,rq2_partial|n|spearman|132,0.968909243991
+n,spearman,Culture and Art,Driving Score,38,-0.319799722345,0.0572560751212,rq2_partial|n|spearman|132,0.279918589482
+n,spearman,Culture and Art,Walking Score,38,-0.272987224335,0.107205212252,rq2_partial|n|spearman|132,0.314911409658
+n,spearman,Race/Immigration Discourse,urban land area_sq mi,38,-0.293202251271,0.0826522718805,rq2_partial|n|spearman|132,0.302485496189
+n,spearman,Race/Immigration Discourse,urban_pop_den_sq mi,38,0.229905423431,0.177369019493,rq2_partial|n|spearman|132,0.4575331744
+n,spearman,Race/Immigration Discourse,poverty rate,38,-0.22667436418,0.183706501843,rq2_partial|n|spearman|132,0.4575331744
+n,spearman,Race/Immigration Discourse,median household income,38,0.212313637755,0.213810395781,rq2_partial|n|spearman|132,0.483876662043
+n,spearman,Race/Immigration Discourse,commute_%carpool,38,-0.145141727683,0.398333020801,rq2_partial|n|spearman|132,0.61858774995
+n,spearman,Race/Immigration Discourse,commute_%drive,38,-0.146761319926,0.393033066987,rq2_partial|n|spearman|132,0.61858774995
+n,spearman,Race/Immigration Discourse,%home ownership,38,0.142839171765,0.405938241523,rq2_partial|n|spearman|132,0.622038627547
+n,spearman,Race/Immigration Discourse,Black_White income inequality,38,-0.301030969216,0.0744099753407,rq2_partial|n|spearman|132,0.297639901363
+n,spearman,Race/Immigration Discourse,Hispanic_White income inequality,38,0.052425671752,0.761385609955,rq2_partial|n|spearman|132,0.902753708961
+n,spearman,Race/Immigration Discourse,Driving Score,38,-0.0439722976862,0.798996752203,rq2_partial|n|spearman|132,0.909203200782
+n,spearman,Race/Immigration Discourse,Walking Score,38,0.377067860426,0.0233920848023,rq2_partial|n|spearman|132,0.172063215687
+n,spearman,Recreation,urban land area_sq mi,38,0.312442415039,0.063561113649,rq2_partial|n|spearman|132,0.28931265523
+n,spearman,Recreation,urban_pop_den_sq mi,38,-0.411080836507,0.0127511299989,rq2_partial|n|spearman|132,0.141642661458
+n,spearman,Recreation,poverty rate,38,0.0654228883574,0.704620602276,rq2_partial|n|spearman|132,0.902753708961
+n,spearman,Recreation,median household income,38,-0.26949346231,0.111956182788,rq2_partial|n|spearman|132,0.314911409658
+n,spearman,Recreation,commute_%carpool,38,-0.000292238774269,0.998650340307,rq2_partial|n|spearman|132,0.998650340307
+n,spearman,Recreation,commute_%drive,38,0.41055777447,0.0128766055871,rq2_partial|n|spearman|132,0.141642661458
+n,spearman,Recreation,%home ownership,38,0.149259830413,0.384937484756,rq2_partial|n|spearman|132,0.61858774995
+n,spearman,Recreation,Black_White income inequality,38,0.358781811714,0.0316473074934,rq2_partial|n|spearman|132,0.179506135167
+n,spearman,Recreation,Hispanic_White income inequality,38,0.0575893540183,0.738667374157,rq2_partial|n|spearman|132,0.902753708961
+n,spearman,Recreation,Driving Score,38,-0.181052620805,0.290629286423,rq2_partial|n|spearman|132,0.545754783584
+n,spearman,Recreation,Walking Score,38,-0.474221267358,0.003478830581,rq2_partial|n|spearman|132,0.0867560429417
+n,spearman,Social Problem,urban land area_sq mi,38,-0.566860634703,0.000312654407244,rq2_partial|n|spearman|132,0.0206351908781
+n,spearman,Social Problem,urban_pop_den_sq mi,38,0.480188387412,0.0030374457111,rq2_partial|n|spearman|132,0.0867560429417
+n,spearman,Social Problem,poverty rate,38,-0.285092219993,0.0919183551676,rq2_partial|n|spearman|132,0.311108279029
+n,spearman,Social Problem,median household income,38,0.463975118285,0.00436735466658,rq2_partial|n|spearman|132,0.0867560429417
+n,spearman,Social Problem,commute_%carpool,38,-0.127999370632,0.456900258703,rq2_partial|n|spearman|132,0.677649821896
+n,spearman,Social Problem,commute_%drive,38,-0.306146136628,0.0693809519301,rq2_partial|n|spearman|132,0.297639901363
+n,spearman,Social Problem,%home ownership,38,-0.330181826596,0.0492150684492,rq2_partial|n|spearman|132,0.249861116742
+n,spearman,Social Problem,Black_White income inequality,38,-0.293653535956,0.0821587381398,rq2_partial|n|spearman|132,0.302485496189
+n,spearman,Social Problem,Hispanic_White income inequality,38,-0.063082906242,0.714735225386,rq2_partial|n|spearman|132,0.902753708961
+n,spearman,Social Problem,Driving Score,38,0.455380046237,0.00525794199647,rq2_partial|n|spearman|132,0.0867560429417
+n,spearman,Social Problem,Walking Score,38,0.580225136724,0.000207794035801,rq2_partial|n|spearman|132,0.0206351908781
+n,spearman,Governing,urban land area_sq mi,38,-0.274973584602,0.104572971238,rq2_partial|n|spearman|132,0.314911409658
+n,spearman,Governing,urban_pop_den_sq mi,38,0.365976587401,0.028152739093,rq2_partial|n|spearman|132,0.179506135167
+n,spearman,Governing,poverty rate,38,-0.282224802285,0.0953785437896,rq2_partial|n|spearman|132,0.314749194506
+n,spearman,Governing,median household income,38,0.331724146403,0.0481018641896,rq2_partial|n|spearman|132,0.249861116742
+n,spearman,Governing,commute_%carpool,38,0.109175666955,0.52618846326,rq2_partial|n|spearman|132,0.720609000437
+n,spearman,Governing,commute_%drive,38,-0.446888382224,0.00628739997891,rq2_partial|n|spearman|132,0.0922151996906
+n,spearman,Governing,%home ownership,38,0.0769365425612,0.655604479021,rq2_partial|n|spearman|132,0.855740068986
+n,spearman,Governing,Black_White income inequality,38,-0.199498836771,0.243403893536,rq2_partial|n|spearman|132,0.526710064702
+n,spearman,Governing,Hispanic_White income inequality,38,-0.141625507375,0.40998000452,rq2_partial|n|spearman|132,0.622038627547
+n,spearman,Governing,Driving Score,38,-0.0471860593552,0.784640403806,rq2_partial|n|spearman|132,0.902753708961
+n,spearman,Governing,Walking Score,38,0.458249666333,0.00494462164282,rq2_partial|n|spearman|132,0.0867560429417
+n,spearman,Policing,urban land area_sq mi,38,-0.0834599898148,0.628433392559,rq2_partial|n|spearman|132,0.829532078178
+n,spearman,Policing,urban_pop_den_sq mi,38,0.0255189117284,0.882552920939,rq2_partial|n|spearman|132,0.970808213033
+n,spearman,Policing,poverty rate,38,-0.154505647393,0.368260336993,rq2_partial|n|spearman|132,0.609722820343
+n,spearman,Policing,median household income,38,0.0481968498483,0.78013924264,rq2_partial|n|spearman|132,0.902753708961
+n,spearman,Policing,commute_%carpool,38,-0.213383738441,0.211456706569,rq2_partial|n|spearman|132,0.483876662043
+n,spearman,Policing,commute_%drive,38,-0.110044874687,0.522880050456,rq2_partial|n|spearman|132,0.720609000437
+n,spearman,Policing,%home ownership,38,0.188596322452,0.270651120698,rq2_partial|n|spearman|132,0.538466130643
+n,spearman,Policing,Black_White income inequality,38,-0.301366974295,0.0740711401003,rq2_partial|n|spearman|132,0.297639901363
+n,spearman,Policing,Hispanic_White income inequality,38,-0.134813641222,0.433084908262,rq2_partial|n|spearman|132,0.649627362393
+n,spearman,Policing,Driving Score,38,0.00398524200699,0.981596325145,rq2_partial|n|spearman|132,0.996697807071
+n,spearman,Policing,Walking Score,38,0.216317995633,0.205094772673,rq2_partial|n|spearman|132,0.483876662043
+n,spearman,Neighborhood,urban land area_sq mi,38,-0.189783149912,0.267591972207,rq2_partial|n|spearman|132,0.538466130643
+n,spearman,Neighborhood,urban_pop_den_sq mi,38,0.11287750126,0.512169684536,rq2_partial|n|spearman|132,0.720609000437
+n,spearman,Neighborhood,poverty rate,38,-0.0586454224331,0.734047095167,rq2_partial|n|spearman|132,0.902753708961
+n,spearman,Neighborhood,median household income,38,0.0234453833234,0.892037718029,rq2_partial|n|spearman|132,0.973132056031
+n,spearman,Neighborhood,commute_%carpool,38,-0.244469756384,0.150729115237,rq2_partial|n|spearman|132,0.414505066902
+n,spearman,Neighborhood,commute_%drive,38,0.0916615855576,0.594946523185,rq2_partial|n|spearman|132,0.801356541433
+n,spearman,Neighborhood,%home ownership,38,0.00551664402875,0.974526353813,rq2_partial|n|spearman|132,0.996697807071
+n,spearman,Neighborhood,Black_White income inequality,38,-0.378356476886,0.0228850805093,rq2_partial|n|spearman|132,0.172063215687
+n,spearman,Neighborhood,Hispanic_White income inequality,38,-0.316484833276,0.0600323938581,rq2_partial|n|spearman|132,0.28300985676
+n,spearman,Neighborhood,Driving Score,38,-0.0212343883641,0.902167563917,rq2_partial|n|spearman|132,0.973502617271
+n,spearman,Neighborhood,Walking Score,38,0.184467622913,0.281470931927,rq2_partial|n|spearman|132,0.538466130643
+n,spearman,City Development,urban land area_sq mi,38,-0.188247974245,0.271553345996,rq2_partial|n|spearman|132,0.538466130643
+n,spearman,City Development,urban_pop_den_sq mi,38,0.04775317672,0.782114110565,rq2_partial|n|spearman|132,0.902753708961
+n,spearman,City Development,poverty rate,38,0.00889687487159,0.958928477049,rq2_partial|n|spearman|132,0.996697807071
+n,spearman,City Development,median household income,38,0.179978158053,0.293549921473,rq2_partial|n|spearman|132,0.545754783584
+n,spearman,City Development,commute_%carpool,38,0.154101721973,0.369528982026,rq2_partial|n|spearman|132,0.609722820343
+n,spearman,City Development,commute_%drive,38,-0.0071760506811,0.966867601941,rq2_partial|n|spearman|132,0.996697807071
+n,spearman,City Development,%home ownership,38,-0.415293886691,0.0117776328645,rq2_partial|n|spearman|132,0.141642661458
+n,spearman,City Development,Black_White income inequality,38,0.0201530514276,0.907127438821,rq2_partial|n|spearman|132,0.973502617271
+n,spearman,City Development,Hispanic_White income inequality,38,-0.302939896106,0.0725009557526,rq2_partial|n|spearman|132,0.297639901363
+n,spearman,City Development,Driving Score,38,-0.000734300067871,0.996608756631,rq2_partial|n|spearman|132,0.998650340307
+n,spearman,City Development,Walking Score,38,0.168361479922,0.326322472847,rq2_partial|n|spearman|132,0.582088735349

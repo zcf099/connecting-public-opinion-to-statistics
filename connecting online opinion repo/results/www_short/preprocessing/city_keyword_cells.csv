@@ -1,0 +1,1856 @@
+city,domain,keyword,m
+NYC,Governing,laws,-0.551630434783
+NYC,Recreation,food,0.774436090226
+NYC,Public Transportation,transportation,0.5
+NYC,Governing,law,-0.695833333333
+NYC,Neighborhood,resources,0.324324324324
+NYC,Governing,policy,-0.301886792453
+NYC,City Development,development,0.1875
+NYC,Governing,cuomo,-0.51724137931
+NYC,Public Transportation,transit,0.582417582418
+NYC,Policing,cops,-0.65625
+NYC,Economy and Income,taxes,-0.283018867925
+NYC,Culture and Art,museum,0.666666666667
+NYC,Public Transportation,mta,-0.441176470588
+NYC,City Development,market,0.656028368794
+NYC,Social Problem,guns,-0.491228070175
+NYC,Neighborhood,neighborhoods,-0.169811320755
+NYC,Driving and Traffic,parking,0.415384615385
+NYC,Driving and Traffic,driving,-0.837837837838
+NYC,Neighborhood,neighbors,-0.157894736842
+NYC,Economy and Income,revenue,-0.28
+NYC,Neighborhood,residents,-0.0877192982456
+NYC,Public Transportation,train,-0.418604651163
+NYC,Education,schools,0.822784810127
+NYC,Public Transportation,trains,0.109090909091
+NYC,Driving and Traffic,direction,0.558139534884
+NYC,Policing,justice,-0.621621621622
+NYC,Social Problem,crime,-0.862385321101
+NYC,Governing,mayor,-0.107142857143
+NYC,Policing,police,-0.379310344828
+NYC,Driving and Traffic,traffic,-0.529411764706
+NYC,Race/Immigration Discourse,hate crime,-1.11363636364
+NYC,Culture and Art,culture,0.229508196721
+NYC,City Development,city limits,-1.08333333333
+NYC,Public Transportation,subway,0.021978021978
+NYC,Economy and Income,prices,-0.0434782608696
+NYC,Driving and Traffic,distance,0.428571428571
+NYC,Social Problem,gun crime,-1.2
+NYC,Education,school,0.402597402597
+NYC,Race/Immigration Discourse,majority,0.0232558139535
+NYC,Driving and Traffic,drivers,-0.623376623377
+NYC,Economy and Income,tax,-0.391304347826
+NYC,Governing,policies,0.0188679245283
+NYC,City Development,business,0.051724137931
+NYC,Policing,speed limit,-0.964285714286
+NYC,City Development,infrastructure,0.172043010753
+NYC,Race/Immigration Discourse,foreigners,0.666666666667
+NYC,Social Problem,firearms,-0.444444444444
+NYC,Governing,regulations,-0.333333333333
+NYC,Economy and Income,investment,0.267857142857
+NYC,City Development,industry,-0.217391304348
+NYC,Economy and Income,salaries,0.142857142857
+NYC,Race/Immigration Discourse,diversity,0.333333333333
+NYC,Social Problem,criminals,-1.05263157895
+NYC,Education,school system,-0.333333333333
+NYC,Governing,rules,0.508287292818
+NYC,Neighborhood,environment,0.142857142857
+NYC,Governing,healthcare,0.529411764706
+NYC,Social Problem,violence,-0.466666666667
+NYC,Governing,government,-0.219512195122
+NYC,Public Transportation,commute,0.145833333333
+NYC,City Development,construction,0.238095238095
+NYC,Economy and Income,income,0.131578947368
+NYC,Policing,enforcement,0.535714285714
+NYC,Public Transportation,buses,0.0625
+NYC,Culture and Art,museums,0.833333333333
+NYC,Public Transportation,bus,0.0666666666667
+NYC,Social Problem,homeless,-0.272727272727
+NYC,Public Transportation,transport,0.375
+NYC,Economy and Income,salary,0.769230769231
+NYC,City Development,planning,0.285714285714
+NYC,Social Problem,weed,-0.72
+NYC,Public Transportation,commuter rail,-1.23529411765
+NYC,Economy and Income,economies,0.454545454545
+NYC,Driving and Traffic,vehicle,-0.0833333333333
+NYC,City Development,growth,0.2
+NYC,Economy and Income,economy,0.30487804878
+NYC,Race/Immigration Discourse,minority,-0.857142857143
+NYC,Race/Immigration Discourse,immigrant,-0.833333333333
+NYC,Recreation,parks,0.833333333333
+NYC,Public Transportation,transit system,-0.236842105263
+NYC,City Development,markets,0.45
+NYC,Race/Immigration Discourse,racist,-0.708333333333
+NYC,Policing,nypd,-0.725
+NYC,Race/Immigration Discourse,racists,-0.545454545455
+NYC,Policing,speed limits,-1
+NYC,Race/Immigration Discourse,asians,-0.5
+NYC,Race/Immigration Discourse,blacks,-0.178571428571
+NYC,Race/Immigration Discourse,racism,-0.416666666667
+NYC,Governing,governor,0.416666666667
+Los Angeles,Recreation,food,0.948818897638
+Los Angeles,Governing,policy,0.136363636364
+Los Angeles,Social Problem,crime,-0.9375
+Los Angeles,City Development,industry,0.571428571429
+Los Angeles,Driving and Traffic,traffic,-0.743055555556
+Los Angeles,Culture and Art,culture,0.318181818182
+Los Angeles,City Development,city limits,-1.06666666667
+Los Angeles,Governing,regulations,-0.538461538462
+Los Angeles,City Development,market,0.490196078431
+Los Angeles,Economy and Income,revenue,-0.166666666667
+Los Angeles,Economy and Income,prices,0.1
+Los Angeles,Social Problem,homeless,-0.384615384615
+Los Angeles,Driving and Traffic,drivers,-0.960784313725
+Los Angeles,City Development,infrastructure,0.355263157895
+Los Angeles,Neighborhood,environment,0.142857142857
+Los Angeles,Governing,laws,-0.416666666667
+Los Angeles,Neighborhood,neighborhoods,0.336206896552
+Los Angeles,Culture and Art,movie,0.722222222222
+Los Angeles,Public Transportation,train,-0.833333333333
+Los Angeles,City Development,planning,-0.384615384615
+Los Angeles,City Development,growth,0.368421052632
+Los Angeles,City Development,development,0.117647058824
+Los Angeles,Public Transportation,transportation,0.807692307692
+Los Angeles,Neighborhood,resources,0
+Los Angeles,Economy and Income,economy,0.291666666667
+Los Angeles,City Development,business,-0.2
+Los Angeles,Education,schools,0.65625
+Los Angeles,Governing,policies,-0.266666666667
+Los Angeles,Economy and Income,investment,0.777777777778
+Los Angeles,Public Transportation,transit,0.618644067797
+Los Angeles,Social Problem,drug addicts,-0.772727272727
+Los Angeles,Driving and Traffic,parking,1.08
+Los Angeles,Governing,law,-0.571428571429
+Los Angeles,Driving and Traffic,direction,0.857142857143
+Los Angeles,Neighborhood,residents,-0.214285714286
+Los Angeles,Driving and Traffic,distance,0.888888888889
+Los Angeles,Driving and Traffic,driving,-0.692307692308
+Los Angeles,Public Transportation,commute,-0.0909090909091
+Los Angeles,Policing,speed limit,-1
+Los Angeles,Education,school,0.263157894737
+Chicago,Recreation,food,0.879672897196
+Chicago,Driving and Traffic,drivers,-0.6875
+Chicago,Culture and Art,movie,0.333333333333
+Chicago,Recreation,parks,0.925
+Chicago,Neighborhood,neighborhoods,0.0335051546392
+Chicago,Education,school,0.805555555556
+Chicago,Education,schools,0.746835443038
+Chicago,Policing,cops,-0.471698113208
+Chicago,City Development,business,-0.03125
+Chicago,Governing,government,-0.473684210526
+Chicago,Governing,regulations,-0.277777777778
+Chicago,Economy and Income,prices,0.25
+Chicago,Social Problem,crime,-0.986979166667
+Chicago,City Development,market,0.338028169014
+Chicago,City Development,markets,0.772727272727
+Chicago,Driving and Traffic,parking,0.341772151899
+Chicago,Public Transportation,transit,0.845454545455
+Chicago,Race/Immigration Discourse,race,-0.272727272727
+Chicago,Policing,police,-0.139534883721
+Chicago,Neighborhood,environment,0.28813559322
+Chicago,Culture and Art,culture,0.142857142857
+Chicago,Neighborhood,resources,-0.0681818181818
+Chicago,Race/Immigration Discourse,majority,0.0857142857143
+Chicago,Public Transportation,commute,0.15625
+Chicago,Social Problem,guns,-1
+Chicago,Social Problem,violence,-0.657142857143
+Chicago,Policing,speed limit,-1.3375
+Chicago,Public Transportation,transport,0.857142857143
+Chicago,City Development,city limits,-1.05681818182
+Chicago,Economy and Income,tax,0.328947368421
+Chicago,Economy and Income,taxes,-0.170212765957
+Chicago,Social Problem,police brutality,-1
+Chicago,Governing,mayor,0.222222222222
+Chicago,Public Transportation,trains,0.277777777778
+Chicago,City Development,infrastructure,0.397959183673
+Chicago,Driving and Traffic,direction,0.65306122449
+Chicago,Public Transportation,transportation,0.745454545455
+Chicago,Culture and Art,museum,0.634328358209
+Chicago,Culture and Art,museums,0.880952380952
+Chicago,City Development,planning,-0.3
+Chicago,Economy and Income,investment,0.287878787879
+Chicago,Race/Immigration Discourse,diversity,0.666666666667
+Chicago,Governing,policy,-0.0769230769231
+Chicago,Driving and Traffic,traffic,-0.492537313433
+Chicago,Economy and Income,revenue,0.230769230769
+Chicago,Policing,enforcement,-0.166666666667
+Chicago,Governing,law,-0.724637681159
+Chicago,Public Transportation,train,-0.25
+Chicago,Neighborhood,residents,-0.415384615385
+Chicago,Public Transportation,commuter rail,-1.03846153846
+Chicago,Policing,justice,-0.96875
+Chicago,Policing,speed limits,-0.954545454545
+Chicago,City Development,industry,-0.45
+Chicago,Policing,policing,-0.125
+Chicago,Economy and Income,economy,0.3
+Chicago,Social Problem,criminals,-0.980769230769
+Chicago,City Development,development,0.41935483871
+Chicago,Race/Immigration Discourse,blacks,-0.708333333333
+Chicago,Governing,laws,-0.408695652174
+Chicago,Economy and Income,salary,0.833333333333
+Chicago,Recreation,foods,0.789473684211
+Chicago,Governing,taxation,0.307692307692
+Chicago,Recreation,fans,-0.568181818182
+Chicago,Race/Immigration Discourse,racism,-0.47619047619
+Chicago,Recreation,clubs,0.6875
+Chicago,Social Problem,violence problem,-0.75
+Chicago,Social Problem,gun crime,-1.23333333333
+Chicago,Governing,rules,-0.3
+Chicago,Governing,policies,-0.363636363636
+Chicago,Social Problem,crime problem,-1.12962962963
+Chicago,Race/Immigration Discourse,hate crime,-0.958333333333
+Chicago,Governing,officers,-0.333333333333
+Chicago,Recreation,sports,0.666666666667
+Chicago,City Development,growth,-0.24
+Chicago,Social Problem,drugs,-0.923076923077
+Chicago,Economy and Income,income,0.0769230769231
+Chicago,Social Problem,weed,-0.25
+Chicago,Governing,property taxes,-0.22
+Chicago,Driving and Traffic,distance,1.16666666667
+Chicago,Driving and Traffic,driving,-0.615384615385
+Chicago,Driving and Traffic,parking lot,-0.0892857142857
+Chicago,Neighborhood,neighbors,-0.136363636364
+Chicago,Education,university,0.818181818182
+Dallas,Recreation,food,0.986072423398
+Dallas,Culture and Art,museums,1.08695652174
+Dallas,Culture and Art,museum,1
+Dallas,Driving and Traffic,traffic,-0.631313131313
+Dallas,Driving and Traffic,parking,0.830985915493
+Dallas,City Development,city limits,-0.945945945946
+Dallas,Economy and Income,taxes,-0.166666666667
+Dallas,Public Transportation,transportation,0.75
+Dallas,Neighborhood,environment,0.472222222222
+Dallas,Economy and Income,prices,0.54
+Dallas,Neighborhood,neighborhoods,0.560126582278
+Dallas,Recreation,parks,1.02941176471
+Dallas,City Development,market,0.59375
+Dallas,Recreation,clubs,0.807692307692
+Dallas,Education,schools,0.898496240602
+Dallas,Driving and Traffic,drivers,-0.84496124031
+Dallas,Recreation,fans,-0.46875
+Dallas,Recreation,nightlife,0.777777777778
+Dallas,Public Transportation,commute,0.483333333333
+Dallas,Public Transportation,dart rail,-0.954545454545
+Dallas,Economy and Income,investment,0.733333333333
+Dallas,Public Transportation,light rail,-0.666666666667
+Dallas,Recreation,foods,0.333333333333
+Dallas,Governing,law,-0.657894736842
+Dallas,Neighborhood,resources,0.190476190476
+Dallas,Social Problem,crime,-0.76
+Dallas,Policing,police,-0.05
+Dallas,Driving and Traffic,direction,0.791666666667
+Dallas,Policing,speed limits,-0.857142857143
+Dallas,Policing,speed limit,-1.07575757576
+Dallas,Economy and Income,economy,0.866666666667
+Dallas,City Development,growth,0.6
+Dallas,City Development,development,0.545454545455
+Dallas,Driving and Traffic,highways,0
+Dallas,Social Problem,road rage,-1
+Dallas,City Development,business,-0.519230769231
+Dallas,Driving and Traffic,distance,0.814814814815
+Dallas,Driving and Traffic,driving,-0.888888888889
+Dallas,City Development,construction,-0.25
+Dallas,Culture and Art,culture,0.339622641509
+Dallas,Public Transportation,transit,0.676923076923
+Dallas,Governing,government,-0.6875
+Dallas,City Development,infrastructure,0.244444444444
+Dallas,Education,school,0.754098360656
+Dallas,City Development,markets,0.818181818182
+Dallas,Neighborhood,neighbors,0.357142857143
+Dallas,Governing,laws,-0.185185185185
+Dallas,Public Transportation,commuter rail,-1.23529411765
+Dallas,Driving and Traffic,highway,-0.166666666667
+Dallas,Policing,cops,-0.205128205128
+Dallas,Governing,policies,-0.333333333333
+Dallas,Governing,rules,-0.441176470588
+Dallas,Governing,officers,-0.51724137931
+Dallas,Race/Immigration Discourse,immigrant,-1.23076923077
+Dallas,Recreation,golf,1.09090909091
+Dallas,City Development,planning,-0.566666666667
+Dallas,Neighborhood,residents,-0.318181818182
+Dallas,Recreation,sports,0.136363636364
+Houston,City Development,growth,0.0571428571429
+Houston,Driving and Traffic,traffic,-0.685064935065
+Houston,Recreation,food,0.917008196721
+Houston,Public Transportation,transit,0.615384615385
+Houston,Public Transportation,commuter rail,-1.10655737705
+Houston,Driving and Traffic,parking,0.777777777778
+Houston,Driving and Traffic,drivers,-0.776845637584
+Houston,Public Transportation,train,0
+Houston,Economy and Income,income,0.333333333333
+Houston,Neighborhood,neighborhoods,0.453608247423
+Houston,City Development,market,0.661764705882
+Houston,Public Transportation,metro rail,-1
+Houston,Social Problem,crime,-0.833333333333
+Houston,Education,schools,0.852272727273
+Houston,Culture and Art,museums,0.862745098039
+Houston,Recreation,sports,0.294117647059
+Houston,Economy and Income,economy,0.537878787879
+Houston,Economy and Income,prices,0.506493506494
+Houston,Recreation,fans,0.0526315789474
+Houston,Policing,speed limit,-1.096
+Houston,City Development,business,0.190476190476
+Houston,Culture and Art,movie,0.571428571429
+Houston,Recreation,parks,1.06349206349
+Houston,Neighborhood,environment,0.702127659574
+Houston,Public Transportation,commute,0.129310344828
+Houston,Neighborhood,resources,0.65625
+Houston,Recreation,fan,-0.833333333333
+Houston,Governing,law,-0.756756756757
+Houston,Driving and Traffic,vehicle,0.235294117647
+Houston,Governing,rules,-0.444444444444
+Houston,Culture and Art,culture,0.577464788732
+Houston,Education,school,0.8125
+Houston,Social Problem,property crime,-1.11538461538
+Houston,Driving and Traffic,distance,0.978723404255
+Houston,Governing,policy,0.307692307692
+Houston,Public Transportation,light rail,-1.13636363636
+Houston,City Development,city limits,-1.08
+Houston,Economy and Income,tax,0.0833333333333
+Houston,Social Problem,road rage,-1.17796610169
+Houston,Economy and Income,investment,0.692307692308
+Houston,Driving and Traffic,driving,-0.632183908046
+Houston,City Development,construction,-0.785714285714
+Houston,City Development,development,0.393939393939
+Houston,Policing,cops,-0.521739130435
+Houston,Policing,enforcement,0.333333333333
+Houston,Governing,laws,-0.7
+Houston,Governing,policies,-0.307692307692
+Houston,Neighborhood,residents,-0.428571428571
+Houston,Driving and Traffic,direction,0.714285714286
+Houston,City Development,industry,0.193548387097
+Houston,Policing,speed limits,-0.928571428571
+Houston,Public Transportation,transportation,0.44
+Houston,City Development,markets,0.466666666667
+Houston,Race/Immigration Discourse,diversity,0.441176470588
+Houston,City Development,planning,0
+Houston,Public Transportation,transport,0.416666666667
+Houston,City Development,infrastructure,0.285714285714
+Houston,Policing,police,0.107142857143
+Houston,Policing,justice,-0.636363636364
+Houston,Neighborhood,neighbors,0.34375
+Houston,Race/Immigration Discourse,majority,-0.684210526316
+Houston,Governing,government,-0.222222222222
+Houston,Culture and Art,museum,1.05882352941
+Houston,Driving and Traffic,highways,0.214285714286
+Houston,Culture and Art,concerts,0.583333333333
+Miami,Public Transportation,transport,0.833333333333
+Miami,Recreation,food,0.851239669421
+Miami,Culture and Art,culture,0.243243243243
+Miami,Neighborhood,neighborhoods,0.318681318681
+Miami,Public Transportation,transportation,0.568181818182
+Miami,Economy and Income,prices,0.0350877192982
+Miami,Driving and Traffic,parking,0.2
+Miami,Driving and Traffic,drivers,-0.734848484848
+Miami,Driving and Traffic,direction,0.684210526316
+Miami,City Development,market,0.384615384615
+Miami,Governing,government,-0.5
+Miami,Economy and Income,income,-0.125
+Miami,City Development,business,-0.272727272727
+Miami,Policing,speed limit,-0.904761904762
+Miami,Education,school,0.970588235294
+Miami,Education,schools,1.03571428571
+Miami,Driving and Traffic,traffic,-0.530864197531
+Miami,Public Transportation,transit,0.735294117647
+Miami,Public Transportation,commute,0
+Miami,Recreation,clubs,0.4375
+Miami,City Development,development,-0.285714285714
+Miami,Culture and Art,museum,0.533333333333
+Miami,Economy and Income,salary,1
+Miami,Recreation,nightlife,0.769230769231
+Miami,Public Transportation,metro rail,-1.02040816327
+Miami,Driving and Traffic,driving,-0.952380952381
+Miami,Recreation,parks,0.941176470588
+Miami,Governing,laws,-0.357142857143
+Miami,Governing,law,-0.576923076923
+Miami,Social Problem,crime,-0.947368421053
+Miami,Public Transportation,bus,0.272727272727
+Miami,City Development,planning,-0.466666666667
+Miami,City Development,infrastructure,0.208333333333
+Miami,Economy and Income,economy,0.578947368421
+Miami,Governing,rules,-1.04545454545
+Miami,City Development,city limits,-1
+Miami,City Development,industry,0.818181818182
+Miami,Race/Immigration Discourse,majority,-0.181818181818
+Philadelphia,Governing,law,-0.578947368421
+Philadelphia,Economy and Income,economy,1.0625
+Philadelphia,Neighborhood,neighborhoods,0.242990654206
+Philadelphia,Economy and Income,tax,-0.543859649123
+Philadelphia,Education,schools,0.493670886076
+Philadelphia,Driving and Traffic,direction,0.526315789474
+Philadelphia,Governing,laws,-0.78
+Philadelphia,Neighborhood,residents,-0.0333333333333
+Philadelphia,Recreation,food,0.885
+Philadelphia,City Development,market,0.4375
+Philadelphia,Culture and Art,culture,0.161290322581
+Philadelphia,City Development,growth,-0.24
+Philadelphia,Recreation,parks,0.714285714286
+Philadelphia,Economy and Income,taxes,-0.608695652174
+Philadelphia,City Development,city limits,-1.02247191011
+Philadelphia,Economy and Income,prices,0.0526315789474
+Philadelphia,Social Problem,criminals,-0.882352941176
+Philadelphia,Recreation,fans,-0.0625
+Philadelphia,Public Transportation,transit,0.885714285714
+Philadelphia,Governing,mayor,0.4375
+Philadelphia,Neighborhood,neighbors,-0.115384615385
+Philadelphia,Governing,policies,-0.675
+Philadelphia,Governing,policy,0.0333333333333
+Philadelphia,City Development,development,0.363636363636
+Philadelphia,Economy and Income,investment,0.428571428571
+Philadelphia,Driving and Traffic,traffic,-0.277777777778
+Philadelphia,Neighborhood,resources,0.5
+Philadelphia,Social Problem,crime,-0.918032786885
+Philadelphia,City Development,infrastructure,0.475
+Philadelphia,Driving and Traffic,parking,0.285714285714
+Philadelphia,Race/Immigration Discourse,majority,-0.583333333333
+Philadelphia,Policing,cops,-0.894736842105
+Philadelphia,Driving and Traffic,driving,-0.444444444444
+Philadelphia,Education,school,0.774193548387
+Philadelphia,Economy and Income,revenue,-0.578947368421
+Philadelphia,Culture and Art,museum,0.666666666667
+Philadelphia,Governing,rules,-1
+Philadelphia,Neighborhood,environment,0.538461538462
+Philadelphia,City Development,business,-0.153846153846
+Philadelphia,Policing,enforcement,0.181818181818
+Philadelphia,Policing,justice,-0.90625
+Philadelphia,Policing,police,-0.684210526316
+Philadelphia,Economy and Income,income,-0.210526315789
+Philadelphia,Governing,government,-0.38
+Philadelphia,Driving and Traffic,drivers,-0.526315789474
+Philadelphia,Policing,speed limit,-1.45454545455
+Philadelphia,Public Transportation,transportation,0.75
+Philadelphia,Culture and Art,museums,0.916666666667
+Philadelphia,Social Problem,violence,-0.454545454545
+Philadelphia,Public Transportation,commute,0.272727272727
+Atlanta,Public Transportation,light rail,-0.788461538462
+Atlanta,Education,schools,0.956790123457
+Atlanta,Driving and Traffic,drivers,-0.745222929936
+Atlanta,Recreation,parks,0.904761904762
+Atlanta,Neighborhood,environment,0.614035087719
+Atlanta,Driving and Traffic,traffic,-0.541850220264
+Atlanta,City Development,planning,-0.0789473684211
+Atlanta,Public Transportation,marta,0.237704918033
+Atlanta,Recreation,sport,0.636363636364
+Atlanta,Culture and Art,culture,0.45
+Atlanta,Recreation,fans,-0.263157894737
+Atlanta,Governing,policy,-0.05
+Atlanta,Governing,laws,-0.597826086957
+Atlanta,Driving and Traffic,vehicle,0.214285714286
+Atlanta,Policing,speed limit,-1.125
+Atlanta,Public Transportation,commuter rail,-1.265625
+Atlanta,Recreation,food,0.881909547739
+Atlanta,Public Transportation,transit,0.802857142857
+Atlanta,City Development,expansion,0.826086956522
+Atlanta,Neighborhood,neighborhoods,0.497925311203
+Atlanta,Public Transportation,trains,0.294117647059
+Atlanta,Economy and Income,prices,0.394736842105
+Atlanta,Driving and Traffic,parking,0.44
+Atlanta,City Development,business,0.125
+Atlanta,Driving and Traffic,distance,0.96875
+Atlanta,City Development,industry,0.5
+Atlanta,City Development,infrastructure,0.517045454545
+Atlanta,City Development,city limits,-1.07442748092
+Atlanta,Recreation,fan,-0.421052631579
+Atlanta,Governing,law,-0.790909090909
+Atlanta,City Development,markets,0.565217391304
+Atlanta,Recreation,sports,0.458333333333
+Atlanta,Driving and Traffic,direction,0.597014925373
+Atlanta,Public Transportation,commute,0.22619047619
+Atlanta,City Development,market,0.69387755102
+Atlanta,City Development,growth,0.268115942029
+Atlanta,Education,school,0.784615384615
+Atlanta,Race/Immigration Discourse,majority,-0.0333333333333
+Atlanta,Economy and Income,taxes,-0.333333333333
+Atlanta,Public Transportation,marta rail,-0.989361702128
+Atlanta,Governing,government,-0.0185185185185
+Atlanta,Culture and Art,movie,0.5
+Atlanta,City Development,development,0.164835164835
+Atlanta,Public Transportation,transportation,0.704918032787
+Atlanta,Governing,rules,-0.457142857143
+Atlanta,Driving and Traffic,driving,-0.46875
+Atlanta,Social Problem,property crime,-1.16666666667
+Atlanta,Social Problem,crime,-0.934782608696
+Atlanta,Race/Immigration Discourse,racism,-0.461538461538
+Atlanta,Public Transportation,metro,0.0666666666667
+Atlanta,Economy and Income,revenue,-0.166666666667
+Atlanta,Public Transportation,buses,0.5625
+Atlanta,Recreation,nightlife,1
+Atlanta,Public Transportation,bus,-0.4
+Atlanta,Economy and Income,investment,0.723404255319
+Atlanta,Race/Immigration Discourse,blacks,-0.833333333333
+Atlanta,Neighborhood,residents,0.0833333333333
+Atlanta,Race/Immigration Discourse,diversity,0.909090909091
+Atlanta,Neighborhood,resources,0.642857142857
+Atlanta,Policing,enforcement,-0.0769230769231
+Atlanta,Social Problem,road rage,-0.892857142857
+Atlanta,Economy and Income,salary,0.6875
+Atlanta,Recreation,clubs,0.478260869565
+Atlanta,Neighborhood,neighbors,0.269230769231
+Atlanta,Economy and Income,tax,-0.0416666666667
+Atlanta,Policing,speed limits,-0.916666666667
+Atlanta,Culture and Art,concerts,1
+Atlanta,Culture and Art,museum,0.818181818182
+Atlanta,Public Transportation,transit system,0.115384615385
+Atlanta,Governing,policies,-0.5
+Atlanta,Policing,police,-0.117647058824
+Atlanta,Economy and Income,economy,0.533333333333
+Atlanta,Public Transportation,train,-0.333333333333
+Atlanta,Recreation,baseball,0.692307692308
+Atlanta,City Development,construction,0.25
+Atlanta,Economy and Income,income,0.571428571429
+Atlanta,Governing,officers,-0.153846153846
+Atlanta,Policing,cops,-0.142857142857
+Phoenix,Education,schools,0.950704225352
+Phoenix,Recreation,food,0.96875
+Phoenix,Recreation,clubs,1
+Phoenix,Driving and Traffic,driving,-0.217391304348
+Phoenix,Neighborhood,environment,0.823529411765
+Phoenix,Public Transportation,light rail,-0.886363636364
+Phoenix,Neighborhood,resources,0.636363636364
+Phoenix,Governing,laws,-0.636363636364
+Phoenix,Driving and Traffic,traffic,-0.320987654321
+Phoenix,Neighborhood,neighborhoods,0.651785714286
+Phoenix,Culture and Art,culture,0.46875
+Phoenix,Economy and Income,prices,0.309523809524
+Phoenix,City Development,market,0.777777777778
+Phoenix,Driving and Traffic,distance,1
+Phoenix,Driving and Traffic,drivers,-1
+Phoenix,Governing,rules,0.793103448276
+Phoenix,City Development,infrastructure,0.384615384615
+Phoenix,Public Transportation,commute,0.24
+Phoenix,Policing,speed limit,-1.2131147541
+Phoenix,Education,school,0.740740740741
+Phoenix,Recreation,nightlife,0.789473684211
+Phoenix,City Development,city limits,-1.09090909091
+Phoenix,Driving and Traffic,vehicle,0.538461538462
+Phoenix,Neighborhood,neighbors,0.0714285714286
+Phoenix,Social Problem,crime,-0.541666666667
+Phoenix,Culture and Art,museums,0.736842105263
+Phoenix,Driving and Traffic,parking,0.684210526316
+Phoenix,City Development,business,0.214285714286
+Phoenix,Recreation,parks,0.9375
+Phoenix,Driving and Traffic,direction,0.611111111111
+Phoenix,Governing,law,-1.33333333333
+Phoenix,Culture and Art,museum,1
+Phoenix,Public Transportation,transit,0.933333333333
+Phoenix,Public Transportation,transportation,0.5
+Phoenix,Policing,speed limits,-0.863636363636
+Boston,Public Transportation,trains,0.322222222222
+Boston,Public Transportation,commuter rail,-1.1348758465
+Boston,Driving and Traffic,parking,0.304794520548
+Boston,City Development,market,0.471428571429
+Boston,City Development,infrastructure,0.314655172414
+Boston,Race/Immigration Discourse,foreigners,0.714285714286
+Boston,Public Transportation,transit,0.914634146341
+Boston,City Development,city limits,-1.01293103448
+Boston,Public Transportation,commute,0.481060606061
+Boston,Policing,police,-0.25
+Boston,City Development,development,0.114754098361
+Boston,Culture and Art,movie,0.64
+Boston,City Development,business,0.16
+Boston,Recreation,food,0.94806763285
+Boston,Social Problem,police brutality,-1.11764705882
+Boston,Neighborhood,resources,0.367647058824
+Boston,Neighborhood,neighborhoods,0.218543046358
+Boston,Public Transportation,transportation,0.545454545455
+Boston,Race/Immigration Discourse,majority,-0.318181818182
+Boston,Economy and Income,investment,0.542857142857
+Boston,Governing,law,-1.02459016393
+Boston,Public Transportation,train,-0.852941176471
+Boston,Policing,cops,-0.227272727273
+Boston,Governing,laws,-0.513157894737
+Boston,Economy and Income,revenue,0
+Boston,Economy and Income,prices,0.153153153153
+Boston,Policing,speed limit,-1.23863636364
+Boston,Policing,justice,-0.545454545455
+Boston,Race/Immigration Discourse,race,0.0357142857143
+Boston,Education,schools,0.870481927711
+Boston,Education,school,0.728395061728
+Boston,Culture and Art,museum,1
+Boston,Social Problem,violence,-0.318181818182
+Boston,Recreation,nightlife,0.681818181818
+Boston,Economy and Income,economy,0.60447761194
+Boston,City Development,industry,0.25
+Boston,Race/Immigration Discourse,racism,0
+Boston,Recreation,sports,0.384615384615
+Boston,Neighborhood,residents,0.0853658536585
+Boston,Education,colleges,0.5
+Boston,Recreation,fan,-0.466666666667
+Boston,Recreation,clubs,0.555555555556
+Boston,City Development,growth,0.296296296296
+Boston,Governing,rules,-0.375
+Boston,Driving and Traffic,drivers,-0.5
+Boston,Driving and Traffic,highway,-0.75
+Boston,City Development,construction,-0.45
+Boston,City Development,markets,0.645161290323
+Boston,Neighborhood,neighbors,0.12
+Boston,Neighborhood,environment,0.166666666667
+Boston,Governing,healthcare,0.875
+Boston,Public Transportation,transport,0.384615384615
+Boston,Driving and Traffic,driving,-0.69387755102
+Boston,Governing,mayor,0.3125
+Boston,Governing,policy,0.28
+Boston,Social Problem,crime,-0.923076923077
+Boston,Policing,speed limits,-1.10714285714
+Boston,Culture and Art,culture,0.275862068966
+Boston,Driving and Traffic,distance,1.05882352941
+Boston,Economy and Income,tax,0.346153846154
+Boston,Governing,policies,-0.608695652174
+Boston,Economy and Income,salary,0.5
+Boston,Governing,regulations,-0.681818181818
+Boston,Driving and Traffic,traffic,-0.591954022989
+Boston,Economy and Income,taxes,0.0526315789474
+Boston,Public Transportation,buses,0.647058823529
+Boston,Driving and Traffic,direction,0.621621621622
+Boston,Culture and Art,museums,0.909090909091
+Boston,Recreation,parks,0.935483870968
+Boston,Public Transportation,bus,0.148148148148
+Boston,Economy and Income,income,0.384615384615
+Boston,Governing,government,0
+Boston,Social Problem,weed,-0.538461538462
+Boston,City Development,planning,0
+Boston,Race/Immigration Discourse,racist,-0.916666666667
+Boston,Social Problem,road rage,-1.07142857143
+Boston,Recreation,foods,0.6875
+Boston,City Development,expansion,0.692307692308
+Boston,City Development,building boom,1.07692307692
+Boston,Recreation,fans,-0.5
+Boston,Education,university,0.363636363636
+San Francisco,City Development,city limits,-0.943181818182
+San Francisco,Economy and Income,prices,-0.140350877193
+San Francisco,City Development,development,0.0877192982456
+San Francisco,City Development,growth,0.26
+San Francisco,Race/Immigration Discourse,diversity,0.40625
+San Francisco,City Development,infrastructure,0.340909090909
+San Francisco,Governing,laws,-0.302816901408
+San Francisco,City Development,market,0.55
+San Francisco,Economy and Income,income,0.103448275862
+San Francisco,Education,schools,0.586206896552
+San Francisco,Recreation,food,0.919540229885
+San Francisco,Social Problem,criminals,-0.318181818182
+San Francisco,Economy and Income,investment,0.166666666667
+San Francisco,Governing,government,-0.363636363636
+San Francisco,Social Problem,homeless,-0.193548387097
+San Francisco,Public Transportation,buses,0.166666666667
+San Francisco,Public Transportation,transit,0.546511627907
+San Francisco,City Development,construction,-0.08
+San Francisco,Governing,law,-0.405797101449
+San Francisco,Neighborhood,neighborhoods,0.206896551724
+San Francisco,Neighborhood,residents,0.0078125
+San Francisco,Governing,rent control,-0.0806451612903
+San Francisco,Economy and Income,economy,0.682926829268
+San Francisco,Culture and Art,culture,0.0925925925926
+San Francisco,Governing,policies,-0.150684931507
+San Francisco,Neighborhood,resources,-0.114285714286
+San Francisco,City Development,planning,-0.107142857143
+San Francisco,Public Transportation,transportation,0.820512820513
+San Francisco,Driving and Traffic,parking,0.409090909091
+San Francisco,Policing,cops,-0.230769230769
+San Francisco,Neighborhood,environment,-0.162162162162
+San Francisco,Social Problem,drug addicts,-1.12962962963
+San Francisco,Governing,rules,-0.689655172414
+San Francisco,Social Problem,crime,-0.972972972973
+San Francisco,Driving and Traffic,direction,0.478260869565
+San Francisco,Driving and Traffic,drivers,-0.435897435897
+San Francisco,City Development,industry,0
+San Francisco,Governing,policy,-0.307692307692
+San Francisco,Race/Immigration Discourse,majority,-0.270833333333
+San Francisco,Driving and Traffic,traffic,-0.130434782609
+San Francisco,Race/Immigration Discourse,immigrant,-1.13333333333
+San Francisco,Policing,justice,-1.07142857143
+San Francisco,City Development,business,-0.0454545454545
+San Francisco,Neighborhood,neighbors,-0.466666666667
+San Francisco,Economy and Income,taxes,0
+San Francisco,City Development,markets,0.454545454545
+San Francisco,Social Problem,drugs,-0.875
+San Francisco,Recreation,parks,0.714285714286
+San Francisco,Social Problem,property crime,-1.09677419355
+San Francisco,Policing,police,-0.0769230769231
+San Francisco,Governing,regulations,-0.1875
+San Francisco,Economy and Income,salary,0.428571428571
+San Francisco,Governing,mayor,-0.181818181818
+San Francisco,Economy and Income,revenue,0.352941176471
+San Francisco,Public Transportation,bus,0.047619047619
+San Francisco,Public Transportation,commute,0.285714285714
+San Francisco,Economy and Income,tax,-0.14
+Detroit,Race/Immigration Discourse,diversity,0.607142857143
+Detroit,City Development,city limits,-1.05625
+Detroit,Public Transportation,commute,0.491228070175
+Detroit,Driving and Traffic,direction,0.905405405405
+Detroit,Governing,rules,-0.607142857143
+Detroit,Public Transportation,commuter rail,-1.15492957746
+Detroit,City Development,growth,0.0769230769231
+Detroit,Recreation,food,1.03971119134
+Detroit,Culture and Art,culture,0.489361702128
+Detroit,Neighborhood,neighborhoods,0.371428571429
+Detroit,Social Problem,property crime,-1.07894736842
+Detroit,Education,schools,0.502222222222
+Detroit,Governing,policies,-0.684210526316
+Detroit,Governing,law,-0.411764705882
+Detroit,City Development,planning,-0.0714285714286
+Detroit,Economy and Income,prices,0.236842105263
+Detroit,Social Problem,crime,-0.819672131148
+Detroit,Economy and Income,investment,0.392156862745
+Detroit,Recreation,parks,0.846153846154
+Detroit,Policing,police,0.0909090909091
+Detroit,City Development,business,0.40625
+Detroit,City Development,market,0.553571428571
+Detroit,Driving and Traffic,traffic,-0.337209302326
+Detroit,Race/Immigration Discourse,majority,-0.0967741935484
+Detroit,City Development,development,0.282608695652
+Detroit,Driving and Traffic,distance,0.846153846154
+Detroit,Public Transportation,buses,0.571428571429
+Detroit,Governing,government,-0.625
+Detroit,Neighborhood,residents,-0.0786516853933
+Detroit,Economy and Income,economy,0.48
+Detroit,City Development,markets,0.454545454545
+Detroit,Neighborhood,environment,0.358974358974
+Detroit,Public Transportation,metro,0.1875
+Detroit,Public Transportation,transit,0.830188679245
+Detroit,Recreation,fans,-0.166666666667
+Detroit,Neighborhood,resources,-0.379310344828
+Detroit,Governing,laws,-0.526315789474
+Detroit,Neighborhood,neighbors,0.642857142857
+Detroit,Public Transportation,transportation,0.887096774194
+Detroit,Education,school,0.934782608696
+Detroit,Driving and Traffic,driving,0.133333333333
+Detroit,Driving and Traffic,parking,0.877777777778
+Detroit,Driving and Traffic,drivers,-0.77
+Detroit,Economy and Income,salary,0.666666666667
+Detroit,Driving and Traffic,vehicle,0.571428571429
+Detroit,City Development,industry,0.538461538462
+Detroit,Race/Immigration Discourse,blacks,0.272727272727
+Detroit,Economy and Income,investments,0.666666666667
+Detroit,Public Transportation,bus,0.409090909091
+Detroit,City Development,infrastructure,0.36
+Detroit,Culture and Art,museums,1
+Detroit,Race/Immigration Discourse,race,0.153846153846
+Detroit,Recreation,nightlife,1
+Detroit,Economy and Income,tax,-0.3125
+Detroit,Economy and Income,capital,0.545454545455
+Detroit,Public Transportation,transit system,-0.136363636364
+Detroit,Economy and Income,taxes,-0.235294117647
+Detroit,Culture and Art,museum,1
+Detroit,City Development,construction,0.5625
+Detroit,Governing,mayor,-0.0625
+Detroit,Recreation,sports,0.882352941176
+Detroit,Policing,cops,-0.272727272727
+Detroit,Governing,officers,0.181818181818
+Detroit,Race/Immigration Discourse,racism,-0.454545454545
+Detroit,Recreation,foods,0.818181818182
+Seattle,City Development,city limits,-0.998181818182
+Seattle,Driving and Traffic,drivers,-0.708860759494
+Seattle,Public Transportation,light rail,-0.964788732394
+Seattle,Public Transportation,commuters,-0.0769230769231
+Seattle,Economy and Income,prices,0.0740740740741
+Seattle,Driving and Traffic,parking,0.549019607843
+Seattle,City Development,construction,0.138888888889
+Seattle,Economy and Income,economy,0.536585365854
+Seattle,Neighborhood,resources,0.43137254902
+Seattle,City Development,growth,0.0561224489796
+Seattle,Social Problem,police brutality,-1.13888888889
+Seattle,Education,schools,0.830985915493
+Seattle,Education,school,0.909090909091
+Seattle,Culture and Art,culture,0.172043010753
+Seattle,Neighborhood,environment,0.186440677966
+Seattle,Governing,law,-0.804597701149
+Seattle,Driving and Traffic,traffic,-0.520618556701
+Seattle,Social Problem,drugs,-0.863636363636
+Seattle,Social Problem,crime,-1
+Seattle,City Development,market,0.517341040462
+Seattle,Public Transportation,bus system,0.75
+Seattle,Neighborhood,neighborhoods,0.47577092511
+Seattle,City Development,planning,-0.102040816327
+Seattle,Race/Immigration Discourse,racism,-0.555555555556
+Seattle,Social Problem,violence,-0.214285714286
+Seattle,Recreation,food,0.998861047836
+Seattle,Governing,rent control,0.203125
+Seattle,Governing,rules,-0.538461538462
+Seattle,Governing,policies,-0.211538461538
+Seattle,Driving and Traffic,driving,-0.75
+Seattle,Governing,laws,-0.470238095238
+Seattle,Race/Immigration Discourse,majority,-0.125
+Seattle,Public Transportation,subway,0.416666666667
+Seattle,Policing,speed limit,-1.2375
+Seattle,Public Transportation,commute,0.346456692913
+Seattle,Race/Immigration Discourse,hate crime,-1.05882352941
+Seattle,Governing,government,-0.431818181818
+Seattle,Race/Immigration Discourse,diversity,0.222222222222
+Seattle,Public Transportation,bus,0.0652173913043
+Seattle,Economy and Income,income,0.319672131148
+Seattle,Culture and Art,museum,0.916666666667
+Seattle,Recreation,nightlife,1
+Seattle,Public Transportation,transit,0.917040358744
+Seattle,Economy and Income,taxes,-0.324675324675
+Seattle,Public Transportation,transportation,0.654411764706
+Seattle,Neighborhood,neighbors,0.409090909091
+Seattle,Governing,policy,0
+Seattle,Recreation,parks,0.904109589041
+Seattle,Social Problem,homeless,-0.490196078431
+Seattle,Economy and Income,salary,0.571428571429
+Seattle,Driving and Traffic,direction,0.604166666667
+Seattle,City Development,business,0.0185185185185
+Seattle,Economy and Income,investment,0.578947368421
+Seattle,Policing,police,-0.36
+Seattle,Social Problem,property crime,-1.07766990291
+Seattle,Social Problem,criminals,-1.16666666667
+Seattle,Public Transportation,transport,0.854166666667
+Seattle,City Development,industry,0.423076923077
+Seattle,Social Problem,weed,0.166666666667
+Seattle,Recreation,fans,-0.0588235294118
+Seattle,Public Transportation,buses,0.202702702703
+Seattle,City Development,infrastructure,0.415730337079
+Seattle,Driving and Traffic,vehicle,0.181818181818
+Seattle,Economy and Income,salaries,0.363636363636
+Seattle,Race/Immigration Discourse,minority,-0.538461538462
+Seattle,Recreation,clubs,0.538461538462
+Seattle,Policing,justice,-0.583333333333
+Seattle,Neighborhood,residents,-0.131578947368
+Seattle,Driving and Traffic,distance,0.938775510204
+Seattle,Social Problem,drug addicts,-0.891304347826
+Seattle,Economy and Income,revenue,-0.541666666667
+Seattle,City Development,development,-0.128571428571
+Seattle,Public Transportation,ferry,0.823529411765
+Seattle,Governing,officers,0.272727272727
+Seattle,Public Transportation,commuter rail,-1.09090909091
+Seattle,Economy and Income,tax,-0.284946236559
+Seattle,Policing,cops,-0.8
+Seattle,City Development,markets,0.714285714286
+Seattle,City Development,expansion,0.166666666667
+Seattle,Public Transportation,transit system,0
+Seattle,Governing,mayor,0
+Seattle,Recreation,foods,0.333333333333
+Seattle,Public Transportation,trains,0.133333333333
+Seattle,Social Problem,road rage,-1
+Seattle,Culture and Art,museums,0.615384615385
+Seattle,Economy and Income,economies,0.454545454545
+Seattle,Policing,speed limits,-0.875
+Seattle,Recreation,sports,0.272727272727
+Seattle,Governing,regulations,-0.178571428571
+Seattle,Recreation,franchise,-0.0909090909091
+Seattle,Public Transportation,train,0
+Seattle,Race/Immigration Discourse,inequality,-0.571428571429
+Seattle,Economy and Income,capital gains,1.20833333333
+Minneapolis,Economy and Income,prices,0.741935483871
+Minneapolis,City Development,development,0.2
+Minneapolis,Recreation,food,1.07102272727
+Minneapolis,Neighborhood,residents,0.25
+Minneapolis,Driving and Traffic,direction,0.214285714286
+Minneapolis,Driving and Traffic,parking,0.545454545455
+Minneapolis,Recreation,parks,1.05128205128
+Minneapolis,Neighborhood,environment,0.0277777777778
+Minneapolis,Governing,laws,-0.615384615385
+Minneapolis,Public Transportation,transit,0.8
+Minneapolis,Education,school,0.882352941176
+Minneapolis,City Development,business,0
+Minneapolis,Culture and Art,museum,1.07692307692
+Minneapolis,Education,schools,0.714285714286
+Minneapolis,Economy and Income,economy,0.823529411765
+Minneapolis,Governing,policy,0
+Minneapolis,Public Transportation,transportation,0.666666666667
+Minneapolis,Neighborhood,neighborhoods,0.508333333333
+Minneapolis,Culture and Art,culture,0.214285714286
+Minneapolis,Driving and Traffic,distance,1
+Minneapolis,Race/Immigration Discourse,majority,-0.25
+Minneapolis,Driving and Traffic,traffic,-0.296296296296
+Minneapolis,City Development,infrastructure,0.681818181818
+Minneapolis,Public Transportation,commute,0.466666666667
+Minneapolis,Governing,law,-0.815789473684
+Minneapolis,City Development,market,0.645161290323
+Minneapolis,Driving and Traffic,drivers,-0.909090909091
+Minneapolis,Policing,cops,-0.733333333333
+Minneapolis,City Development,city limits,-1.05128205128
+Minneapolis,Race/Immigration Discourse,racism,-0.181818181818
+Minneapolis,Social Problem,crime,-0.921052631579
+Minneapolis,Public Transportation,light rail,-0.9375
+Minneapolis,Neighborhood,neighbors,0.411764705882
+Minneapolis,Public Transportation,buses,-0.272727272727
+Minneapolis,Policing,speed limit,-1.08333333333
+Minneapolis,Policing,police,-0.5
+Minneapolis,Governing,mayor,0
+Minneapolis,Governing,policies,-0.05
+San Diego,Recreation,food,0.949494949495
+San Diego,Neighborhood,neighborhoods,0.606557377049
+San Diego,Culture and Art,museums,1
+San Diego,City Development,market,0.544715447154
+San Diego,Driving and Traffic,drivers,-0.896551724138
+San Diego,Education,schools,1.1875
+San Diego,City Development,industry,0.462962962963
+San Diego,Public Transportation,transportation,0.566666666667
+San Diego,Neighborhood,environment,0.342105263158
+San Diego,Economy and Income,tax,-0.272727272727
+San Diego,Governing,government,-0.666666666667
+San Diego,Driving and Traffic,parking,0.583333333333
+San Diego,Public Transportation,bus,0.615384615385
+San Diego,City Development,infrastructure,0.0681818181818
+San Diego,Driving and Traffic,traffic,-0.553571428571
+San Diego,Recreation,football,0.294117647059
+San Diego,Recreation,parks,0.666666666667
+San Diego,City Development,business,0.0555555555556
+San Diego,Culture and Art,culture,0.596153846154
+San Diego,Culture and Art,museum,0.923076923077
+San Diego,City Development,expansion,0.466666666667
+San Diego,Recreation,fans,-0.276595744681
+San Diego,Economy and Income,investment,0.787878787879
+San Diego,Driving and Traffic,driving,-0.833333333333
+San Diego,Neighborhood,neighbors,0.111111111111
+San Diego,Recreation,fan,-0.647058823529
+San Diego,Public Transportation,commute,0
+San Diego,Economy and Income,prices,0.166666666667
+San Diego,City Development,development,-0.18
+San Diego,City Development,growth,0.383720930233
+San Diego,Driving and Traffic,direction,0.689655172414
+San Diego,City Development,city limits,-1.00862068966
+San Diego,City Development,markets,0.5
+San Diego,Economy and Income,revenue,0.238095238095
+San Diego,Education,school,0.648648648649
+San Diego,Public Transportation,transit,0.745098039216
+San Diego,Recreation,franchise,0.0526315789474
+San Diego,Recreation,sport,1.06666666667
+San Diego,Governing,policies,-0.181818181818
+San Diego,Neighborhood,residents,-0.380952380952
+San Diego,Neighborhood,resources,0.304347826087
+San Diego,Governing,policy,-0.5
+San Diego,Recreation,clubs,0.0909090909091
+San Diego,Race/Immigration Discourse,majority,0.333333333333
+San Diego,Social Problem,homeless,-0.541666666667
+San Diego,Recreation,sports,0.642857142857
+San Diego,Driving and Traffic,distance,0.692307692308
+San Diego,Social Problem,crime,-1.11111111111
+San Diego,Culture and Art,movie,0.636363636364
+San Diego,Governing,laws,-0.172413793103
+San Diego,Policing,speed limit,-1.15384615385
+San Diego,Economy and Income,economy,0.1875
+San Diego,Economy and Income,income,0.147058823529
+San Diego,Social Problem,road rage,-1
+San Diego,Governing,rules,-0.6
+San Diego,City Development,construction,0
+San Diego,Governing,law,-1.02941176471
+Tampa,Driving and Traffic,direction,1
+Tampa,Recreation,food,1.08994708995
+Tampa,Driving and Traffic,traffic,-0.460784313725
+Tampa,Driving and Traffic,drivers,-0.84375
+Tampa,Governing,law,-0.96875
+Tampa,City Development,city limits,-1.22115384615
+Tampa,Education,schools,1.13392857143
+Tampa,Recreation,parks,1.05
+Tampa,Economy and Income,prices,0.828125
+Tampa,Education,school,1.12121212121
+Tampa,City Development,growth,0.117647058824
+Tampa,Public Transportation,transportation,0.666666666667
+Tampa,Driving and Traffic,distance,0.9375
+Tampa,Neighborhood,environment,1
+Tampa,Neighborhood,neighborhoods,0.447058823529
+Tampa,City Development,infrastructure,0.722222222222
+Tampa,City Development,market,0.612903225806
+Tampa,Public Transportation,commute,0.202702702703
+Tampa,Governing,rules,-0.461538461538
+Tampa,Recreation,nightlife,0.863636363636
+Tampa,Policing,speed limit,-1.13636363636
+Tampa,Neighborhood,neighbors,0.0714285714286
+Tampa,Culture and Art,culture,0.411764705882
+Tampa,Public Transportation,commuter rail,-1.175
+Tampa,Culture and Art,movie,-0.153846153846
+Tampa,Driving and Traffic,driving,-0.5
+Tampa,City Development,planning,0.0909090909091
+Tampa,Public Transportation,transit,0.916666666667
+Tampa,Economy and Income,investment,0.526315789474
+Tampa,Recreation,clubs,0.571428571429
+Tampa,Driving and Traffic,parking,0.75
+Tampa,Culture and Art,concerts,1
+Denver,Education,school,0.847826086957
+Denver,Recreation,food,0.901699029126
+Denver,Neighborhood,neighborhoods,0.541015625
+Denver,Governing,law,-0.732876712329
+Denver,Economy and Income,economy,0.390243902439
+Denver,Race/Immigration Discourse,diversity,-0.222222222222
+Denver,Driving and Traffic,driving,-0.472222222222
+Denver,City Development,city limits,-1.04587155963
+Denver,City Development,growth,0.165048543689
+Denver,Neighborhood,resources,0.6
+Denver,City Development,market,0.459016393443
+Denver,Driving and Traffic,distance,0.945945945946
+Denver,Social Problem,weed,-0.0844155844156
+Denver,Recreation,parks,0.871428571429
+Denver,City Development,planning,0.111111111111
+Denver,Neighborhood,environment,0.3125
+Denver,Education,schools,0.860759493671
+Denver,Governing,laws,-0.649350649351
+Denver,Driving and Traffic,traffic,-0.45390070922
+Denver,City Development,markets,0.662162162162
+Denver,Economy and Income,prices,0.262626262626
+Denver,City Development,business,-0.102564102564
+Denver,Social Problem,crime,-0.581632653061
+Denver,Public Transportation,commute,0.138888888889
+Denver,Public Transportation,transport,0.75
+Denver,City Development,construction,0.411764705882
+Denver,City Development,infrastructure,0.455696202532
+Denver,Driving and Traffic,drivers,-0.748502994012
+Denver,Social Problem,police brutality,-0.90625
+Denver,Driving and Traffic,direction,0.819672131148
+Denver,Public Transportation,transit,0.842105263158
+Denver,City Development,development,-0.0408163265306
+Denver,Social Problem,road rage,-0.7625
+Denver,Economy and Income,salary,0.526315789474
+Denver,Governing,rules,-0.435483870968
+Denver,Economy and Income,income,0.573170731707
+Denver,Economy and Income,investment,0.788461538462
+Denver,Recreation,sports,0.846153846154
+Denver,Culture and Art,culture,0.345679012346
+Denver,Race/Immigration Discourse,majority,-0.157894736842
+Denver,Economy and Income,taxes,-0.3
+Denver,Policing,police,-0.666666666667
+Denver,Social Problem,criminals,-0.833333333333
+Denver,City Development,industry,0.285714285714
+Denver,Public Transportation,train,-0.05
+Denver,Policing,enforcement,-0.428571428571
+Denver,Public Transportation,commuter rail,-1.24193548387
+Denver,Driving and Traffic,vehicle,0.222222222222
+Denver,Neighborhood,residents,0.290322580645
+Denver,Driving and Traffic,parking,0.567961165049
+Denver,Economy and Income,revenue,-0.444444444444
+Denver,Public Transportation,bus,0.0555555555556
+Denver,Economy and Income,tax,0.416666666667
+Denver,Recreation,skiing,0.619047619048
+Denver,Public Transportation,transportation,0.779661016949
+Denver,Policing,speed limit,-1.17326732673
+Denver,Public Transportation,light rail,-1.12857142857
+Denver,Social Problem,homeless,-0.47619047619
+Denver,Recreation,clubs,0.565217391304
+Denver,Governing,policy,-0.111111111111
+Denver,Policing,cops,-0.673076923077
+Denver,Neighborhood,neighbors,0.125
+Denver,Social Problem,drug addicts,-0.875
+Denver,Policing,speed limits,-1.36363636364
+Denver,Culture and Art,museums,0.882352941176
+Denver,Race/Immigration Discourse,race,-0.181818181818
+Denver,Recreation,nightlife,0.666666666667
+Denver,Governing,government,-0.214285714286
+Denver,Culture and Art,museum,0.833333333333
+Denver,Governing,regulations,-0.538461538462
+Denver,Governing,policies,-0.333333333333
+St. Louis,Recreation,franchise,-0.075
+St. Louis,Recreation,food,1.0297029703
+St. Louis,Recreation,parks,1.03333333333
+St. Louis,Education,schools,0.881188118812
+St. Louis,Economy and Income,prices,0.5
+St. Louis,City Development,business,0.28
+St. Louis,Driving and Traffic,drivers,-0.904761904762
+St. Louis,City Development,city limits,-1.05
+St. Louis,Recreation,fans,0.0434782608696
+St. Louis,Neighborhood,neighborhoods,0.454545454545
+St. Louis,Governing,laws,0.0555555555556
+St. Louis,Economy and Income,investment,1
+St. Louis,Governing,officers,-0.0952380952381
+St. Louis,Social Problem,crime,-0.959016393443
+St. Louis,Driving and Traffic,direction,0.666666666667
+St. Louis,Governing,government,0
+St. Louis,Public Transportation,transportation,0.823529411765
+St. Louis,Driving and Traffic,traffic,-0.466666666667
+St. Louis,City Development,market,0.52380952381
+St. Louis,Race/Immigration Discourse,racism,-0.666666666667
+St. Louis,Driving and Traffic,parking,0.764705882353
+St. Louis,Policing,police,0.379310344828
+St. Louis,Economy and Income,tax,0.0952380952381
+St. Louis,Public Transportation,transit,0.555555555556
+St. Louis,Social Problem,crime problem,-0.935483870968
+St. Louis,Culture and Art,museums,1.15789473684
+St. Louis,Culture and Art,culture,0.176470588235
+St. Louis,Neighborhood,resources,0.333333333333
+St. Louis,City Development,infrastructure,0.368421052632
+St. Louis,Education,school,0.966666666667
+St. Louis,City Development,growth,0.514285714286
+St. Louis,Neighborhood,neighbors,0.818181818182
+St. Louis,Economy and Income,economy,0.0740740740741
+St. Louis,City Development,development,0.678571428571
+St. Louis,Neighborhood,residents,0.307692307692
+St. Louis,Race/Immigration Discourse,majority,-0.833333333333
+St. Louis,Public Transportation,commute,0
+St. Louis,Governing,policies,-0.5
+St. Louis,Social Problem,criminals,-0.454545454545
+St. Louis,Governing,law,-0.681818181818
+St. Louis,Culture and Art,museum,1.04054054054
+St. Louis,Economy and Income,revenue,0.0714285714286
+St. Louis,Driving and Traffic,driving,-0.176470588235
+St. Louis,Policing,justice,-1.09090909091
+St. Louis,Neighborhood,environment,0.0526315789474
+St. Louis,Policing,cops,-0.461538461538
+Baltimore,Policing,cops,-0.336734693878
+Baltimore,City Development,business,0.219512195122
+Baltimore,Governing,policy,-0.21875
+Baltimore,City Development,development,0.322222222222
+Baltimore,Driving and Traffic,parking,0.628571428571
+Baltimore,Driving and Traffic,direction,0.618181818182
+Baltimore,Economy and Income,income,0.203703703704
+Baltimore,Neighborhood,neighborhoods,0.201646090535
+Baltimore,Recreation,food,0.853658536585
+Baltimore,Culture and Art,museum,0.946428571429
+Baltimore,Public Transportation,bus,0.591836734694
+Baltimore,Economy and Income,prices,0.333333333333
+Baltimore,Public Transportation,transit,0.857142857143
+Baltimore,Culture and Art,concerts,0.636363636364
+Baltimore,Neighborhood,environment,0.178571428571
+Baltimore,Education,schools,0.637931034483
+Baltimore,Culture and Art,museums,1
+Baltimore,Recreation,parks,1.05882352941
+Baltimore,Public Transportation,transportation,0.901639344262
+Baltimore,Neighborhood,resources,-0.153846153846
+Baltimore,Driving and Traffic,distance,0.939393939394
+Baltimore,Economy and Income,taxes,-0.648648648649
+Baltimore,Neighborhood,neighbors,0.268292682927
+Baltimore,Public Transportation,commute,0.410256410256
+Baltimore,City Development,growth,0.425
+Baltimore,Governing,property taxes,-0.304347826087
+Baltimore,Driving and Traffic,driving,-0.666666666667
+Baltimore,Culture and Art,culture,0.0526315789474
+Baltimore,Neighborhood,residents,-0.221153846154
+Baltimore,Social Problem,police brutality,-1.11607142857
+Baltimore,Social Problem,murder,-0.826086956522
+Baltimore,Social Problem,crime problem,-0.759259259259
+Baltimore,City Development,city limits,-1.09745762712
+Baltimore,Social Problem,crime,-1.00928381963
+Baltimore,Social Problem,drug crime,-1
+Baltimore,Social Problem,street crime,-1.25
+Baltimore,Governing,mayor,-0.282051282051
+Baltimore,Race/Immigration Discourse,blacks,-0.638888888889
+Baltimore,Governing,policies,-0.56
+Baltimore,Social Problem,murders,-0.333333333333
+Baltimore,Social Problem,guns,-0.605263157895
+Baltimore,Race/Immigration Discourse,racism,-0.48275862069
+Baltimore,Race/Immigration Discourse,racists,-1.05555555556
+Baltimore,Governing,government,-0.352941176471
+Baltimore,City Development,infrastructure,0.0722891566265
+Baltimore,Governing,governor,0.357142857143
+Baltimore,Education,school,0.670731707317
+Baltimore,City Development,market,0.55
+Baltimore,Economy and Income,investment,0.179245283019
+Baltimore,Social Problem,criminals,-0.803278688525
+Baltimore,Economy and Income,economy,0.375
+Baltimore,Social Problem,violence problem,-1
+Baltimore,Driving and Traffic,drivers,-0.79797979798
+Baltimore,Policing,police,-0.473404255319
+Baltimore,Policing,speed limit,-1.04285714286
+Baltimore,Policing,justice,-1.04166666667
+Baltimore,Governing,officers,0.112244897959
+Baltimore,Social Problem,property crime,-1.05882352941
+Baltimore,Social Problem,violence,-0.730769230769
+Baltimore,Social Problem,drugs,-0.961538461538
+Baltimore,Governing,laws,-0.386075949367
+Baltimore,Policing,policing,0.0967741935484
+Baltimore,Public Transportation,light rail,-1
+Baltimore,Governing,law,-0.7109375
+Baltimore,Public Transportation,buses,0.375
+Baltimore,Governing,healthcare,0.454545454545
+Baltimore,City Development,markets,0.571428571429
+Baltimore,Public Transportation,train,0.1875
+Baltimore,Social Problem,drug addicts,-0.6875
+Baltimore,Race/Immigration Discourse,majority,-0.340425531915
+Baltimore,Education,school system,-1.25
+Baltimore,Public Transportation,transport,0.714285714286
+Baltimore,Driving and Traffic,traffic,-0.4140625
+Baltimore,Public Transportation,subway,0.333333333333
+Baltimore,Social Problem,gun crime,-0.925
+Baltimore,Economy and Income,revenue,-0.25
+Baltimore,Governing,rules,-0.0434782608696
+Baltimore,City Development,industry,0.5
+Baltimore,Policing,enforcement,-0.4
+Baltimore,Policing,speed limits,-1
+Baltimore,Public Transportation,commuter rail,-1.09375
+Baltimore,Race/Immigration Discourse,racist,-0.857142857143
+Baltimore,Race/Immigration Discourse,race,-0.166666666667
+Baltimore,Economy and Income,tax,-0.307692307692
+Baltimore,Economy and Income,salary,1
+Charlotte,Neighborhood,neighborhoods,0.472868217054
+Charlotte,City Development,business,0.112903225806
+Charlotte,Recreation,parks,1.07407407407
+Charlotte,City Development,city limits,-1.07446808511
+Charlotte,Driving and Traffic,parking,0.5625
+Charlotte,City Development,market,0.469387755102
+Charlotte,Driving and Traffic,drivers,-0.75
+Charlotte,Neighborhood,resources,0.846153846154
+Charlotte,Economy and Income,investment,0.5
+Charlotte,Education,schools,0.94696969697
+Charlotte,City Development,growth,0.030303030303
+Charlotte,Economy and Income,prices,0.647058823529
+Charlotte,Public Transportation,transit,0.863636363636
+Charlotte,City Development,planning,-0.4
+Charlotte,Recreation,food,1.02145922747
+Charlotte,Education,school,0.807692307692
+Charlotte,Culture and Art,culture,0.485714285714
+Charlotte,Neighborhood,environment,0.413793103448
+Charlotte,Driving and Traffic,driving,-0.914285714286
+Charlotte,Driving and Traffic,traffic,-0.594827586207
+Charlotte,City Development,infrastructure,0.4
+Charlotte,Economy and Income,economy,0.25
+Charlotte,Public Transportation,commute,0.432432432432
+Charlotte,Economy and Income,taxes,0.461538461538
+Charlotte,Driving and Traffic,distance,1
+Charlotte,Driving and Traffic,direction,0.78125
+Charlotte,Social Problem,crime,-0.703703703704
+Charlotte,Governing,laws,-0.947368421053
+Charlotte,City Development,development,0.210526315789
+Charlotte,Policing,speed limit,-0.972972972973
+Charlotte,Public Transportation,transportation,0.590909090909
+Charlotte,Public Transportation,light rail,-1.03571428571
+Charlotte,Governing,law,-0.730769230769
+Charlotte,Governing,mayor,0.266666666667
+Orlando,Driving and Traffic,parking,0.692307692308
+Orlando,Policing,speed limit,-1.21428571429
+Orlando,Driving and Traffic,drivers,-0.888888888889
+Orlando,Driving and Traffic,driving,-1.16
+Orlando,Education,school,0.954545454545
+Orlando,Driving and Traffic,traffic,-0.741071428571
+Orlando,Economy and Income,economy,0.384615384615
+Orlando,Recreation,food,1.03086419753
+Orlando,Culture and Art,culture,0.5
+Orlando,Recreation,parks,0.779411764706
+Orlando,Neighborhood,neighborhoods,0.576271186441
+Orlando,City Development,markets,0.272727272727
+Orlando,Neighborhood,environment,0.619047619048
+Orlando,Social Problem,crime,-0.65
+Orlando,Education,schools,1.03846153846
+Orlando,Driving and Traffic,direction,0.678571428571
+Orlando,City Development,city limits,-1.03571428571
+Orlando,City Development,business,-0.0555555555556
+Orlando,Economy and Income,prices,0.594594594595
+Orlando,Public Transportation,transportation,0.827586206897
+Orlando,City Development,market,0.618421052632
+Orlando,Public Transportation,commute,0.333333333333
+San Antonio,Recreation,food,0.874149659864
+San Antonio,Driving and Traffic,drivers,-0.955555555556
+San Antonio,Public Transportation,transportation,1
+San Antonio,Recreation,parks,0.714285714286
+San Antonio,City Development,city limits,-1.15625
+San Antonio,Education,school,0.833333333333
+San Antonio,Driving and Traffic,driving,-0.461538461538
+San Antonio,Culture and Art,museum,1.08333333333
+San Antonio,City Development,market,0.777777777778
+San Antonio,Economy and Income,economy,0.653846153846
+San Antonio,Culture and Art,culture,0.454545454545
+San Antonio,Driving and Traffic,parking,0.727272727273
+San Antonio,Policing,speed limit,-1.13333333333
+San Antonio,Driving and Traffic,traffic,-0.538461538462
+San Antonio,Neighborhood,neighborhoods,0.809523809524
+San Antonio,Social Problem,crime,-1.05263157895
+San Antonio,Education,schools,0.923076923077
+San Antonio,Neighborhood,environment,0.0833333333333
+San Antonio,Governing,law,-0.769230769231
+San Antonio,Driving and Traffic,direction,0.818181818182
+San Antonio,Economy and Income,prices,0.2
+San Antonio,Culture and Art,museums,1
+San Antonio,City Development,infrastructure,0.0454545454545
+Portland,Recreation,food,0.804560260586
+Portland,Governing,policy,0.0357142857143
+Portland,City Development,infrastructure,0.214953271028
+Portland,City Development,growth,0.283783783784
+Portland,Driving and Traffic,drivers,-0.688405797101
+Portland,Neighborhood,environment,0.297872340426
+Portland,Driving and Traffic,parking,0.661538461538
+Portland,Economy and Income,taxes,-0.176470588235
+Portland,City Development,development,0.293103448276
+Portland,City Development,market,0.530612244898
+Portland,Education,schools,0.618644067797
+Portland,City Development,city limits,-1.00540540541
+Portland,Education,school,0.242424242424
+Portland,Governing,laws,-0.405882352941
+Portland,Neighborhood,resources,0.169117647059
+Portland,Social Problem,homeless,-0.458333333333
+Portland,Economy and Income,revenue,-0.136363636364
+Portland,Driving and Traffic,driving,-0.613636363636
+Portland,Policing,speed limit,-1.13483146067
+Portland,Public Transportation,commute,0.0795454545455
+Portland,Social Problem,property crime,-1.1375
+Portland,Economy and Income,prices,0.175
+Portland,Economy and Income,tax,-0.631578947368
+Portland,City Development,industry,0.428571428571
+Portland,Policing,speed limits,-1
+Portland,Governing,law,-1.47297297297
+Portland,Culture and Art,culture,0.0894736842105
+Portland,Governing,government,-0.225
+Portland,Neighborhood,neighborhoods,0.462643678161
+Portland,City Development,planning,-0.125
+Portland,Economy and Income,income,0.1
+Portland,Public Transportation,transit,0.913793103448
+Portland,Race/Immigration Discourse,majority,0.384615384615
+Portland,Recreation,parks,0.825
+Portland,Policing,cops,-0.162162162162
+Portland,Governing,policies,0.0714285714286
+Portland,Public Transportation,transportation,0.911764705882
+Portland,City Development,business,-0.134920634921
+Portland,Social Problem,crime,-0.966216216216
+Portland,Neighborhood,residents,0
+Portland,Driving and Traffic,vehicle,0
+Portland,Economy and Income,investment,0.410714285714
+Portland,Driving and Traffic,direction,0.589743589744
+Portland,Driving and Traffic,traffic,-0.666666666667
+Portland,Social Problem,road rage,-0.75
+Portland,City Development,markets,0.0666666666667
+Portland,Economy and Income,economy,0.725490196078
+Portland,Driving and Traffic,distance,0.888888888889
+Portland,Governing,rent control,0.0333333333333
+Portland,Social Problem,drugs,-0.5
+Portland,Public Transportation,bus,-0.454545454545
+Portland,Social Problem,guns,0.272727272727
+Portland,Governing,rules,-0.38
+Portland,Governing,officers,0.4375
+Portland,Governing,mayor,0.103448275862
+Portland,Social Problem,weed,-0.333333333333
+Portland,Social Problem,violence,-0.681818181818
+Portland,Social Problem,criminals,-0.727272727273
+Portland,Economy and Income,salary,0.636363636364
+Portland,Governing,property taxes,0
+Portland,Economy and Income,investments,0.333333333333
+Portland,Governing,regulations,-0.166666666667
+Portland,Social Problem,drug addicts,-0.983870967742
+Portland,City Development,construction,0.0666666666667
+Portland,Neighborhood,neighbors,0.111111111111
+Portland,Policing,enforcement,-0.333333333333
+Portland,Policing,police,-0.03125
+Portland,Race/Immigration Discourse,racism,-0.291666666667
+Portland,Policing,justice,-0.625
+Sacramento,Education,schools,1.25
+Sacramento,Neighborhood,resources,0.166666666667
+Sacramento,Driving and Traffic,drivers,-0.823529411765
+Sacramento,Neighborhood,neighborhoods,0.335766423358
+Sacramento,Recreation,food,0.954545454545
+Sacramento,Recreation,parks,0.931034482759
+Sacramento,Driving and Traffic,driving,-1.125
+Sacramento,Driving and Traffic,direction,0.272727272727
+Sacramento,City Development,development,0.416666666667
+Sacramento,City Development,planning,-0.363636363636
+Sacramento,Public Transportation,transportation,0.387096774194
+Sacramento,Neighborhood,environment,0.423076923077
+Sacramento,Governing,law,-0.705882352941
+Sacramento,Driving and Traffic,traffic,-0.37
+Sacramento,Public Transportation,commute,0.391304347826
+Sacramento,Driving and Traffic,distance,0.857142857143
+Sacramento,City Development,infrastructure,0.555555555556
+Sacramento,City Development,city limits,-1.07222222222
+Sacramento,Driving and Traffic,parking,0.5
+Sacramento,City Development,market,0.151515151515
+Sacramento,Public Transportation,transit,0.5
+Sacramento,Economy and Income,economy,0.666666666667
+Sacramento,City Development,business,0.411764705882
+Sacramento,Social Problem,crime,-0.78125
+Sacramento,Race/Immigration Discourse,diversity,0.2
+Sacramento,Economy and Income,prices,0.666666666667
+Sacramento,Economy and Income,investment,0.533333333333
+Sacramento,Culture and Art,culture,0.634615384615
+Sacramento,Education,school,0.454545454545
+Sacramento,Culture and Art,museum,1
+Sacramento,City Development,growth,0.695652173913
+Sacramento,Public Transportation,light rail,-0.676470588235
+Sacramento,Culture and Art,movie,0.722222222222
+Sacramento,Economy and Income,taxes,-0.25
+Sacramento,Social Problem,homeless,-0.272727272727
+Sacramento,Policing,speed limit,-1
+Pittsburgh,Culture and Art,movies,0.636363636364
+Pittsburgh,Recreation,food,0.725935828877
+Pittsburgh,Public Transportation,commute,0.15
+Pittsburgh,Culture and Art,culture,0.155555555556
+Pittsburgh,Neighborhood,residents,-0.0625
+Pittsburgh,Policing,police,-0.03125
+Pittsburgh,Driving and Traffic,drivers,-0.678321678322
+Pittsburgh,Policing,speed limit,-1.23846153846
+Pittsburgh,Driving and Traffic,traffic,-0.566666666667
+Pittsburgh,Policing,enforcement,0.125
+Pittsburgh,Neighborhood,neighborhoods,0.39512195122
+Pittsburgh,City Development,city limits,-1.08085501859
+Pittsburgh,Culture and Art,museums,1.13333333333
+Pittsburgh,City Development,development,0.227272727273
+Pittsburgh,Economy and Income,income,0.384615384615
+Pittsburgh,Policing,speed limits,-1.05555555556
+Pittsburgh,Culture and Art,movie,0.0952380952381
+Pittsburgh,Education,school,0.727272727273
+Pittsburgh,Recreation,fans,-0.357142857143
+Pittsburgh,Driving and Traffic,driving,-0.657142857143
+Pittsburgh,City Development,market,0.397435897436
+Pittsburgh,Governing,law,-0.742857142857
+Pittsburgh,Public Transportation,transportation,0.530612244898
+Pittsburgh,Public Transportation,transit,0.377049180328
+Pittsburgh,City Development,industry,0.0952380952381
+Pittsburgh,Economy and Income,prices,0.205479452055
+Pittsburgh,Culture and Art,museum,1.2
+Pittsburgh,Education,schools,0.60593220339
+Pittsburgh,Governing,mayor,0.368421052632
+Pittsburgh,Social Problem,crime,-0.74358974359
+Pittsburgh,Economy and Income,investment,0.62962962963
+Pittsburgh,Governing,laws,-0.675675675676
+Pittsburgh,Economy and Income,economy,0.358974358974
+Pittsburgh,City Development,growth,0.227272727273
+Pittsburgh,Race/Immigration Discourse,majority,-0.363636363636
+Pittsburgh,Economy and Income,taxes,-0.275862068966
+Pittsburgh,City Development,infrastructure,0.0131578947368
+Pittsburgh,Neighborhood,resources,0.647058823529
+Pittsburgh,Driving and Traffic,direction,0.571428571429
+Pittsburgh,City Development,business,0.309523809524
+Pittsburgh,Recreation,sports,0.192307692308
+Pittsburgh,Race/Immigration Discourse,racism,-1
+Pittsburgh,Neighborhood,environment,0.28125
+Pittsburgh,Driving and Traffic,vehicle,0.0769230769231
+Pittsburgh,Neighborhood,neighbors,-0.08
+Pittsburgh,Driving and Traffic,parking,0.733333333333
+Pittsburgh,Governing,rules,-0.157894736842
+Pittsburgh,Driving and Traffic,distance,1.05263157895
+Pittsburgh,City Development,construction,-0.0333333333333
+Pittsburgh,Recreation,parks,1.13888888889
+Pittsburgh,Public Transportation,light rail,-0.733333333333
+Pittsburgh,City Development,markets,0.466666666667
+Pittsburgh,Governing,policy,0.28125
+Pittsburgh,Social Problem,road rage,-0.916666666667
+Pittsburgh,Public Transportation,bus,-0.0909090909091
+Pittsburgh,Recreation,foods,0.2
+Austin,Governing,law,-0.768115942029
+Austin,Driving and Traffic,traffic,-0.423566878981
+Austin,City Development,city limits,-1.09656652361
+Austin,Education,school,0.705357142857
+Austin,Recreation,food,0.945040214477
+Austin,City Development,planning,-0.379310344828
+Austin,City Development,business,0.168831168831
+Austin,Governing,rules,-0.224489795918
+Austin,City Development,market,0.662251655629
+Austin,Public Transportation,bus,0.130434782609
+Austin,Education,schools,0.758620689655
+Austin,Driving and Traffic,parking,0.5
+Austin,Public Transportation,transit,0.790540540541
+Austin,City Development,development,-0.150943396226
+Austin,City Development,growth,0.185185185185
+Austin,Culture and Art,culture,0.18
+Austin,Neighborhood,neighborhoods,0.538167938931
+Austin,Economy and Income,capital,0
+Austin,City Development,construction,-0.153846153846
+Austin,Governing,laws,-0.559701492537
+Austin,City Development,markets,0.357142857143
+Austin,Driving and Traffic,drivers,-0.589622641509
+Austin,Social Problem,crime,-0.87037037037
+Austin,Policing,cops,-0.421052631579
+Austin,Economy and Income,prices,0.718309859155
+Austin,Driving and Traffic,driving,-1.01960784314
+Austin,Economy and Income,salary,0.782608695652
+Austin,Economy and Income,investment,0.560975609756
+Austin,Public Transportation,light rail,-0.653846153846
+Austin,Governing,policy,-0.137931034483
+Austin,Recreation,parks,0.666666666667
+Austin,Social Problem,property crime,-1.18181818182
+Austin,Economy and Income,income,0.181818181818
+Austin,City Development,infrastructure,0.415384615385
+Austin,Public Transportation,metro rail,-0.772727272727
+Austin,Neighborhood,residents,-0.151515151515
+Austin,Neighborhood,environment,0.519230769231
+Austin,Public Transportation,commuter rail,-0.5
+Austin,Policing,speed limits,-1
+Austin,Public Transportation,transportation,0.388888888889
+Austin,Driving and Traffic,vehicle,0.375
+Austin,Governing,government,-0.191176470588
+Austin,Driving and Traffic,distance,0.909090909091
+Austin,Driving and Traffic,direction,0.818181818182
+Austin,Culture and Art,movies,0.692307692308
+Austin,Governing,policies,-0.44
+Austin,Race/Immigration Discourse,diversity,0.533333333333
+Austin,Governing,regulations,-0.4
+Austin,Recreation,sport,0.461538461538
+Austin,Policing,speed limit,-1.3698630137
+Austin,Neighborhood,neighbors,0.111111111111
+Austin,Driving and Traffic,ride sharing,0.333333333333
+Austin,Economy and Income,tax,0.117647058824
+Austin,Race/Immigration Discourse,majority,0.166666666667
+Austin,Public Transportation,commute,0.375
+Austin,Social Problem,weed,-0.416666666667
+Austin,Public Transportation,buses,0.636363636364
+Austin,Neighborhood,resources,0.565789473684
+Austin,Economy and Income,economy,0.357142857143
+Austin,Public Transportation,train,0.1
+Austin,Social Problem,homeless,-0.166666666667
+Austin,Economy and Income,revenue,-0.740740740741
+Austin,Social Problem,criminals,-0.636363636364
+Austin,Economy and Income,taxes,-0.242424242424
+Austin,Governing,property taxes,-0.5
+Austin,Culture and Art,museums,0.782608695652
+Austin,Public Transportation,transport,0.6
+Austin,Policing,police,-0.538461538462
+Austin,City Development,industry,0.0416666666667
+Cincinnati,City Development,development,0.375
+Cincinnati,Social Problem,crime,-0.689655172414
+Cincinnati,Education,schools,0.927536231884
+Cincinnati,Neighborhood,environment,0.904761904762
+Cincinnati,City Development,city limits,-1.05714285714
+Cincinnati,Education,school,0.794117647059
+Cincinnati,Recreation,food,0.864161849711
+Cincinnati,Policing,speed limit,-1.0625
+Cincinnati,Neighborhood,neighborhoods,0.445544554455
+Cincinnati,Recreation,parks,0.947368421053
+Cincinnati,Driving and Traffic,direction,0.857142857143
+Cincinnati,Driving and Traffic,traffic,-0.5
+Cincinnati,Public Transportation,transit,0.671641791045
+Cincinnati,City Development,infrastructure,-0.125
+Cincinnati,City Development,growth,0.333333333333
+Cincinnati,Driving and Traffic,drivers,-0.870967741935
+Cincinnati,Culture and Art,culture,0.432432432432
+Cincinnati,Recreation,fans,0.260869565217
+Cincinnati,Economy and Income,economy,0.272727272727
+Cincinnati,Economy and Income,investment,0.387096774194
+Cincinnati,Driving and Traffic,parking,0.678571428571
+Cincinnati,City Development,market,0.583333333333
+Cincinnati,Driving and Traffic,distance,0.666666666667
+Cincinnati,City Development,business,-0.0882352941176
+Cincinnati,Economy and Income,prices,0.363636363636
+Cincinnati,Driving and Traffic,driving,0.0909090909091
+Cincinnati,Recreation,sports,0.714285714286
+Cincinnati,Public Transportation,commute,0.4375
+Cincinnati,Culture and Art,museum,1.07692307692
+Cincinnati,Neighborhood,resources,1
+Cincinnati,Culture and Art,museums,0.8
+Cincinnati,Public Transportation,transportation,0.136363636364
+Kansas City,Education,school,0.846153846154
+Kansas City,City Development,business,0.466666666667
+Kansas City,Education,schools,0.745098039216
+Kansas City,City Development,market,0.333333333333
+Kansas City,Recreation,food,1
+Kansas City,Public Transportation,transit,0.9
+Kansas City,Driving and Traffic,parking,0.333333333333
+Kansas City,Social Problem,crime,-1
+Kansas City,City Development,infrastructure,0.636363636364
+Kansas City,Neighborhood,neighborhoods,0.148148148148
+Kansas City,City Development,city limits,-1.03571428571
+Kansas City,Driving and Traffic,traffic,-0.666666666667
+Kansas City,Recreation,parks,0.833333333333
+Kansas City,Driving and Traffic,direction,1
+Kansas City,Culture and Art,culture,0.285714285714
+Columbus,City Development,business,0.0625
+Columbus,Driving and Traffic,drivers,-0.6
+Columbus,Recreation,football,-0.125
+Columbus,Recreation,sports,0.388888888889
+Columbus,Recreation,food,0.934782608696
+Columbus,Recreation,parks,1.01492537313
+Columbus,Neighborhood,neighborhoods,0.364583333333
+Columbus,Recreation,fan,0.0833333333333
+Columbus,City Development,market,0.896103896104
+Columbus,Race/Immigration Discourse,majority,-0.115384615385
+Columbus,Driving and Traffic,direction,0.724137931034
+Columbus,City Development,city limits,-1.12658227848
+Columbus,Recreation,fans,-0.214285714286
+Columbus,Economy and Income,prices,0.592592592593
+Columbus,Education,schools,0.977653631285
+Columbus,Driving and Traffic,traffic,-0.458333333333
+Columbus,Education,school,0.642857142857
+Columbus,Policing,police,-0.285714285714
+Columbus,Economy and Income,economy,0.814814814815
+Columbus,Culture and Art,culture,-0.0232558139535
+Columbus,Social Problem,property crime,-0.846153846154
+Columbus,Public Transportation,transit,0.681818181818
+Columbus,Public Transportation,bus,0.466666666667
+Columbus,Neighborhood,environment,0.833333333333
+Columbus,Driving and Traffic,distance,1
+Columbus,Economy and Income,taxes,0.388888888889
+Columbus,City Development,markets,0.521739130435
+Columbus,Public Transportation,commute,0.56
+Columbus,Driving and Traffic,parking,0.666666666667
+Columbus,Governing,laws,-0.133333333333
+Columbus,Recreation,sport,0.842105263158
+Columbus,Driving and Traffic,driving,-0.380952380952
+Columbus,City Development,development,0.625
+Columbus,Public Transportation,transportation,0.921052631579
+Columbus,City Development,growth,0.538461538462
+Columbus,Neighborhood,resources,0.5625
+Columbus,Public Transportation,light rail,-0.678571428571
+Columbus,Social Problem,crime,-0.8125
+Columbus,Economy and Income,investment,0.645161290323
+Columbus,Policing,speed limit,-1.41860465116
+Columbus,City Development,infrastructure,0.483870967742
+Columbus,Recreation,clubs,0.454545454545
+Columbus,Neighborhood,neighbors,0.4375
+Columbus,City Development,planning,-0.5
+Columbus,Recreation,foods,0.818181818182
+Columbus,Governing,law,-0.636363636364
+Columbus,Neighborhood,residents,0.15
+Cleveland,City Development,market,0.689189189189
+Cleveland,Neighborhood,residents,0.285714285714
+Cleveland,Recreation,food,1.088
+Cleveland,Culture and Art,museum,1
+Cleveland,Recreation,parks,0.955555555556
+Cleveland,Neighborhood,neighborhoods,0.551515151515
+Cleveland,Culture and Art,museums,1.05882352941
+Cleveland,Policing,cops,-0.923076923077
+Cleveland,Social Problem,crime,-0.944444444444
+Cleveland,Education,schools,0.885057471264
+Cleveland,Public Transportation,transit,0.758620689655
+Cleveland,Driving and Traffic,parking,0.62962962963
+Cleveland,Education,school,0.758620689655
+Cleveland,Recreation,fans,-0.166666666667
+Cleveland,Driving and Traffic,traffic,-0.315789473684
+Cleveland,Economy and Income,prices,1
+Cleveland,City Development,city limits,-1.06976744186
+Cleveland,Culture and Art,culture,0.6
+Cleveland,City Development,business,-0.05
+Cleveland,Culture and Art,movie,1
+Cleveland,Economy and Income,investment,0.733333333333
+Cleveland,Public Transportation,commute,0.375
+Cleveland,Social Problem,property crime,-1
+Cleveland,Governing,laws,-0.666666666667
+Cleveland,Neighborhood,environment,1.06666666667
+Cleveland,Policing,speed limit,-1
+Cleveland,City Development,development,0.642857142857
+Cleveland,Public Transportation,transportation,0.666666666667
+Cleveland,Driving and Traffic,drivers,-0.625
+Cleveland,Driving and Traffic,direction,0.818181818182
+Cleveland,City Development,infrastructure,0.5
+Cleveland,City Development,growth,0.357142857143
+Cleveland,Economy and Income,taxes,-0.4
+San Jose,Education,schools,0.607142857143
+San Jose,Public Transportation,transportation,0.916666666667
+San Jose,Neighborhood,residents,0.535714285714
+San Jose,Recreation,food,1.01181102362
+San Jose,Driving and Traffic,drivers,-0.777777777778
+San Jose,City Development,development,0.25
+San Jose,City Development,business,0.454545454545
+San Jose,Social Problem,crime,-0.608695652174
+San Jose,Policing,cops,-0.0588235294118
+San Jose,City Development,city limits,-1
+San Jose,City Development,market,0.631578947368
+San Jose,Driving and Traffic,traffic,-0.266666666667
+San Jose,Neighborhood,neighborhoods,0.487179487179
+San Jose,Culture and Art,culture,0.266666666667
+San Jose,Economy and Income,prices,0
+San Jose,Social Problem,property crime,-1.16666666667
+San Jose,Driving and Traffic,parking,0.481481481481
+San Jose,Recreation,parks,0.857142857143
+San Jose,Public Transportation,commute,0.0454545454545
+San Jose,Public Transportation,transit,0.45
+San Jose,Neighborhood,environment,0.25
+San Jose,Public Transportation,light rail,-0.833333333333
+Nashville,City Development,city limits,-0.972972972973
+Nashville,Driving and Traffic,traffic,-0.575418994413
+Nashville,Economy and Income,prices,0.144329896907
+Nashville,Education,schools,0.964601769912
+Nashville,Neighborhood,neighborhoods,0.456896551724
+Nashville,City Development,markets,0.65
+Nashville,Public Transportation,transit,0.754716981132
+Nashville,Governing,laws,-0.583333333333
+Nashville,Driving and Traffic,direction,0.815789473684
+Nashville,Recreation,food,0.976388888889
+Nashville,Recreation,sports,0.666666666667
+Nashville,Economy and Income,investment,0.685714285714
+Nashville,Governing,government,-0.545454545455
+Nashville,Policing,speed limit,-1.10975609756
+Nashville,Driving and Traffic,parking,0.916666666667
+Nashville,Economy and Income,economy,0.756756756757
+Nashville,City Development,market,0.620689655172
+Nashville,City Development,growth,0.326732673267
+Nashville,Neighborhood,neighbors,0.444444444444
+Nashville,Social Problem,crime,-1
+Nashville,Public Transportation,commute,0.532258064516
+Nashville,Recreation,parks,1.0303030303
+Nashville,Neighborhood,residents,-0.0909090909091
+Nashville,Neighborhood,environment,0.566666666667
+Nashville,City Development,business,0.136363636364
+Nashville,City Development,industry,0.681818181818
+Nashville,Recreation,golf,1.05882352941
+Nashville,Driving and Traffic,distance,0.944444444444
+Nashville,Recreation,clubs,0.928571428571
+Nashville,Driving and Traffic,drivers,-0.861940298507
+Nashville,Economy and Income,salary,0.916666666667
+Nashville,Public Transportation,transit plan,0.277777777778
+Nashville,Public Transportation,transportation,0.836206896552
+Nashville,Public Transportation,commuter rail,-0.884615384615
+Nashville,Governing,mayor,0
+Nashville,Economy and Income,tax,-0.0384615384615
+Nashville,Culture and Art,culture,0.458333333333
+Nashville,City Development,development,-0.121951219512
+Nashville,Public Transportation,light rail,-1.25
+Nashville,City Development,infrastructure,0.575
+Nashville,Governing,policies,0.230769230769
+Nashville,Economy and Income,income,0.866666666667
+Nashville,Race/Immigration Discourse,majority,-0.16
+Nashville,Education,school,0.809523809524
+Nashville,City Development,planning,-0.1
+Nashville,Culture and Art,museum,1
+Nashville,Public Transportation,buses,0.45
+Nashville,Public Transportation,bus,0.789473684211
+Nashville,Education,university,1
+Nashville,Driving and Traffic,driving,-0.82
+Nashville,Governing,law,-0.944444444444
+Nashville,Public Transportation,train,-0.454545454545
+Nashville,City Development,construction,-0.4
+Nashville,Recreation,sport,0.608695652174
+Nashville,Neighborhood,resources,0.238095238095
+Nashville,Culture and Art,concerts,1
+Nashville,Recreation,fans,0.588235294118
+Nashville,Economy and Income,taxes,-0.35
+Nashville,Governing,policy,0.75
+Milwaukee,Public Transportation,commuter rail,-1.11538461538
+Milwaukee,Economy and Income,investment,0.761904761905
+Milwaukee,City Development,growth,0.4
+Milwaukee,Education,schools,0.740740740741
+Milwaukee,Culture and Art,museum,1
+Milwaukee,Recreation,parks,1.05714285714
+Milwaukee,City Development,development,0.357142857143
+Milwaukee,Driving and Traffic,distance,0.875
+Milwaukee,Neighborhood,neighborhoods,0.235294117647
+Milwaukee,Public Transportation,transit,0.909090909091
+Milwaukee,Recreation,food,0.837423312883
+Milwaukee,Policing,speed limit,-1.08333333333
+Milwaukee,Education,school,0.314814814815
+Milwaukee,Culture and Art,culture,0.677419354839
+Milwaukee,City Development,business,0.428571428571
+Milwaukee,Driving and Traffic,driving,-0.88
+Milwaukee,Neighborhood,neighbors,0.666666666667
+Milwaukee,Governing,rules,-0.333333333333
+Milwaukee,Social Problem,crime,-0.875
+Milwaukee,Driving and Traffic,drivers,-1.21428571429
+Milwaukee,Economy and Income,prices,0.53125
+Milwaukee,Economy and Income,economy,0.416666666667
+Milwaukee,City Development,city limits,-1.26086956522
+Milwaukee,Driving and Traffic,parking,0.333333333333
+Milwaukee,Neighborhood,resources,0.0588235294118
+Milwaukee,Neighborhood,environment,0.5
+Milwaukee,Neighborhood,residents,0.142857142857
+Milwaukee,City Development,market,0.611111111111
+Milwaukee,City Development,infrastructure,0.6
+Milwaukee,Driving and Traffic,traffic,-0.777777777778
+Milwaukee,Public Transportation,commute,0.0666666666667
+Milwaukee,Public Transportation,transportation,0.833333333333
+Milwaukee,Driving and Traffic,direction,0.5
+Raleigh,Culture and Art,culture,0.636363636364
+Raleigh,Recreation,food,1.02857142857
+Raleigh,Culture and Art,movies,0.666666666667
+Raleigh,Driving and Traffic,driving,-0.666666666667
+Raleigh,Policing,speed limit,-1.13793103448
+Raleigh,City Development,city limits,-0.96875
+Raleigh,City Development,growth,0.107142857143
+Raleigh,Education,schools,1.01470588235
+Raleigh,Recreation,nightlife,0.769230769231
+Raleigh,Economy and Income,prices,0.566037735849
+Raleigh,Neighborhood,neighborhoods,0.727272727273
+Raleigh,Driving and Traffic,drivers,-1
+Raleigh,Public Transportation,commute,0.2
+Raleigh,Driving and Traffic,traffic,-0.528985507246
+Raleigh,Driving and Traffic,parking,0.621621621622
+Raleigh,City Development,market,0.836734693878
+Raleigh,Governing,laws,-1.09090909091
+Raleigh,Driving and Traffic,distance,0.9
+Raleigh,Neighborhood,environment,0.333333333333
+Raleigh,Education,school,0.854166666667
+Raleigh,Driving and Traffic,direction,0.894736842105
+Raleigh,Economy and Income,investment,0.714285714286
+Raleigh,Public Transportation,light rail,-0.616666666667
+Raleigh,Public Transportation,commuter rail,-1.05357142857
+Raleigh,Culture and Art,museum,1.14285714286
+Raleigh,Recreation,parks,0.96
+Raleigh,City Development,business,0
+Raleigh,City Development,infrastructure,0.333333333333
+Raleigh,Public Transportation,transit,0.827586206897
+Raleigh,Recreation,foods,0.636363636364
+Raleigh,Governing,law,-0.9375
+Raleigh,City Development,planning,-0.0833333333333
+Raleigh,Culture and Art,museums,1.13636363636
+Raleigh,City Development,development,0.40625
+Raleigh,Public Transportation,transportation,0.9
+New Orleans,Driving and Traffic,direction,0.777777777778
+New Orleans,Neighborhood,resources,0.352941176471
+New Orleans,Governing,laws,-0.173913043478
+New Orleans,Recreation,food,0.804964539007
+New Orleans,Neighborhood,environment,0.363636363636
+New Orleans,City Development,market,0.241379310345
+New Orleans,Governing,rules,-0.833333333333
+New Orleans,Neighborhood,neighborhoods,0.448979591837
+New Orleans,City Development,city limits,-1
+New Orleans,Education,schools,0.55
+New Orleans,Culture and Art,culture,0.423076923077
+New Orleans,Education,school,0.666666666667
+New Orleans,Race/Immigration Discourse,majority,-0.5
+New Orleans,City Development,infrastructure,-0.294117647059
+New Orleans,Driving and Traffic,drivers,-1
+New Orleans,Governing,law,-0.6875
+New Orleans,Policing,justice,-0.9375
+New Orleans,Governing,government,-0.2
+New Orleans,Social Problem,crime,-0.967741935484
+New Orleans,Economy and Income,prices,0.15
+New Orleans,Neighborhood,residents,0.0909090909091
+New Orleans,Economy and Income,economy,0.5
+New Orleans,City Development,business,0.142857142857
+New Orleans,Governing,policies,0.454545454545
+New Orleans,Economy and Income,investment,0.454545454545
+New Orleans,Policing,cops,-0.545454545455
+New Orleans,City Development,industry,0.25
+New Orleans,Race/Immigration Discourse,blacks,0.166666666667
+Louisville,Recreation,food,0.817204301075
+Louisville,Economy and Income,prices,0.7
+Louisville,Education,schools,0.632653061224
+Louisville,Driving and Traffic,drivers,-0.948275862069
+Louisville,Policing,speed limit,-1
+Louisville,Driving and Traffic,traffic,-0.52
+Louisville,City Development,market,0.375
+Louisville,Driving and Traffic,direction,0.833333333333
+Louisville,Governing,law,-0.75
+Louisville,City Development,city limits,-0.958333333333
+Louisville,Recreation,parks,1
+Louisville,Education,university,0.333333333333
+Louisville,Recreation,sports,0.916666666667
+Louisville,City Development,business,0.153846153846
+Louisville,Neighborhood,neighborhoods,0.590163934426
+Louisville,Social Problem,crime,-0.555555555556
+Louisville,Public Transportation,transit,0.363636363636
+Louisville,City Development,growth,0.5
+Louisville,Education,school,0.863636363636
+Louisville,Driving and Traffic,driving,-0.727272727273
+Louisville,Neighborhood,residents,0
+Louisville,Driving and Traffic,parking,0.625
+Salt Lake,Culture and Art,culture,0.212121212121
+Salt Lake,Neighborhood,neighborhoods,0.780487804878
+Salt Lake,Recreation,food,1.33684210526
+Salt Lake,Driving and Traffic,traffic,-0.590909090909
+Salt Lake,Recreation,parks,1
+Salt Lake,City Development,infrastructure,0.714285714286
+Salt Lake,Education,school,0.566666666667
+Salt Lake,Education,schools,0.785714285714
+Salt Lake,Neighborhood,neighbors,0.545454545455
+Salt Lake,Economy and Income,prices,0.961538461538
+Salt Lake,City Development,market,0.857142857143
+Salt Lake,City Development,city limits,-1.06666666667
+Salt Lake,Governing,policies,0.5
+Salt Lake,Governing,laws,-1.09090909091
+Salt Lake,Driving and Traffic,drivers,-0.916666666667
+Salt Lake,Public Transportation,transit,0.615384615385
+Salt Lake,Neighborhood,environment,0.5
+Salt Lake,City Development,growth,0.214285714286
+Buffalo,City Development,infrastructure,0.434782608696
+Buffalo,Driving and Traffic,parking,0.903225806452
+Buffalo,Neighborhood,neighbors,0.971428571429
+Buffalo,Culture and Art,movie,0.545454545455
+Buffalo,Social Problem,crime,-1.05714285714
+Buffalo,Education,school,1.13043478261
+Buffalo,City Development,growth,0.6875
+Buffalo,City Development,development,0.0740740740741
+Buffalo,Recreation,food,0.937219730942
+Buffalo,Neighborhood,neighborhoods,0.62426035503
+Buffalo,City Development,city limits,-1
+Buffalo,City Development,business,0.26
+Buffalo,Public Transportation,commute,0.444444444444
+Buffalo,Governing,law,-0.227272727273
+Buffalo,Education,schools,0.811594202899
+Buffalo,Public Transportation,metro rail,-0.911764705882
+Buffalo,Economy and Income,taxes,0.411764705882
+Buffalo,City Development,industry,0.5
+Buffalo,Driving and Traffic,distance,1
+Buffalo,Recreation,parks,0.863636363636
+Buffalo,Driving and Traffic,drivers,-0.416666666667
+Buffalo,Driving and Traffic,traffic,0.25
+Buffalo,Driving and Traffic,driving,-0.833333333333
+Buffalo,Neighborhood,environment,0.636363636364
+Buffalo,Neighborhood,resources,0.5
+Buffalo,Public Transportation,transit,1.05882352941
+Buffalo,City Development,market,0.756756756757
+Buffalo,Culture and Art,culture,0.368421052632
+Buffalo,Neighborhood,residents,0.266666666667
+Buffalo,Culture and Art,concerts,0.75
+Buffalo,Driving and Traffic,direction,0.655172413793
+Buffalo,Public Transportation,transportation,0.85
+Buffalo,Recreation,sports,0.466666666667
+Buffalo,Economy and Income,prices,0.307692307692
+Buffalo,Policing,speed limit,-1.25757575758
+Buffalo,Economy and Income,investment,0.666666666667
+Buffalo,Recreation,nightlife,0.894736842105
+Buffalo,Public Transportation,commuter rail,-1
+Buffalo,Economy and Income,revenue,-0.0833333333333
+Buffalo,Economy and Income,economy,0.608695652174
+Buffalo,Economy and Income,salary,1

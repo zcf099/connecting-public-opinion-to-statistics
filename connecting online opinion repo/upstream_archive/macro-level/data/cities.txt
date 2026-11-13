@@ -1,0 +1,49 @@
+NYC
+Los Angeles
+Chicago
+Dallas
+Houston
+Washington
+Miami
+Philadelphia
+Atlanta
+Phoenix
+Boston
+San Francisco
+Riverside
+Detroit
+Seattle
+Minneapolis
+San Diego
+Tampa
+Denver
+St. Louis
+Baltimore
+Charlotte
+Orlando
+San Antonio
+Portland
+Sacramento
+Pittsburgh
+Las Vegas
+Austin
+Cincinnati
+Kansas City
+Columbus
+Indianapolis
+Cleveland
+San Jose
+Nashville
+Virginia Beach
+Providence
+Milwaukee
+Jacksonville
+Oklahoma City
+Raleigh
+Richmond
+New Orleans
+Louisville
+Salt Lake
+Hartford
+Buffalo
+Birmingham

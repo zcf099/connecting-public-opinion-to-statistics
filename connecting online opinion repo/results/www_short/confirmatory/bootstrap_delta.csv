@@ -1,0 +1,9 @@
+statistic,delta_point,q2.5,q97.5,valid_resamples
+12-domain | Public Transportation,-0.398454422428,-0.935237079111,0.12849158382,2000
+single-domain | Public Transportation | none+log_s,-0.198389210979,-0.562996940129,0.239485528511,2000
+single-domain | Public Transportation | density_income+log_s,-0.3733937486,-0.671680135446,-0.00211655984264,2000
+single-domain | Public Transportation | density_income_shares+log_s,-0.0127255381686,-0.115172456518,0.0948784777828,2000
+12-domain | Driving and Traffic,-0.336400504607,-0.830079443978,0.0750447020772,2000
+single-domain | Driving and Traffic | none+log_s,-0.0185555983765,-0.333798484201,0.251750595032,2000
+single-domain | Driving and Traffic | density_income+log_s,0.0341579706149,-0.218196784703,0.267956066517,2000
+single-domain | Driving and Traffic | density_income_shares+log_s,0.0177194520217,-0.0623040626185,0.0940629883158,2000

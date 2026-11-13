@@ -1,0 +1,4 @@
+scenario,mean_difference,mean_interval_width,covers_0,excludes_0
+"no association, controls set 3 + log s",0.0288160757807,0.962179086972,0.96,0.04
+"composition-driven, controls set 3 + log s",-0.349941964286,0.924808213524,0.625,0.375
+"composition-driven, log s only",-0.386228029569,0.77737024952,0.5,0.5
